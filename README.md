@@ -10,7 +10,7 @@ business intelligence, digital analytics, and data visualization.
 My analytics journey is built around three core areas:
 
 1. **Skills Development Initiative (SDI)** — Primary analytics foundation
-2. **Google Analytics (GA4)** — Digital and marketing analytics
+2. **Google Data Analytics & Advanced Analytics** — Digital and marketing analytics
 3. **Microsoft Data Analyst** — Business intelligence and reporting
 
 ## Core Competencies
@@ -48,7 +48,7 @@ SDI was the foundation of my data analytics journey.
 - Matplotlib
 - Seaborn
 
-## Google Analytics (GA4)
+## Google Data Analytics & Advanced Analytics
 
 My Google Analytics work focuses on user behavior, website performance,
 traffic sources, and conversions.
