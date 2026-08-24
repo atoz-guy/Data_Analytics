@@ -1,194 +1,168 @@
-📊 Data Analytics Portfolio
-Turning Data Into Insights, Visualizations & Business Decisions
+# Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio 👋
 
-This repository showcases my hands-on experience across data analytics, business intelligence, digital analytics, and data visualization.
+This repository showcases my hands-on experience across data analytics,
+business intelligence, digital analytics, and data visualization.
 
-My analytics journey is built around three core learning paths:
+## Analytics Learning Paths
 
-🥇 Skills Development Initiative (SDI)
-🥈 Google Analytics (GA4)
-🥉 Microsoft Data Analyst
+My analytics journey is built around three core areas:
 
-Through these programs and projects, I have worked with data from the initial stages of collection and cleaning through analysis, visualization, dashboard development, and storytelling.
+1. **Skills Development Initiative (SDI)** — Primary analytics foundation
+2. **Google Analytics (GA4)** — Digital and marketing analytics
+3. **Microsoft Data Analyst** — Business intelligence and reporting
 
-👋 About This Portfolio
+## Core Competencies
 
-This repository represents my progression as a data analyst and contains practical work demonstrating how I approach data-driven problems.
+- **Data Analysis:** Exploratory analysis, trend identification, KPI development
+- **Data Preparation:** Cleaning, transformation, validation, and ETL
+- **SQL & Databases:** SQL querying and BigQuery analysis
+- **Data Visualization:** Matplotlib, Seaborn, Power BI, Looker Studio
+- **Business Intelligence:** Power BI, DAX, data modeling
+- **Digital Analytics:** GA4, user behavior, funnels, conversions
 
-I enjoy taking raw or messy datasets and turning them into:
+## Structured Data Insights (SDI)
 
-📊 Meaningful dashboards
-📈 Actionable KPIs
-🔎 Data-driven insights
-🧹 Clean and reliable datasets
-💡 Clear business recommendations
+SDI was the foundation of my data analytics journey.
 
-My approach is:
+### Featured Work
 
-Collect → Clean → Transform → Analyze → Visualize → Communicate
+- ETL pipelines
+- Data cleaning and transformation
+- Schema validation
+- Data quality checks
+- Exploratory Data Analysis (EDA)
+- KPI development
+- Trend analysis
+- Dashboard prototypes
+- Analytical storytelling
 
-🥇 Structured Data Insights (SDI)
-My Primary Analytics Foundation
+### Skills
 
-Structured Data Insights (SDI) was the foundation of my data analytics journey.
+- Python
+- Pandas
+- NumPy
+- SQL
+- Data Modeling
+- Matplotlib
+- Seaborn
 
-This work focuses on the core analytical process of taking structured data, preparing it for analysis, exploring patterns, and communicating findings through visualizations and reports.
+## Google Analytics (GA4)
 
-📌 Featured Work
-ETL pipelines
-Data cleaning and transformation
-Schema validation
-Data quality checks
-Exploratory Data Analysis (EDA)
-KPI development
-Trend analysis
-Dashboard prototypes
-Analytical storytelling
-🛠️ Skills
+My Google Analytics work focuses on user behavior, website performance,
+traffic sources, and conversions.
 
-Python Pandas NumPy SQL Data Modeling Matplotlib Seaborn
+### Featured Work
 
-🥈 Google Analytics (GA4)
-Digital & Marketing Analytics
+- GA4 data extraction
+- BigQuery analysis
+- Event-level analysis
+- User and session analysis
+- Traffic source analysis
+- Funnel analysis
+- Conversion analysis
+- Trend and anomaly detection
+- Marketing KPI reporting
 
-My Google Analytics work focuses on understanding user behavior, website performance, traffic sources, and conversions.
+### Skills
 
-This section demonstrates how analytics can be applied to digital products and marketing performance.
+- Google Analytics 4
+- BigQuery
+- SQL
+- Looker Studio
+- Marketing Analytics
+- KPI Analysis
 
-📌 Featured Work
-GA4 data extraction
-BigQuery analysis
-Event-level analysis
-User and session analysis
-Traffic source analysis
-Funnel analysis
-Conversion analysis
-Trend and anomaly detection
-Marketing KPI reporting
-🛠️ Skills
+## Microsoft Data Analyst
 
-GA4 BigQuery SQL Looker Studio Marketing Analytics KPI Analysis
+The Microsoft Data Analyst learning path strengthened my skills in
+business intelligence, data modeling, dashboard development, and reporting.
 
-🥉 Microsoft Data Analyst
-Business Intelligence & Reporting
+### Featured Work
 
-The Microsoft Data Analyst learning path strengthened my skills in business intelligence, data modeling, dashboard development, and business-focused reporting.
+- Power BI dashboards
+- Data modeling
+- DAX calculations
+- Business KPI reporting
+- Interactive visualizations
+- Report development
+- Data storytelling
+- Stakeholder-focused analysis
 
-This section demonstrates how data can be transformed into interactive reports designed to help stakeholders understand performance and make informed decisions.
+### Skills
 
-📌 Featured Work
-Power BI dashboards
-Data modeling
-DAX calculations
-Business KPI reporting
-Interactive visualizations
-Report development
-Data storytelling
-Stakeholder-focused analysis
-🛠️ Skills
+- Power BI
+- DAX
+- Data Modeling
+- Business Intelligence
+- Data Visualization
 
-Power BI DAX Data Modeling Business Intelligence Data Visualization
+## Technical Skills
 
-🧰 Technical Skills
-Programming & Data
-Skill	Tools
-Programming	Python
-Data Analysis	Pandas, NumPy
-Databases	SQL, BigQuery
-Data Cleaning	Python, Pandas
-Data Modeling	SQL, Power BI
-Visualization & BI
-Area	Tools
-Business Intelligence	Power BI
-Digital Analytics	Google Analytics 4
-Dashboards	Power BI, Looker Studio
-Visualization	Matplotlib, Seaborn
-Notebooks	Jupyter
-📂 Repository Structure
+| Category | Tools |
+|---|---|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Databases | SQL, BigQuery |
+| Visualization | Matplotlib, Seaborn |
+| Business Intelligence | Power BI |
+| Digital Analytics | Google Analytics 4 |
+| Dashboards | Power BI, Looker Studio |
+| Notebooks | Jupyter |
 
-As the portfolio grows, projects will be organized into the following areas:
+## What You'll Find Here
 
-📊 data-analytics-portfolio
-│
-├── 📁 SDI
-│   ├── ETL
-│   ├── Data-Cleaning
-│   ├── EDA
-│   ├── SQL
-│   └── Visualization
-│
-├── 📁 Google-Analytics
-│   ├── GA4
-│   ├── BigQuery
-│   ├── User-Analysis
-│   ├── Funnel-Analysis
-│   └── Marketing-Analytics
-│
-├── 📁 Microsoft-Data-Analyst
-│   ├── Power-BI
-│   ├── DAX
-│   ├── Data-Modeling
-│   └── Business-Intelligence
-│
-└── 📁 Projects
-    ├── Dashboards
-    ├── Case-Studies
-    └── Analysis
-📊 What You'll Find Here
+This portfolio focuses on practical analytics rather than coursework alone.
 
-This portfolio is built around practical analytics rather than just coursework.
+- **Data Analysis:** Identifying patterns, trends, relationships, and anomalies.
+- **Data Preparation:** Cleaning, transforming, and validating datasets.
+- **Visualization:** Communicating complex information through clear visuals.
+- **Dashboard Development:** Building KPI-driven interactive dashboards.
+- **Business Insights:** Translating analysis into actionable recommendations.
 
-🔎 Data Analysis
+## My Analytics Approach
 
-Exploring datasets to identify patterns, trends, relationships, and anomalies.
+I use data to answer four key questions:
 
-🧹 Data Preparation
+1. **What happened?**
+2. **Why did it happen?**
+3. **What is likely to happen next?**
+4. **What actions can we take based on the data?**
 
-Cleaning, transforming, validating, and preparing data for analysis.
+My goal is not simply to create charts or dashboards, but to use data
+to tell a meaningful story and support better decisions.
 
-📈 Visualization
+## Portfolio Projects
 
-Creating clear visualizations that make complex information easier to understand.
+As projects are completed, they will be organized into dedicated
+folders and case studies.
 
-📊 Dashboard Development
+### Featured Projects
 
-Building interactive dashboards that track KPIs and communicate business performance.
+1. **[Project Name](link-to-project)** — Brief description
+2. **[Project Name](link-to-project)** — Brief description
+3. **[Project Name](link-to-project)** — Brief description
 
-💡 Business Insights
+## Portfolio Growth
 
-Translating analytical findings into insights and recommendations that can support decision-making.
-
-🎯 My Analytics Focus
-
-I'm particularly interested in using data to answer questions such as:
-
-What happened?
-
-Why did it happen?
-
-What is likely to happen next?
-
-What actions can we take based on the data?
-
-The goal isn't simply to create charts or dashboards — it's to use data to tell a meaningful story and support better decisions.
-
-🚀 Portfolio Growth
-
-This repository is a work in progress and will continue to grow as I build additional projects and expand my analytics skill set.
+This repository is a work in progress and will continue to grow as I
+develop additional projects and expand my analytics skill set.
 
 Future additions may include:
 
-📊 Advanced Power BI dashboards
-🐍 Python analytics projects
-🗄️ Advanced SQL analysis
-☁️ BigQuery projects
-📈 GA4 case studies
-📋 End-to-end business case studies
-🤖 Automated reporting workflows
-📫 Let's Connect
+- Advanced Power BI dashboards
+- Python analytics projects
+- Advanced SQL analysis
+- BigQuery projects
+- GA4 case studies
+- End-to-end business case studies
+- Automated reporting workflows
 
-I'm always interested in connecting with other data professionals, collaborating on analytics projects, and exploring opportunities to apply data to real-world problems.
+## Let's Connect
+
+I'm always interested in connecting with other data professionals,
+collaborating on analytics projects, and exploring opportunities to
+apply data to real-world problems.
 
 Thanks for visiting my portfolio! ⭐
