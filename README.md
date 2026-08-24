@@ -7,7 +7,7 @@ This repository showcases my hands-on experience across data analytics, business
 
 My analytics journey is built around three core learning paths:
 
-🥇 Structured Data Insights (SDI)
+🥇 Skills Development Initiative (SDI)
 🥈 Google Analytics (GA4)
 🥉 Microsoft Data Analyst
 
