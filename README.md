@@ -1,5 +1,5 @@
-📊 Data Analytics Portfolio
-SDI Bootcamp • Google Analytics • Microsoft Data Analyst
+📊 **Data Analytics Portfolio**
+**SDI Bootcamp • Google Analytics • Microsoft Data Analyst**
 
 Welcome to my Data Analytics Portfolio.
 
