@@ -6,9 +6,7 @@ Introduction
 
 What this session was designed to teach.
 
-## Core Concepts
-
-The major concepts covered.
+## Sessions Slides
 
 ## Data Analysis Workflow
 
