@@ -1,0 +1,2540 @@
+customer_code,gender,birth_date,city_clean,region_name,signup_date,loyalty_tier,email_flag,possible_duplicate
+CUST0000001,Male,2001-07-14,Detroit,Midwest,2022-02-06,Gold,Blank,False
+CUST0000002,Male,1994-08-27,Atlanta,Southeast,2020-12-28,,OK,False
+CUST0000003,Female,1997-04-22,San Francisco,West,2021-03-30,,OK,False
+CUST0000004,,1977-10-14,Philadelphia,Northeast,2023-07-24,Bronze,OK,False
+CUST0000005,Female,1959-01-05,Detroit,Midwest,2021-03-04,,OK,False
+CUST0000006,,1999-08-13,Dallas,Southwest,2024-03-25,Silver,Blank,False
+CUST0000007,Female,1972-06-11,Milwaukee,Midwest,2025-05-19,,OK,False
+CUST0000008,Female,,Newark,Northeast,2023-11-23,Bronze,Blank,False
+CUST0000009,Female,1964-02-18,Atlanta,Southeast,2022-08-14,Platinum,OK,False
+CUST0000010,Female,1977-03-31,Los Angeles,West,2025-05-04,,OK,False
+CUST0000011,Female,1952-03-14,San Antonio,Southwest,2024-08-27,Bronze,OK,False
+CUST0000012,Male,1998-03-03,Philadelphia,Northeast,2025-09-04,Bronze,OK,False
+CUST0000013,Female,1975-12-27,New York,Northeast,2024-05-17,Silver,OK,False
+CUST0000014,Male,1951-07-29,Detroit,Midwest,2021-01-03,,OK,False
+CUST0000015,Female,2003-05-23,Los Angeles,West,2024-03-20,,OK,False
+CUST0000016,Male,1998-01-21,Atlanta,Southeast,2022-01-29,Silver,OK,False
+CUST0000017,Male,2005-08-05,Charlotte,Southeast,2021-08-08,,OK,False
+CUST0000018,Female,1994-04-06,Portland,West,2021-07-28,,OK,False
+CUST0000019,Male,1958-12-11,Detroit,Midwest,2025-11-06,Bronze,OK,False
+CUST0000020,Female,1980-06-30,Las Vegas,West,2025-11-30,,Blank,False
+CUST0000021,Male,1963-05-23,Seattle,West,2025-01-08,,OK,False
+CUST0000022,Male,1977-06-02,Pittsburgh,Northeast,2022-02-09,,OK,False
+CUST0000023,Male,1985-02-22,Denver,Southwest,2025-04-27,,OK,False
+CUST0000024,Female,1955-01-28,Atlanta,Southeast,2025-08-31,Bronze,OK,False
+CUST0000025,Female,1962-12-05,Atlanta,Southeast,2025-03-10,,OK,False
+CUST0000026,Female,1985-10-12,Atlanta,Southeast,2025-04-17,,OK,False
+CUST0000027,Male,1967-08-27,Columbus,Midwest,2020-09-09,,OK,False
+CUST0000028,Female,2003-02-14,Chicago,Midwest,2024-07-24,,OK,False
+CUST0000029,Female,1962-11-28,Orlando,Southeast,2024-06-19,,Invalid,False
+CUST0000030,Male,1997-10-22,Atlanta,Southeast,2021-11-12,Platinum,OK,True
+CUST0000031,Male,1972-10-11,Philadelphia,Northeast,2023-07-04,Silver,OK,False
+CUST0000032,Male,1985-11-26,Boston,Northeast,2025-04-25,,OK,False
+CUST0000033,Female,1958-06-23,Phoenix,Southwest,2021-07-20,,OK,False
+CUST0000034,Female,1989-03-16,Tampa,Southeast,2025-08-26,,OK,False
+CUST0000035,Male,1972-08-29,Milwaukee,Midwest,2023-01-14,Platinum,OK,False
+CUST0000036,Female,1981-05-31,Newark,Northeast,2024-12-29,Gold,OK,False
+CUST0000037,Female,1982-06-17,Miami,Southeast,2021-10-07,,OK,False
+CUST0000038,Male,1991-09-12,St. Louis,Midwest,2025-01-04,,OK,False
+CUST0000039,Female,1984-08-31,Austin,Southwest,2020-06-08,Gold,OK,False
+CUST0000040,Female,2002-03-07,Portland,West,2023-04-16,,OK,False
+CUST0000041,Male,1987-02-19,San Francisco,West,2023-04-19,,OK,False
+CUST0000042,Male,2001-02-03,Denver,Southwest,2024-07-23,Bronze,OK,False
+CUST0000043,Female,2001-07-27,Pittsburgh,Northeast,2022-03-10,Platinum,OK,False
+CUST0000044,Male,1953-03-21,Minneapolis,Midwest,2025-11-25,,OK,False
+CUST0000045,Female,1989-04-26,Houston,Southwest,2024-01-13,,OK,False
+CUST0000046,Female,2004-10-21,Austin,Southwest,2024-08-13,,OK,False
+CUST0000047,,1994-04-13,Los Angeles,West,2022-05-27,,OK,False
+CUST0000048,Female,2003-02-14,New York,Northeast,2024-11-27,,OK,False
+CUST0000049,Female,1998-11-18,New York,Northeast,2024-07-23,Bronze,OK,False
+CUST0000050,Female,1982-12-18,St. Louis,Midwest,2021-02-05,,OK,False
+CUST0000051,,1972-05-30,Charlotte,Southeast,2020-11-03,Silver,OK,False
+CUST0000052,Female,1961-05-15,Minneapolis,Midwest,2024-02-24,,Blank,False
+CUST0000053,Female,1973-03-05,Hartford,Northeast,2020-01-18,Platinum,OK,False
+CUST0000054,Female,2000-04-01,Boston,Northeast,2025-11-27,Bronze,OK,False
+CUST0000055,Male,,Los Angeles,West,2020-01-29,,Blank,False
+CUST0000056,Female,1990-12-09,Chicago,Midwest,2025-01-11,Bronze,OK,False
+CUST0000057,Female,1976-08-16,Portland,West,2022-08-07,,Blank,False
+CUST0000058,Male,1973-10-31,Charlotte,Southeast,2021-09-04,Gold,OK,False
+CUST0000059,Female,1984-02-22,Detroit,Midwest,2022-05-16,,OK,False
+CUST0000060,Female,1975-09-14,St. Louis,Midwest,2024-12-03,,OK,False
+CUST0000061,Female,1998-04-06,Philadelphia,Northeast,2021-10-30,Platinum,OK,True
+CUST0000062,Male,1955-02-03,Phoenix,Southwest,2021-11-30,,OK,False
+CUST0000063,Female,1973-08-25,Columbus,Midwest,2024-07-31,Silver,OK,False
+CUST0000064,Female,1983-01-09,Philadelphia,Northeast,2022-10-09,Bronze,OK,False
+CUST0000065,Male,1951-11-01,Boston,Northeast,2020-05-03,Silver,OK,False
+CUST0000066,Male,2002-07-04,Portland,West,2021-04-29,,OK,False
+CUST0000067,Male,1967-02-15,Chicago,Midwest,2021-02-02,Gold,OK,False
+CUST0000068,Female,1996-08-08,Houston,Southwest,2023-03-27,Silver,OK,False
+CUST0000069,Female,1975-07-13,San Diego,West,2020-03-13,,OK,False
+CUST0000070,Male,1974-11-29,New York,Northeast,2022-05-22,,Blank,False
+CUST0000071,,1951-01-08,Dallas,Southwest,2024-02-11,Silver,OK,False
+CUST0000072,Female,1984-06-11,Phoenix,Southwest,2021-12-17,Silver,OK,False
+CUST0000073,Female,1973-03-11,San Francisco,West,2025-03-15,,OK,False
+CUST0000074,Male,1973-01-03,New York,Northeast,2025-01-15,,OK,False
+CUST0000075,Female,1970-08-07,Philadelphia,Northeast,2024-09-12,Silver,OK,False
+CUST0000076,Female,1971-08-29,Seattle,West,2021-05-01,,OK,False
+CUST0000077,Male,1970-01-01,Milwaukee,Midwest,2024-03-14,,OK,False
+CUST0000078,Female,1989-08-18,San Francisco,West,2021-12-18,,OK,False
+CUST0000079,Female,1994-12-09,Chicago,Midwest,2024-12-10,,OK,False
+CUST0000080,Male,1982-09-07,Tampa,Southeast,2022-06-19,Gold,OK,False
+CUST0000081,Male,,Philadelphia,Northeast,2023-10-06,,OK,False
+CUST0000082,Female,,Columbus,Midwest,2025-10-20,Bronze,OK,False
+CUST0000083,Female,1986-10-29,Phoenix,Southwest,2025-04-26,Silver,OK,False
+CUST0000084,Male,1961-02-22,Pittsburgh,Northeast,2021-05-13,,OK,False
+CUST0000085,Female,1993-07-29,Dallas,Southwest,2021-07-12,Gold,OK,False
+CUST0000086,Male,1956-02-10,Atlanta,Southeast,2025-10-29,,OK,False
+CUST0000087,Male,1984-06-14,San Francisco,West,2024-05-14,,OK,False
+CUST0000088,Male,1955-12-09,Boston,Northeast,2021-09-17,,OK,False
+CUST0000089,Female,1968-02-25,Los Angeles,West,2025-07-31,,OK,False
+CUST0000090,Female,1994-09-28,Minneapolis,Midwest,2021-05-02,,OK,False
+CUST0000091,Female,1992-12-18,New York,Northeast,2022-09-30,Bronze,OK,False
+CUST0000092,Female,1970-09-11,New York,Northeast,2022-08-07,,OK,False
+CUST0000093,Male,1970-06-28,Portland,West,2020-02-20,,OK,False
+CUST0000094,Male,1953-11-05,Nashville,Southeast,2020-04-26,,OK,False
+CUST0000095,Female,1989-12-02,Columbus,Midwest,2023-01-19,,OK,False
+CUST0000096,Male,1977-04-14,Detroit,Midwest,2025-09-21,,OK,False
+CUST0000097,Female,1958-06-14,Milwaukee,Midwest,2023-08-10,,OK,False
+CUST0000098,Male,1954-04-25,Atlanta,Southeast,2025-06-20,,OK,False
+CUST0000099,Male,1988-05-18,Los Angeles,West,2025-05-10,,OK,False
+CUST0000100,,,Houston,Southwest,2021-01-24,,OK,False
+CUST0000101,Male,1959-02-28,Dallas,Southwest,2023-11-30,Silver,OK,False
+CUST0000102,Female,1977-10-20,Pittsburgh,Northeast,2025-05-29,Silver,OK,False
+CUST0000103,Female,1980-12-04,Atlanta,Southeast,2025-07-15,Bronze,OK,False
+CUST0000104,Male,1967-11-24,Orlando,Southeast,2023-01-15,Bronze,OK,False
+CUST0000105,Female,2003-03-20,Houston,Southwest,2023-11-29,,OK,False
+CUST0000106,Male,1985-02-15,Philadelphia,Northeast,2022-05-04,,OK,False
+CUST0000107,Male,1954-06-19,Phoenix,Southwest,2024-02-27,,OK,False
+CUST0000108,Female,1969-12-07,Dallas,Southwest,2020-03-05,,OK,False
+CUST0000109,Female,1955-12-25,Pittsburgh,Northeast,2023-10-26,Platinum,OK,False
+CUST0000110,,1985-12-03,Newark,Northeast,2024-02-15,,OK,False
+CUST0000111,Male,1990-04-03,Boston,Northeast,2025-10-27,Bronze,OK,False
+CUST0000112,,1950-03-27,Tampa,Southeast,2023-04-18,Bronze,OK,False
+CUST0000113,Male,1998-03-26,Los Angeles,West,2021-02-28,,OK,False
+CUST0000114,Male,2001-01-26,Hartford,Northeast,2025-04-22,Bronze,OK,False
+CUST0000115,Female,1995-11-28,Las Vegas,West,2025-11-17,,OK,False
+CUST0000116,Male,1999-02-27,Detroit,Midwest,2021-08-06,Gold,Blank,False
+CUST0000117,Male,1951-07-01,Atlanta,Southeast,2025-10-30,,OK,False
+CUST0000118,Male,1956-10-16,Chicago,Midwest,2024-09-22,,OK,False
+CUST0000119,Female,1953-08-01,San Antonio,Southwest,2022-04-27,,OK,False
+CUST0000120,Male,1958-10-24,Chicago,Midwest,2021-03-18,,OK,False
+CUST0000121,Male,1958-04-08,Dallas,Southwest,2024-10-11,,OK,False
+CUST0000122,Female,1981-12-31,Charlotte,Southeast,2025-11-26,,OK,False
+CUST0000123,Male,1959-12-14,Orlando,Southeast,2025-01-16,Gold,OK,False
+CUST0000124,Male,1964-03-11,Denver,Southwest,2023-09-14,Gold,OK,False
+CUST0000125,Female,1969-06-29,Minneapolis,Midwest,2023-02-22,Silver,OK,False
+CUST0000126,Male,1993-11-28,Atlanta,Southeast,2023-03-31,Silver,Blank,False
+CUST0000127,Female,1964-02-19,Atlanta,Southeast,2025-09-02,,OK,False
+CUST0000128,Male,1995-07-27,Philadelphia,Northeast,2020-01-17,Silver,OK,False
+CUST0000129,Female,1963-12-23,Milwaukee,Midwest,2023-04-12,Bronze,OK,True
+CUST0000130,Female,1954-02-13,Houston,Southwest,2025-06-09,,OK,False
+CUST0000131,Male,1998-12-11,Miami,Southeast,2020-11-08,,OK,False
+CUST0000132,Female,1959-11-27,Seattle,West,2020-03-26,,OK,False
+CUST0000133,Female,1995-01-22,Los Angeles,West,2024-01-13,,OK,False
+CUST0000134,Male,1978-04-04,Minneapolis,Midwest,2024-01-17,,OK,False
+CUST0000135,Female,2004-09-06,Charlotte,Southeast,2023-10-23,Bronze,OK,False
+CUST0000136,,2000-06-29,Pittsburgh,Northeast,2024-08-16,,OK,False
+CUST0000137,Female,1971-10-24,St. Louis,Midwest,2020-10-22,Gold,OK,False
+CUST0000138,Male,1953-04-29,Houston,Southwest,2024-04-24,Silver,OK,False
+CUST0000139,Male,2000-06-03,Seattle,West,2020-11-29,,OK,False
+CUST0000140,Female,1998-04-21,Chicago,Midwest,2023-06-14,Gold,OK,False
+CUST0000141,Male,,Houston,Southwest,2022-05-01,,OK,False
+CUST0000142,Female,1999-08-23,Seattle,West,2023-02-04,Silver,OK,False
+CUST0000143,Male,1986-10-07,Atlanta,Southeast,2024-06-04,,OK,False
+CUST0000144,Male,1961-09-07,Dallas,Southwest,2025-08-31,,OK,False
+CUST0000145,Male,1992-08-30,Hartford,Northeast,2025-07-17,,OK,False
+CUST0000146,Female,1954-01-22,San Francisco,West,2025-01-19,Bronze,OK,False
+CUST0000147,Male,2004-07-30,Tampa,Southeast,2023-11-08,,OK,False
+CUST0000148,Male,1952-07-12,Philadelphia,Northeast,2023-10-20,Silver,OK,False
+CUST0000149,Male,1954-12-14,Orlando,Southeast,2021-04-07,,OK,False
+CUST0000150,Male,1992-09-27,San Francisco,West,2023-04-22,Silver,OK,False
+CUST0000151,Female,2003-01-26,San Antonio,Southwest,2022-05-03,,OK,False
+CUST0000152,Female,1971-09-01,Detroit,Midwest,2021-09-17,,OK,False
+CUST0000153,Male,1997-04-12,New York,Northeast,2025-08-07,Bronze,OK,False
+CUST0000154,Female,1990-10-16,New York,Northeast,2025-06-27,,OK,False
+CUST0000155,Female,,Atlanta,Southeast,2020-04-25,,OK,False
+CUST0000156,Female,1965-05-05,Charlotte,Southeast,2022-02-28,,OK,False
+CUST0000157,Female,2000-05-14,Los Angeles,West,2020-06-20,,Blank,False
+CUST0000158,Male,1997-04-17,Denver,Southwest,2024-05-09,,OK,False
+CUST0000159,Male,1971-03-17,Columbus,Midwest,2025-06-05,,OK,False
+CUST0000160,Male,1974-08-03,Chicago,Midwest,2020-07-24,,OK,False
+CUST0000161,Male,1976-09-02,Houston,Southwest,2023-10-22,Bronze,OK,False
+CUST0000162,Female,2003-07-11,Denver,Southwest,2025-10-03,Silver,OK,False
+CUST0000163,Male,1956-12-25,Los Angeles,West,2023-07-02,,OK,False
+CUST0000164,Female,1999-01-13,Denver,Southwest,2024-01-29,Bronze,OK,False
+CUST0000165,Male,1990-06-13,Tampa,Southeast,2022-09-13,Silver,OK,False
+CUST0000166,Male,1978-04-22,Los Angeles,West,2021-04-30,,OK,False
+CUST0000167,Female,1998-12-27,Chicago,Midwest,2021-02-15,Silver,OK,False
+CUST0000168,Male,,Detroit,Midwest,2024-02-15,Silver,OK,False
+CUST0000169,Female,1992-12-24,Charlotte,Southeast,2023-03-06,,OK,False
+CUST0000170,Male,2002-11-06,Chicago,Midwest,2023-09-23,,OK,False
+CUST0000171,Male,2003-06-22,San Diego,West,2024-02-18,Gold,OK,False
+CUST0000172,,1953-10-03,Houston,Southwest,2020-09-23,Bronze,Blank,False
+CUST0000173,Male,1966-06-05,Hartford,Northeast,2023-11-23,,OK,False
+CUST0000174,Male,1968-11-28,Newark,Northeast,2020-07-20,,OK,False
+CUST0000175,Female,1980-04-07,Philadelphia,Northeast,2020-07-23,,OK,False
+CUST0000176,Male,1993-07-03,Los Angeles,West,2022-04-02,Platinum,OK,False
+CUST0000177,Female,1960-02-09,Houston,Southwest,2024-11-02,Bronze,OK,False
+CUST0000178,Male,1952-06-07,Minneapolis,Midwest,2020-11-24,Silver,OK,False
+CUST0000179,Male,1997-07-23,Las Vegas,West,2024-08-12,,OK,False
+CUST0000180,Male,,Orlando,Southeast,2022-06-02,Silver,OK,False
+CUST0000181,Female,1968-05-03,San Antonio,Southwest,2021-09-29,Bronze,OK,False
+CUST0000182,Male,1965-06-02,Minneapolis,Midwest,2024-04-25,,OK,False
+CUST0000183,Male,1964-08-15,San Antonio,Southwest,2021-09-17,,OK,False
+CUST0000184,Male,1973-01-06,Nashville,Southeast,2022-11-09,,OK,False
+CUST0000185,Female,1975-08-12,San Francisco,West,2024-01-22,Bronze,OK,False
+CUST0000186,Female,1966-03-08,Dallas,Southwest,2024-12-21,,OK,False
+CUST0000187,Female,1973-08-30,Pittsburgh,Northeast,2024-10-11,Silver,OK,False
+CUST0000188,Female,2002-01-13,New York,Northeast,2023-02-17,Silver,OK,False
+CUST0000189,Male,1971-03-28,Seattle,West,2025-08-29,,OK,False
+CUST0000190,Male,1951-02-15,Columbus,Midwest,2022-01-19,,OK,False
+CUST0000191,Male,1985-03-01,Austin,Southwest,2024-05-01,,OK,False
+CUST0000192,Male,1982-08-08,Houston,Southwest,2025-02-18,,OK,False
+CUST0000193,Female,1977-03-18,Los Angeles,West,2020-07-24,Platinum,OK,True
+CUST0000194,Female,1980-10-04,San Diego,West,2020-12-14,,Blank,False
+CUST0000195,,2005-08-13,Milwaukee,Midwest,2022-04-04,,OK,False
+CUST0000196,Male,1994-06-21,Nashville,Southeast,2021-10-02,Platinum,OK,False
+CUST0000197,Female,,Atlanta,Southeast,2022-02-14,Silver,OK,False
+CUST0000198,Female,2003-05-21,Newark,Northeast,2025-02-06,,OK,False
+CUST0000199,Male,,Charlotte,Southeast,2024-02-29,,OK,False
+CUST0000200,Male,1969-08-27,San Antonio,Southwest,2021-09-17,,OK,False
+CUST0000201,Male,1961-01-06,Phoenix,Southwest,2025-04-16,,OK,False
+CUST0000202,Male,1971-08-17,Tampa,Southeast,2020-11-19,,OK,False
+CUST0000203,,1966-07-14,St. Louis,Midwest,2023-09-23,Gold,OK,False
+CUST0000204,Female,1966-05-09,Nashville,Southeast,2025-01-03,,OK,False
+CUST0000205,Female,1988-12-30,San Francisco,West,2024-10-28,,OK,False
+CUST0000206,Female,1965-02-11,Las Vegas,West,2022-05-08,,OK,False
+CUST0000207,Female,1981-05-08,Pittsburgh,Northeast,2024-05-21,Bronze,OK,False
+CUST0000208,Male,1993-12-08,Columbus,Midwest,2020-07-19,,OK,False
+CUST0000209,Female,1997-10-25,New York,Northeast,2025-08-30,Silver,OK,False
+CUST0000210,Male,1989-01-13,Orlando,Southeast,2025-02-26,Silver,OK,False
+CUST0000211,Female,1978-12-24,Seattle,West,2025-06-27,Bronze,OK,False
+CUST0000212,Female,1997-11-06,Columbus,Midwest,2023-12-28,,OK,False
+CUST0000213,Female,1967-01-17,Detroit,Midwest,2023-05-13,,OK,False
+CUST0000214,Male,1952-12-08,Orlando,Southeast,2025-04-02,,OK,False
+CUST0000215,Female,1993-05-22,Dallas,Southwest,2024-09-01,Bronze,OK,False
+CUST0000216,Female,1975-06-24,Philadelphia,Northeast,2023-11-20,Silver,OK,False
+CUST0000217,Female,1950-05-19,Houston,Southwest,2024-06-30,Bronze,OK,True
+CUST0000218,Female,1991-02-08,Chicago,Midwest,2021-07-20,Gold,OK,False
+CUST0000219,Female,1966-10-07,Houston,Southwest,2025-05-24,Gold,OK,False
+CUST0000220,Female,1976-10-26,San Antonio,Southwest,2025-03-21,Bronze,OK,False
+CUST0000221,Female,2001-04-17,Minneapolis,Midwest,2025-10-31,Bronze,OK,False
+CUST0000222,Female,1977-03-22,Chicago,Midwest,2023-09-27,Bronze,OK,False
+CUST0000223,Female,1989-10-22,Chicago,Midwest,2022-06-19,Gold,OK,False
+CUST0000224,Female,2005-01-25,Denver,Southwest,2023-09-02,Gold,OK,False
+CUST0000225,Male,1963-10-11,Pittsburgh,Northeast,2025-06-13,,OK,False
+CUST0000226,Female,1955-07-26,Atlanta,Southeast,2025-04-01,,OK,False
+CUST0000227,Female,1980-09-23,San Francisco,West,2024-11-26,,OK,False
+CUST0000228,Male,1951-09-14,Chicago,Midwest,2021-04-16,Bronze,OK,False
+CUST0000229,Male,2001-03-19,Minneapolis,Midwest,2021-03-28,Silver,OK,False
+CUST0000230,Male,,New York,Northeast,2024-06-22,Bronze,OK,False
+CUST0000231,Female,1953-04-07,Nashville,Southeast,2023-02-09,,OK,False
+CUST0000232,Female,1956-05-23,Orlando,Southeast,2024-05-05,,OK,False
+CUST0000233,Male,2002-12-31,San Francisco,West,2023-10-21,Bronze,OK,False
+CUST0000234,Male,1969-02-19,Los Angeles,West,2025-07-12,,OK,False
+CUST0000235,Female,1977-10-13,Houston,Southwest,2020-06-24,,OK,False
+CUST0000236,,1993-09-08,Pittsburgh,Northeast,2021-03-17,,OK,True
+CUST0000237,Male,1969-02-08,Philadelphia,Northeast,2020-01-08,,OK,True
+CUST0000238,Male,2004-11-16,New York,Northeast,2023-08-08,Silver,OK,False
+CUST0000239,Male,,New York,Northeast,2024-05-03,Gold,OK,False
+CUST0000240,Female,1986-03-20,Los Angeles,West,2020-05-24,,OK,False
+CUST0000241,Female,1985-05-24,St. Louis,Midwest,2024-10-10,,OK,False
+CUST0000242,Male,1978-10-07,New York,Northeast,2024-05-06,Silver,OK,False
+CUST0000243,Male,1999-10-25,Austin,Southwest,2023-09-04,,OK,False
+CUST0000244,Female,2001-08-17,Columbus,Midwest,2024-02-25,,OK,False
+CUST0000245,Female,1999-09-19,Portland,West,2024-07-13,Bronze,OK,False
+CUST0000246,Female,2001-11-23,St. Louis,Midwest,2025-01-04,Gold,OK,False
+CUST0000247,Male,,Los Angeles,West,2022-08-14,,OK,False
+CUST0000248,Male,1976-09-25,Miami,Southeast,2020-12-28,Gold,OK,False
+CUST0000249,Male,1955-10-11,Boston,Northeast,2023-02-21,Silver,OK,False
+CUST0000250,Female,1960-08-14,Minneapolis,Midwest,2025-08-26,,OK,False
+CUST0000251,Female,1983-11-01,Hartford,Northeast,2025-07-03,,OK,False
+CUST0000252,Female,1967-03-29,Dallas,Southwest,2021-06-28,,OK,False
+CUST0000253,Male,1963-12-09,Detroit,Midwest,2023-08-13,Bronze,OK,False
+CUST0000254,Female,,Atlanta,Southeast,2023-05-16,Bronze,Blank,False
+CUST0000255,Male,1972-08-29,San Francisco,West,2025-06-25,,OK,False
+CUST0000256,Female,1980-09-01,Atlanta,Southeast,2021-10-10,,OK,False
+CUST0000257,Male,2005-12-05,Seattle,West,2025-10-26,,OK,False
+CUST0000258,Female,1959-01-03,Detroit,Midwest,2025-09-19,,Blank,False
+CUST0000259,Male,1970-12-15,Los Angeles,West,2024-08-19,Bronze,OK,False
+CUST0000260,,2005-03-24,Atlanta,Southeast,2023-08-05,,OK,False
+CUST0000261,Female,2005-04-15,Los Angeles,West,2025-03-10,,OK,False
+CUST0000262,Female,2004-10-15,St. Louis,Midwest,2021-09-11,Gold,OK,False
+CUST0000263,Female,1976-02-09,Atlanta,Southeast,2020-09-10,Bronze,OK,False
+CUST0000264,Female,1953-02-20,New York,Northeast,2022-03-27,,OK,False
+CUST0000265,Male,1985-11-01,Chicago,Midwest,2023-03-07,Bronze,Blank,False
+CUST0000266,Male,1969-10-24,Atlanta,Southeast,2023-05-17,Silver,OK,False
+CUST0000267,Male,1970-10-17,Chicago,Midwest,2020-10-22,Gold,OK,False
+CUST0000268,Male,2003-02-05,San Francisco,West,2023-02-01,,OK,False
+CUST0000269,Female,1953-08-10,Austin,Southwest,2024-10-20,Bronze,OK,False
+CUST0000270,Male,1971-10-28,Las Vegas,West,2021-06-27,Gold,OK,False
+CUST0000271,Female,2000-04-20,Dallas,Southwest,2025-04-19,,OK,False
+CUST0000272,Female,2000-07-06,Atlanta,Southeast,2024-01-12,,OK,False
+CUST0000273,Male,1966-08-13,Miami,Southeast,2022-09-15,,Blank,False
+CUST0000274,Male,,Atlanta,Southeast,2024-02-25,Bronze,OK,False
+CUST0000275,Male,1950-04-24,Atlanta,Southeast,2023-08-13,,OK,False
+CUST0000276,Female,1998-06-11,Atlanta,Southeast,2024-05-11,Bronze,Blank,False
+CUST0000277,Male,2005-01-19,Phoenix,Southwest,2023-07-19,,OK,False
+CUST0000278,Female,2001-11-18,Pittsburgh,Northeast,2023-11-09,Gold,OK,False
+CUST0000279,Male,1952-03-26,San Antonio,Southwest,2025-08-07,,OK,False
+CUST0000280,Female,1992-10-25,Miami,Southeast,2025-10-31,,OK,False
+CUST0000281,Female,1964-07-14,Austin,Southwest,2022-08-17,Platinum,OK,False
+CUST0000282,Female,1956-07-29,Pittsburgh,Northeast,2024-05-31,Gold,OK,False
+CUST0000283,Female,1954-09-08,Chicago,Midwest,2025-10-01,,OK,False
+CUST0000284,Female,1998-08-03,Minneapolis,Midwest,2022-08-31,Silver,OK,False
+CUST0000285,Male,1999-08-10,Philadelphia,Northeast,2024-04-28,Silver,OK,False
+CUST0000286,Female,1980-04-16,Seattle,West,2024-08-04,,OK,False
+CUST0000287,Female,1991-12-09,Los Angeles,West,2021-03-06,,OK,False
+CUST0000288,Female,1965-03-25,Newark,Northeast,2024-04-26,Gold,OK,False
+CUST0000289,Female,1953-03-31,Boston,Northeast,2024-09-22,,OK,False
+CUST0000290,Female,1950-12-08,Boston,Northeast,2021-09-29,,OK,False
+CUST0000291,Male,1958-12-27,Charlotte,Southeast,2024-06-06,,OK,False
+CUST0000292,Female,1964-08-07,Chicago,Midwest,2025-10-21,Bronze,OK,False
+CUST0000293,Male,1998-03-24,St. Louis,Midwest,2024-09-02,,OK,False
+CUST0000294,Female,1985-02-12,San Antonio,Southwest,2024-08-16,Bronze,OK,False
+CUST0000295,Female,,Detroit,Midwest,2020-06-02,,OK,False
+CUST0000296,Male,1995-07-07,Houston,Southwest,2024-07-01,Bronze,OK,False
+CUST0000297,Female,1990-10-22,Philadelphia,Northeast,2024-09-25,,OK,False
+CUST0000298,Female,1954-11-18,Los Angeles,West,2025-10-11,,OK,False
+CUST0000299,Male,2004-12-27,Minneapolis,Midwest,2025-07-19,Silver,OK,False
+CUST0000300,Female,1979-06-25,Austin,Southwest,2025-09-20,,OK,False
+CUST0000301,Male,1953-03-26,San Diego,West,2024-01-13,,OK,False
+CUST0000302,Male,1990-01-12,Miami,Southeast,2021-04-27,,OK,False
+CUST0000303,Female,1974-04-25,Tampa,Southeast,2020-08-21,,OK,False
+CUST0000304,Female,2002-08-08,Minneapolis,Midwest,2023-12-04,Bronze,Blank,False
+CUST0000305,Male,1979-03-20,Pittsburgh,Northeast,2022-04-10,,OK,False
+CUST0000306,Female,1959-01-08,Las Vegas,West,2020-11-07,,OK,False
+CUST0000307,Female,1951-12-21,Miami,Southeast,2022-05-29,Bronze,OK,False
+CUST0000308,Male,1978-04-19,Milwaukee,Midwest,2024-04-12,,OK,False
+CUST0000309,Female,1978-02-12,Orlando,Southeast,2021-02-26,,OK,False
+CUST0000310,Female,1970-01-04,Chicago,Midwest,2021-11-24,,OK,False
+CUST0000311,Female,1980-03-19,Houston,Southwest,2023-07-25,,OK,False
+CUST0000312,Female,1990-02-25,Detroit,Midwest,2021-10-29,Silver,OK,False
+CUST0000313,Male,1982-07-02,Nashville,Southeast,2025-04-29,Bronze,OK,False
+CUST0000314,Male,1983-09-05,Tampa,Southeast,2022-10-22,,OK,False
+CUST0000315,Male,2004-12-11,Las Vegas,West,2023-03-29,Silver,OK,False
+CUST0000316,Female,1994-09-18,Philadelphia,Northeast,2024-08-11,,OK,False
+CUST0000317,Female,2003-02-02,Houston,Southwest,2024-07-07,Silver,OK,False
+CUST0000318,Female,2001-10-22,Columbus,Midwest,2024-07-21,,Blank,False
+CUST0000319,Male,1980-03-21,Orlando,Southeast,2025-01-29,,OK,False
+CUST0000320,Female,1979-09-04,Columbus,Midwest,2022-12-24,Bronze,Blank,False
+CUST0000321,Female,1969-04-02,Atlanta,Southeast,2023-09-23,,OK,False
+CUST0000322,Male,1971-02-12,Chicago,Midwest,2025-04-23,,Blank,False
+CUST0000323,Female,1999-05-27,Phoenix,Southwest,2024-07-08,Bronze,Invalid,False
+CUST0000324,Male,1989-02-22,Boston,Northeast,2021-12-16,Platinum,OK,False
+CUST0000325,Female,2003-12-22,Columbus,Midwest,2025-03-08,Bronze,Blank,False
+CUST0000326,Female,1977-06-05,Miami,Southeast,2025-01-04,,OK,False
+CUST0000327,Male,1981-08-01,Dallas,Southwest,2022-03-07,Platinum,OK,False
+CUST0000328,Female,1966-04-17,San Francisco,West,2025-04-11,Bronze,OK,False
+CUST0000329,Male,1991-11-08,San Diego,West,2023-05-04,Bronze,OK,False
+CUST0000330,Male,1952-02-29,St. Louis,Midwest,2025-03-18,,OK,False
+CUST0000331,Male,1994-08-04,Boston,Northeast,2024-12-01,,OK,False
+CUST0000332,Male,1988-06-29,Boston,Northeast,2021-05-08,Bronze,OK,False
+CUST0000333,Male,1974-03-22,Detroit,Midwest,2025-06-07,Bronze,OK,False
+CUST0000334,Female,1953-08-19,Pittsburgh,Northeast,2023-02-22,,OK,False
+CUST0000335,Male,2000-09-01,Detroit,Midwest,2025-02-27,Bronze,OK,False
+CUST0000336,Male,1982-12-11,San Francisco,West,2025-11-21,,Blank,False
+CUST0000337,Female,1993-08-29,Houston,Southwest,2023-06-15,Gold,OK,False
+CUST0000338,Male,1992-09-04,Tampa,Southeast,2024-03-12,,Blank,False
+CUST0000339,Male,1976-07-29,Austin,Southwest,2023-03-19,,OK,False
+CUST0000340,Male,1991-01-30,Houston,Southwest,2025-03-07,,OK,False
+CUST0000341,Male,1995-06-24,Pittsburgh,Northeast,2020-04-11,,Blank,False
+CUST0000342,Female,2002-12-22,Phoenix,Southwest,2024-09-19,,OK,False
+CUST0000343,Female,1982-08-18,Denver,Southwest,2025-07-15,Bronze,OK,False
+CUST0000344,Female,,Pittsburgh,Northeast,2025-11-13,Bronze,OK,False
+CUST0000345,Female,1981-09-15,Atlanta,Southeast,2025-11-10,Bronze,OK,False
+CUST0000346,Female,,Austin,Southwest,2021-12-08,,OK,False
+CUST0000347,,1969-01-26,Tampa,Southeast,2020-03-02,,OK,False
+CUST0000348,Female,1986-02-15,Miami,Southeast,2024-05-26,,OK,False
+CUST0000349,Male,1983-03-24,Denver,Southwest,2022-05-21,Silver,OK,False
+CUST0000350,Female,1993-05-27,Charlotte,Southeast,2021-05-02,Silver,OK,False
+CUST0000351,Male,1983-08-20,Portland,West,2022-11-03,Bronze,OK,False
+CUST0000352,Female,1985-12-07,Nashville,Southeast,2020-04-14,Silver,OK,False
+CUST0000353,Male,1968-09-20,New York,Northeast,2024-04-01,Bronze,Blank,False
+CUST0000354,Female,1966-07-26,Atlanta,Southeast,2022-03-05,,OK,False
+CUST0000355,Female,1955-01-10,San Diego,West,2023-08-04,,OK,False
+CUST0000356,Female,1977-08-24,Columbus,Midwest,2025-07-09,,OK,False
+CUST0000357,Male,1998-10-18,Chicago,Midwest,2020-01-24,,OK,False
+CUST0000358,Female,1979-02-22,Austin,Southwest,2021-01-07,Gold,OK,False
+CUST0000359,Male,2003-10-29,Denver,Southwest,2023-09-27,Bronze,OK,False
+CUST0000360,Male,,Minneapolis,Midwest,2024-09-30,Bronze,OK,False
+CUST0000361,Male,2003-08-17,Columbus,Midwest,2020-08-11,Bronze,OK,False
+CUST0000362,Female,1986-10-13,San Francisco,West,2024-03-24,,Blank,False
+CUST0000363,Female,1956-10-23,Hartford,Northeast,2025-05-16,,OK,False
+CUST0000364,Female,1989-03-23,New York,Northeast,2023-10-30,Silver,OK,False
+CUST0000365,Female,1973-04-20,Milwaukee,Midwest,2024-07-14,,OK,False
+CUST0000366,Female,1986-05-07,Los Angeles,West,2022-06-14,Silver,Blank,False
+CUST0000367,Female,2005-01-17,Chicago,Midwest,2021-08-25,Bronze,OK,False
+CUST0000368,Female,1952-04-26,Atlanta,Southeast,2023-11-07,Silver,OK,False
+CUST0000369,Male,1960-12-18,New York,Northeast,2020-07-29,,OK,False
+CUST0000370,Female,1977-07-04,Los Angeles,West,2025-10-12,Bronze,OK,False
+CUST0000371,Female,2005-12-27,Minneapolis,Midwest,2024-09-26,Bronze,OK,False
+CUST0000372,Male,1997-02-14,San Francisco,West,2022-10-17,Gold,OK,False
+CUST0000373,Female,,San Antonio,Southwest,2021-03-06,,Blank,False
+CUST0000374,Male,1989-12-31,Milwaukee,Midwest,2024-06-12,Bronze,OK,False
+CUST0000375,Male,1985-03-18,Tampa,Southeast,2023-11-23,,OK,False
+CUST0000376,Female,1972-08-23,Phoenix,Southwest,2025-05-31,,OK,False
+CUST0000377,Male,1990-06-07,Chicago,Midwest,2020-12-16,,OK,False
+CUST0000378,Female,1950-03-27,Detroit,Midwest,2020-10-26,,Blank,False
+CUST0000379,Male,,San Antonio,Southwest,2021-04-25,,OK,False
+CUST0000380,Female,1962-07-03,Phoenix,Southwest,2020-04-23,,OK,False
+CUST0000381,Male,1985-12-18,New York,Northeast,2024-12-20,,OK,False
+CUST0000382,Female,1977-04-13,Houston,Southwest,2020-12-11,Silver,OK,False
+CUST0000383,Female,1998-09-13,Minneapolis,Midwest,2024-03-06,Bronze,OK,False
+CUST0000384,,1990-01-27,Portland,West,2023-04-01,,OK,False
+CUST0000385,Male,1976-08-09,Philadelphia,Northeast,2020-11-20,,OK,False
+CUST0000386,,1989-12-19,Seattle,West,2025-03-15,Gold,OK,False
+CUST0000387,Female,1964-07-30,Denver,Southwest,2025-07-13,Silver,OK,False
+CUST0000388,Female,1989-12-02,New York,Northeast,2021-01-28,Platinum,OK,False
+CUST0000389,Male,1981-05-19,Charlotte,Southeast,2024-10-04,,OK,False
+CUST0000390,Female,1975-06-02,Philadelphia,Northeast,2021-08-15,,OK,False
+CUST0000391,Male,2004-11-26,Boston,Northeast,2022-05-30,,OK,False
+CUST0000392,Female,1952-12-05,Miami,Southeast,2020-12-12,,OK,False
+CUST0000393,Female,1982-02-24,Houston,Southwest,2024-03-19,Silver,OK,False
+CUST0000394,Male,2005-03-01,San Francisco,West,2023-07-26,,OK,False
+CUST0000395,Male,1953-06-17,San Francisco,West,2021-06-04,Bronze,OK,False
+CUST0000396,Female,1953-07-18,Philadelphia,Northeast,2021-09-04,,OK,False
+CUST0000397,Female,1997-07-09,Miami,Southeast,2024-05-09,,OK,False
+CUST0000398,,1954-01-15,Austin,Southwest,2022-09-09,,OK,False
+CUST0000399,Male,1992-09-30,San Antonio,Southwest,2023-10-16,Bronze,OK,False
+CUST0000400,Female,1967-10-08,New York,Northeast,2021-01-26,,OK,False
+CUST0000401,Female,1964-10-23,Houston,Southwest,2024-08-24,Silver,OK,False
+CUST0000402,Female,1996-12-08,Minneapolis,Midwest,2024-07-27,,OK,True
+CUST0000403,Male,1967-11-14,Boston,Northeast,2025-04-23,Bronze,OK,False
+CUST0000404,Male,1991-05-25,Columbus,Midwest,2024-05-14,,OK,False
+CUST0000405,Male,1965-01-30,Detroit,Midwest,2022-06-13,Bronze,OK,False
+CUST0000406,Female,1955-08-22,Boston,Northeast,2023-03-06,Bronze,OK,False
+CUST0000407,Male,1975-02-07,Columbus,Midwest,2022-12-26,Gold,OK,True
+CUST0000408,Female,1975-11-10,Los Angeles,West,2021-04-01,Bronze,OK,False
+CUST0000409,Female,2002-12-12,Minneapolis,Midwest,2021-09-10,,OK,False
+CUST0000410,Female,1963-09-07,Minneapolis,Midwest,2023-02-02,,OK,False
+CUST0000411,Male,1998-11-28,Detroit,Midwest,2023-08-12,Silver,Blank,False
+CUST0000412,Female,1958-04-22,Philadelphia,Northeast,2025-08-21,,OK,False
+CUST0000413,Female,,Minneapolis,Midwest,2022-04-01,,OK,False
+CUST0000414,Male,1991-05-07,Miami,Southeast,2022-01-19,Gold,OK,False
+CUST0000415,Female,1988-11-21,New York,Northeast,2021-08-03,,OK,False
+CUST0000416,Male,1969-04-03,Philadelphia,Northeast,2025-10-05,,OK,False
+CUST0000417,Male,1972-11-02,New York,Northeast,2025-10-13,Bronze,OK,False
+CUST0000418,Female,1986-05-09,Los Angeles,West,2024-08-09,,OK,False
+CUST0000419,Male,1977-07-22,Seattle,West,2020-09-13,,OK,False
+CUST0000420,Female,1989-02-07,San Francisco,West,2020-03-08,,OK,False
+CUST0000421,Male,,Los Angeles,West,2025-07-05,Bronze,OK,False
+CUST0000422,Male,1999-11-05,San Francisco,West,2024-07-04,,OK,False
+CUST0000423,Female,,San Diego,West,2020-05-11,Bronze,OK,False
+CUST0000424,Female,1958-10-29,Charlotte,Southeast,2025-11-06,,OK,False
+CUST0000425,Male,1990-09-29,Orlando,Southeast,2024-06-20,Gold,OK,False
+CUST0000426,,1996-07-25,Tampa,Southeast,2025-05-21,,OK,False
+CUST0000427,Male,1951-11-10,Los Angeles,West,2025-08-13,,OK,False
+CUST0000428,Male,1975-01-05,Los Angeles,West,2023-09-21,,OK,False
+CUST0000429,Male,1970-09-22,Orlando,Southeast,2024-12-15,Silver,OK,False
+CUST0000430,Male,1960-07-20,Nashville,Southeast,2025-06-29,,OK,False
+CUST0000431,,1953-02-11,Orlando,Southeast,2022-10-21,,OK,False
+CUST0000432,Male,1991-06-07,Dallas,Southwest,2022-11-10,Silver,OK,False
+CUST0000433,Male,2002-01-03,Los Angeles,West,2024-11-18,Bronze,OK,False
+CUST0000434,Female,1960-11-14,Detroit,Midwest,2020-01-16,,OK,False
+CUST0000435,Male,1966-06-22,Atlanta,Southeast,2023-12-18,Bronze,OK,False
+CUST0000436,Female,1998-02-14,Atlanta,Southeast,2024-10-01,Silver,OK,False
+CUST0000437,Female,2002-04-14,Seattle,West,2023-12-17,,Blank,False
+CUST0000438,Female,1992-09-26,Milwaukee,Midwest,2024-08-18,Bronze,OK,False
+CUST0000439,Male,1958-05-28,Milwaukee,Midwest,2025-04-27,Bronze,OK,False
+CUST0000440,Female,1985-12-22,Newark,Northeast,2024-12-03,Silver,OK,False
+CUST0000441,Female,1984-05-06,Los Angeles,West,2025-01-20,,OK,False
+CUST0000442,Male,1962-07-21,Houston,Southwest,2025-06-11,,OK,False
+CUST0000443,Male,1964-04-24,Seattle,West,2024-09-26,Silver,OK,False
+CUST0000444,,1979-11-17,San Diego,West,2025-04-05,,OK,False
+CUST0000445,Male,1951-05-18,New York,Northeast,2025-02-13,,OK,False
+CUST0000446,Female,1971-01-08,Nashville,Southeast,2025-11-26,,OK,False
+CUST0000447,Male,2003-09-20,Tampa,Southeast,2025-08-15,,OK,False
+CUST0000448,Female,1987-06-19,Detroit,Midwest,2024-06-03,Bronze,OK,False
+CUST0000449,Female,1980-10-02,Minneapolis,Midwest,2025-07-15,,OK,False
+CUST0000450,Male,2003-09-07,Chicago,Midwest,2023-01-14,Silver,OK,False
+CUST0000451,Female,1953-12-24,Los Angeles,West,2023-05-05,Platinum,OK,False
+CUST0000452,Male,,Miami,Southeast,2024-05-21,Bronze,OK,False
+CUST0000453,Male,1966-12-14,Philadelphia,Northeast,2025-02-04,Gold,OK,False
+CUST0000454,Female,1988-03-11,Los Angeles,West,2020-05-19,,OK,False
+CUST0000455,Female,1988-08-27,Houston,Southwest,2025-02-15,Platinum,OK,False
+CUST0000456,Female,1962-03-26,Atlanta,Southeast,2020-04-17,,Blank,False
+CUST0000457,Male,,Hartford,Northeast,2025-07-15,,OK,False
+CUST0000458,Female,1978-01-05,Los Angeles,West,2024-05-27,Bronze,OK,False
+CUST0000459,Male,1981-04-07,Detroit,Midwest,2024-04-24,,OK,False
+CUST0000460,Female,1951-07-30,Orlando,Southeast,2025-05-19,Bronze,OK,False
+CUST0000461,Female,1999-09-23,Hartford,Northeast,2023-10-01,Silver,OK,False
+CUST0000462,Male,1969-11-19,Charlotte,Southeast,2025-11-10,,OK,False
+CUST0000463,Male,1982-05-01,Milwaukee,Midwest,2024-02-24,,OK,False
+CUST0000464,Female,1969-10-18,Los Angeles,West,2025-05-29,,Blank,False
+CUST0000465,Male,2002-03-28,Los Angeles,West,2025-10-12,,OK,False
+CUST0000466,Male,1969-08-13,Philadelphia,Northeast,2020-06-19,,OK,False
+CUST0000467,Female,1950-03-11,Minneapolis,Midwest,2020-05-14,Gold,OK,False
+CUST0000468,Male,1988-01-24,Seattle,West,2021-03-27,,OK,False
+CUST0000469,Female,1965-05-26,New York,Northeast,2024-04-05,Gold,OK,False
+CUST0000470,Female,1979-09-12,San Francisco,West,2023-04-19,,OK,False
+CUST0000471,Female,1971-07-24,Minneapolis,Midwest,2022-05-22,,OK,False
+CUST0000472,Male,1987-12-25,Detroit,Midwest,2022-10-05,,OK,False
+CUST0000473,Female,1994-02-21,Chicago,Midwest,2023-11-25,,OK,False
+CUST0000474,Female,1982-01-26,Nashville,Southeast,2024-08-05,Bronze,OK,False
+CUST0000475,,1986-02-03,Los Angeles,West,2025-01-08,Silver,OK,False
+CUST0000476,Male,1969-10-17,Milwaukee,Midwest,2022-03-08,Bronze,OK,False
+CUST0000477,Female,1975-03-29,Minneapolis,Midwest,2023-11-24,Silver,OK,False
+CUST0000478,Male,1952-04-26,Boston,Northeast,2025-08-16,,OK,False
+CUST0000479,Male,1983-03-01,Houston,Southwest,2025-05-20,,OK,False
+CUST0000480,Female,1963-12-31,Philadelphia,Northeast,2024-04-15,,OK,False
+CUST0000481,Female,1993-10-11,Philadelphia,Northeast,2023-10-05,,OK,False
+CUST0000482,Male,1997-07-17,Boston,Northeast,2023-12-21,,OK,False
+CUST0000483,Female,1974-07-02,Atlanta,Southeast,2020-05-03,,OK,False
+CUST0000484,Female,1957-04-14,Minneapolis,Midwest,2025-09-23,,OK,False
+CUST0000485,Male,1983-11-15,San Antonio,Southwest,2025-08-20,,OK,False
+CUST0000486,Female,1963-10-20,Philadelphia,Northeast,2022-09-13,,OK,False
+CUST0000487,Male,2003-08-01,Orlando,Southeast,2023-08-13,Bronze,OK,False
+CUST0000488,Male,2002-06-24,San Antonio,Southwest,2023-03-05,Silver,OK,False
+CUST0000489,Female,1972-08-23,Philadelphia,Northeast,2025-05-26,Bronze,OK,False
+CUST0000490,Female,1954-02-28,Tampa,Southeast,2023-05-13,Bronze,OK,False
+CUST0000491,Male,1999-02-09,Newark,Northeast,2022-09-15,Silver,OK,False
+CUST0000492,Female,1974-06-30,Chicago,Midwest,2024-03-21,Bronze,OK,False
+CUST0000493,Male,1972-06-01,Dallas,Southwest,2021-05-21,,OK,False
+CUST0000494,Female,1978-03-24,Minneapolis,Midwest,2023-10-16,,OK,False
+CUST0000495,Male,1959-01-02,New York,Northeast,2022-07-21,Gold,OK,False
+CUST0000496,Male,1984-11-03,Houston,Southwest,2025-08-10,,OK,False
+CUST0000497,Female,1962-10-02,San Francisco,West,2021-04-14,,OK,False
+CUST0000498,,1965-07-06,Pittsburgh,Northeast,2022-04-10,Gold,OK,False
+CUST0000499,Female,2005-12-03,Atlanta,Southeast,2024-02-18,Bronze,OK,False
+CUST0000500,Male,1965-02-16,Seattle,West,2022-02-17,Silver,OK,False
+CUST0000501,Male,1990-06-24,Denver,Southwest,2021-07-24,Silver,OK,False
+CUST0000502,Male,,Phoenix,Southwest,2024-10-29,Silver,OK,False
+CUST0000503,Male,1952-12-10,New York,Northeast,2024-03-30,Bronze,OK,False
+CUST0000504,Male,1976-09-03,Seattle,West,2020-10-03,,OK,False
+CUST0000505,Male,1989-10-17,Seattle,West,2020-05-05,,OK,False
+CUST0000506,Male,1972-09-16,Portland,West,2024-04-01,Bronze,OK,False
+CUST0000507,Female,1971-03-25,Houston,Southwest,2021-05-29,Gold,OK,False
+CUST0000508,Male,1964-11-01,Seattle,West,2023-05-26,Bronze,OK,False
+CUST0000509,Male,1954-07-18,Chicago,Midwest,2020-04-24,,Blank,False
+CUST0000510,Female,1973-05-13,Los Angeles,West,2023-11-11,Bronze,OK,False
+CUST0000511,Female,1997-12-11,San Francisco,West,2023-11-10,,OK,True
+CUST0000512,Male,1964-12-27,New York,Northeast,2024-01-10,Bronze,OK,False
+CUST0000513,Male,1953-10-03,Dallas,Southwest,2023-04-19,Platinum,OK,False
+CUST0000514,Male,1954-09-04,Atlanta,Southeast,2023-10-08,,OK,False
+CUST0000515,Male,1955-03-22,Columbus,Midwest,2021-09-10,,OK,False
+CUST0000516,Female,1993-10-02,Los Angeles,West,2025-02-03,Silver,OK,False
+CUST0000517,Male,1984-06-14,New York,Northeast,2024-11-17,Gold,OK,False
+CUST0000518,Male,,Las Vegas,West,2025-11-04,,OK,False
+CUST0000519,Male,1957-10-30,Denver,Southwest,2022-12-06,Silver,OK,False
+CUST0000520,Female,1951-01-29,Philadelphia,Northeast,2020-08-22,,OK,False
+CUST0000521,Male,2005-10-01,Charlotte,Southeast,2024-08-29,,OK,False
+CUST0000522,Male,1961-08-04,Milwaukee,Midwest,2021-06-22,,OK,False
+CUST0000523,Female,2005-02-19,Philadelphia,Northeast,2020-11-26,,OK,False
+CUST0000524,Male,1971-09-30,Detroit,Midwest,2023-10-12,,OK,False
+CUST0000525,Male,1999-12-15,Phoenix,Southwest,2024-01-08,Bronze,OK,False
+CUST0000526,Female,2000-09-18,Charlotte,Southeast,2022-10-04,,OK,False
+CUST0000527,Female,1960-11-29,Philadelphia,Northeast,2024-07-01,Bronze,OK,False
+CUST0000528,Male,1974-03-19,Detroit,Midwest,2024-11-15,,OK,False
+CUST0000529,Male,1950-07-22,Los Angeles,West,2024-03-01,Gold,OK,False
+CUST0000530,Female,1960-09-08,Pittsburgh,Northeast,2022-05-19,Gold,OK,False
+CUST0000531,Female,2000-11-21,San Antonio,Southwest,2024-05-14,Bronze,OK,False
+CUST0000532,Male,1992-09-27,Seattle,West,2020-06-06,,OK,False
+CUST0000533,,1972-08-16,Las Vegas,West,2024-04-16,Silver,OK,False
+CUST0000534,Male,1957-12-28,Portland,West,2021-03-01,,OK,False
+CUST0000535,Female,2005-09-01,Minneapolis,Midwest,2020-01-29,,OK,False
+CUST0000536,Male,1980-08-05,Minneapolis,Midwest,2023-07-11,Gold,OK,False
+CUST0000537,Female,2002-11-29,Columbus,Midwest,2025-03-29,Silver,OK,False
+CUST0000538,Female,1950-07-03,San Francisco,West,2022-11-13,,OK,False
+CUST0000539,Male,1963-09-27,Denver,Southwest,2024-07-30,Bronze,Blank,False
+CUST0000540,Male,1962-10-20,Pittsburgh,Northeast,2021-03-15,,OK,False
+CUST0000541,Female,1965-08-19,Detroit,Midwest,2023-11-17,Bronze,OK,False
+CUST0000542,Male,2003-04-01,Los Angeles,West,2024-11-04,Gold,OK,True
+CUST0000543,Male,,Chicago,Midwest,2022-07-27,,OK,False
+CUST0000544,Female,1988-03-14,Chicago,Midwest,2020-03-27,Bronze,OK,False
+CUST0000545,Male,1959-05-03,Dallas,Southwest,2025-06-16,Silver,OK,False
+CUST0000546,Male,1964-12-11,Pittsburgh,Northeast,2022-04-20,Gold,OK,False
+CUST0000547,Male,2005-10-30,Hartford,Northeast,2020-11-02,,OK,False
+CUST0000548,Male,1966-03-07,Dallas,Southwest,2023-12-11,,Blank,False
+CUST0000549,Female,1975-02-27,Atlanta,Southeast,2025-07-23,,OK,False
+CUST0000550,Female,1986-12-08,Seattle,West,2022-01-27,Gold,OK,False
+CUST0000551,Female,1994-10-19,New York,Northeast,2024-09-06,Silver,OK,False
+CUST0000552,Female,1960-06-15,Chicago,Midwest,2025-08-23,,OK,False
+CUST0000553,Female,1974-10-21,Nashville,Southeast,2023-02-09,,OK,False
+CUST0000554,Female,1997-01-14,Pittsburgh,Northeast,2023-08-28,Silver,OK,False
+CUST0000555,Male,2001-06-15,Philadelphia,Northeast,2023-08-11,,OK,False
+CUST0000556,Male,1973-07-20,Detroit,Midwest,2023-04-04,Bronze,OK,False
+CUST0000557,Male,1959-01-09,San Francisco,West,2024-04-11,Gold,OK,False
+CUST0000558,Male,1981-08-31,Tampa,Southeast,2025-06-24,,OK,False
+CUST0000559,Female,1970-02-07,St. Louis,Midwest,2025-01-21,Bronze,OK,False
+CUST0000560,Female,1968-06-06,Phoenix,Southwest,2025-07-03,Bronze,OK,False
+CUST0000561,Female,1992-12-14,Pittsburgh,Northeast,2025-09-15,,Invalid,False
+CUST0000562,Female,1994-02-05,Phoenix,Southwest,2024-02-11,Bronze,OK,False
+CUST0000563,Female,1990-05-23,Miami,Southeast,2025-08-23,,Blank,False
+CUST0000564,Male,1965-10-11,Denver,Southwest,2023-08-03,Bronze,OK,False
+CUST0000565,Female,1952-07-21,Detroit,Midwest,2021-10-24,Gold,Blank,False
+CUST0000566,Female,1951-11-12,Miami,Southeast,2024-12-08,,OK,False
+CUST0000567,Female,1960-03-01,Atlanta,Southeast,2024-11-16,Silver,OK,False
+CUST0000568,Female,1986-12-22,Houston,Southwest,2025-06-17,,OK,False
+CUST0000569,,1997-11-23,Chicago,Midwest,2022-08-20,Gold,OK,False
+CUST0000570,Male,2002-11-16,Miami,Southeast,2021-04-08,Bronze,OK,False
+CUST0000571,Male,1971-10-29,Seattle,West,2024-03-29,Bronze,OK,False
+CUST0000572,Male,1961-01-25,San Diego,West,2021-09-27,Gold,OK,False
+CUST0000573,Male,1975-07-12,Phoenix,Southwest,2022-02-16,Gold,OK,False
+CUST0000574,Female,1960-08-06,Los Angeles,West,2023-11-05,Silver,OK,False
+CUST0000575,,1953-09-05,Minneapolis,Midwest,2022-05-08,,OK,False
+CUST0000576,Female,1981-04-24,Philadelphia,Northeast,2022-11-14,Gold,OK,False
+CUST0000577,Male,1968-06-21,Portland,West,2024-07-29,Gold,OK,False
+CUST0000578,Male,1981-04-30,Detroit,Midwest,2023-11-03,,OK,False
+CUST0000579,Female,1973-01-05,Atlanta,Southeast,2025-08-31,,OK,False
+CUST0000580,Female,1963-01-08,Austin,Southwest,2023-06-06,Bronze,OK,False
+CUST0000581,,1958-03-06,New York,Northeast,2025-05-20,Silver,OK,False
+CUST0000582,Male,1971-05-29,Philadelphia,Northeast,2022-05-11,,OK,False
+CUST0000583,Male,1958-01-15,Orlando,Southeast,2025-11-09,,OK,False
+CUST0000584,Male,1970-07-31,San Diego,West,2020-08-13,,OK,False
+CUST0000585,Female,1952-11-09,San Francisco,West,2024-09-30,,OK,False
+CUST0000586,,1998-06-15,New York,Northeast,2025-08-10,,OK,False
+CUST0000587,Female,1981-06-05,Seattle,West,2022-12-01,,OK,False
+CUST0000588,Male,1969-07-27,San Diego,West,2025-06-05,,OK,False
+CUST0000589,Female,1953-07-19,Austin,Southwest,2020-10-03,,OK,False
+CUST0000590,,1976-03-13,Charlotte,Southeast,2023-09-21,Gold,OK,False
+CUST0000591,Female,1991-12-27,New York,Northeast,2022-06-13,,OK,False
+CUST0000592,Male,1959-03-23,Philadelphia,Northeast,2021-07-22,,OK,False
+CUST0000593,Female,1985-06-09,New York,Northeast,2023-06-17,Bronze,OK,False
+CUST0000594,Male,1950-05-17,Miami,Southeast,2024-11-14,,OK,False
+CUST0000595,Male,1997-04-26,Detroit,Midwest,2024-06-29,Silver,OK,False
+CUST0000596,Male,1990-03-14,Portland,West,2024-06-07,,Blank,False
+CUST0000597,Male,1974-01-13,Newark,Northeast,2021-08-20,,OK,False
+CUST0000598,Male,1983-02-08,Boston,Northeast,2020-01-27,,OK,False
+CUST0000599,Female,1991-05-12,Miami,Southeast,2021-06-02,,OK,False
+CUST0000600,Male,1972-11-24,Philadelphia,Northeast,2021-09-02,,Blank,False
+CUST0000601,Female,1974-05-12,Minneapolis,Midwest,2021-02-04,,OK,False
+CUST0000602,Female,1995-08-31,Milwaukee,Midwest,2024-10-26,Bronze,OK,False
+CUST0000603,Female,1956-04-17,Austin,Southwest,2022-11-01,Silver,OK,False
+CUST0000604,Male,1956-10-08,San Diego,West,2022-11-07,,OK,False
+CUST0000605,Male,1954-04-23,Hartford,Northeast,2023-12-01,Silver,OK,False
+CUST0000606,Male,1965-04-14,Atlanta,Southeast,2023-09-09,,OK,False
+CUST0000607,Male,1984-08-07,San Diego,West,2025-11-08,,OK,False
+CUST0000608,Female,1972-02-08,Dallas,Southwest,2022-08-01,Bronze,OK,False
+CUST0000609,Female,1961-06-10,Seattle,West,2022-09-22,Bronze,OK,False
+CUST0000610,Male,1998-10-09,Columbus,Midwest,2024-01-27,Silver,OK,False
+CUST0000611,Male,1958-12-25,Atlanta,Southeast,2020-10-18,Bronze,OK,False
+CUST0000612,Male,1999-06-27,Portland,West,2024-04-25,Silver,OK,False
+CUST0000613,Male,1974-02-01,Houston,Southwest,2025-05-20,,OK,False
+CUST0000614,Female,1998-03-24,Pittsburgh,Northeast,2024-10-03,,OK,False
+CUST0000615,Male,1981-12-20,Minneapolis,Midwest,2024-09-24,,OK,False
+CUST0000616,Male,1993-09-16,Dallas,Southwest,2021-10-18,Gold,OK,False
+CUST0000617,Female,,Chicago,Midwest,2021-10-30,,OK,False
+CUST0000618,Female,1962-05-07,Atlanta,Southeast,2020-03-07,,OK,False
+CUST0000619,Female,1958-11-27,Miami,Southeast,2025-09-08,Silver,Blank,False
+CUST0000620,Female,1997-03-12,Houston,Southwest,2025-11-03,,OK,False
+CUST0000621,Male,2004-09-10,Atlanta,Southeast,2025-02-16,,OK,False
+CUST0000622,Female,1957-02-01,Philadelphia,Northeast,2021-01-04,,OK,False
+CUST0000623,Male,2004-09-13,Chicago,Midwest,2023-03-27,Platinum,OK,False
+CUST0000624,Male,1978-08-13,San Francisco,West,2024-06-27,Bronze,OK,False
+CUST0000625,Female,1964-01-13,Detroit,Midwest,2024-05-28,,OK,False
+CUST0000626,Male,2003-09-26,Atlanta,Southeast,2025-03-10,,OK,False
+CUST0000627,,1984-12-14,Newark,Northeast,2024-08-22,,OK,False
+CUST0000628,Male,1991-02-22,St. Louis,Midwest,2023-04-03,,OK,False
+CUST0000629,Female,,Nashville,Southeast,2025-11-14,,OK,False
+CUST0000630,,,San Francisco,West,2023-02-18,,OK,False
+CUST0000631,Male,1956-11-19,Newark,Northeast,2023-01-15,,OK,False
+CUST0000632,Male,1984-07-21,Chicago,Midwest,2023-10-12,Bronze,OK,False
+CUST0000633,Male,1968-06-22,Minneapolis,Midwest,2025-04-25,,OK,False
+CUST0000634,Female,1971-08-10,Boston,Northeast,2025-11-11,,OK,False
+CUST0000635,Female,1976-01-28,New York,Northeast,2020-05-10,,OK,False
+CUST0000636,Male,1984-08-23,Austin,Southwest,2020-08-05,,OK,False
+CUST0000637,Female,1956-07-08,Charlotte,Southeast,2024-05-09,Silver,OK,False
+CUST0000638,Female,1975-06-05,Detroit,Midwest,2023-10-11,Bronze,OK,False
+CUST0000639,Male,2000-03-25,Los Angeles,West,2025-01-20,,OK,False
+CUST0000640,Female,1960-03-22,Boston,Northeast,2020-03-06,Gold,Blank,False
+CUST0000641,Male,1985-04-14,Newark,Northeast,2020-06-13,,OK,False
+CUST0000642,Female,1970-08-12,Miami,Southeast,2024-04-14,,OK,False
+CUST0000643,Female,,Dallas,Southwest,2024-08-22,Bronze,OK,False
+CUST0000644,Female,1966-04-13,New York,Northeast,2020-03-23,Platinum,OK,False
+CUST0000645,Male,1975-11-05,San Diego,West,2025-02-23,,OK,False
+CUST0000646,,2004-07-19,Boston,Northeast,2024-05-20,Silver,OK,False
+CUST0000647,Female,1958-01-29,Nashville,Southeast,2023-10-21,,OK,False
+CUST0000648,Male,1999-07-30,Chicago,Midwest,2024-12-02,,OK,False
+CUST0000649,Male,1983-02-14,Columbus,Midwest,2024-04-02,,OK,False
+CUST0000650,Female,1986-06-28,Austin,Southwest,2025-07-14,Bronze,OK,False
+CUST0000651,Male,1971-09-09,Minneapolis,Midwest,2025-09-26,,OK,False
+CUST0000652,Male,1958-12-12,Boston,Northeast,2024-01-11,Silver,OK,False
+CUST0000653,Male,1973-11-09,Las Vegas,West,2024-10-31,Bronze,OK,False
+CUST0000654,Male,1964-02-25,Phoenix,Southwest,2024-03-19,,OK,False
+CUST0000655,Female,1984-07-03,New York,Northeast,2021-01-02,,OK,False
+CUST0000656,Female,1981-08-08,Newark,Northeast,2021-10-03,Gold,OK,False
+CUST0000657,Male,1954-12-17,Milwaukee,Midwest,2025-01-19,,OK,False
+CUST0000658,Female,1993-10-07,Nashville,Southeast,2021-12-30,,OK,False
+CUST0000659,Male,1996-01-19,San Francisco,West,2025-06-07,,OK,False
+CUST0000660,Male,1992-06-01,Minneapolis,Midwest,2024-07-27,,OK,False
+CUST0000661,Female,1969-05-23,Boston,Northeast,2023-08-08,Gold,OK,False
+CUST0000662,Female,1980-08-19,Tampa,Southeast,2023-02-24,Platinum,OK,False
+CUST0000663,Female,,Hartford,Northeast,2023-08-30,Silver,OK,False
+CUST0000664,Male,1972-06-05,Philadelphia,Northeast,2021-08-16,,OK,False
+CUST0000665,Female,1958-11-08,Houston,Southwest,2024-07-24,Bronze,OK,False
+CUST0000666,Male,,Phoenix,Southwest,2024-12-17,,OK,False
+CUST0000667,Female,1972-04-28,Houston,Southwest,2022-08-19,,OK,False
+CUST0000668,Male,1986-01-31,Orlando,Southeast,2024-07-25,,OK,False
+CUST0000669,Female,,Portland,West,2024-06-11,Gold,OK,False
+CUST0000670,Female,1954-04-11,San Francisco,West,2022-02-15,,OK,False
+CUST0000671,Female,2000-07-29,Detroit,Midwest,2025-07-07,Bronze,OK,False
+CUST0000672,Female,2004-10-27,Boston,Northeast,2023-06-01,Gold,OK,False
+CUST0000673,Female,1995-11-19,Detroit,Midwest,2023-05-24,Silver,OK,False
+CUST0000674,Female,1992-12-06,San Antonio,Southwest,2021-08-26,,OK,False
+CUST0000675,Male,2005-01-08,Columbus,Midwest,2024-10-22,,OK,False
+CUST0000676,Female,1995-10-07,New York,Northeast,2022-12-05,Platinum,OK,False
+CUST0000677,Male,1967-05-21,Austin,Southwest,2023-11-29,Bronze,OK,False
+CUST0000678,Female,1998-11-18,Houston,Southwest,2025-06-24,Bronze,OK,False
+CUST0000679,Male,,New York,Northeast,2020-07-12,,OK,False
+CUST0000680,Female,1994-03-24,Philadelphia,Northeast,2023-07-10,Platinum,OK,False
+CUST0000681,Male,,Orlando,Southeast,2023-06-03,,OK,False
+CUST0000682,Female,1985-04-09,San Francisco,West,2025-10-23,Gold,OK,False
+CUST0000683,Male,1983-01-27,Atlanta,Southeast,2022-05-23,Bronze,OK,False
+CUST0000684,Female,2002-06-12,Denver,Southwest,2023-06-03,Silver,OK,False
+CUST0000685,,1979-06-01,Los Angeles,West,2025-07-26,Bronze,OK,False
+CUST0000686,Male,1992-08-16,Dallas,Southwest,2025-04-05,Bronze,Blank,False
+CUST0000687,Female,1966-09-10,Houston,Southwest,2021-08-23,,OK,False
+CUST0000688,Female,1952-03-21,Tampa,Southeast,2024-12-30,Gold,Blank,False
+CUST0000689,Male,1969-06-10,Newark,Northeast,2025-08-24,,OK,False
+CUST0000690,Male,1987-05-08,Boston,Northeast,2024-10-28,Bronze,OK,False
+CUST0000691,Female,1982-02-15,Las Vegas,West,2024-09-09,,OK,False
+CUST0000692,Female,,Dallas,Southwest,2020-03-03,Gold,OK,False
+CUST0000693,Male,1972-11-21,Newark,Northeast,2024-02-04,,OK,False
+CUST0000694,Female,1993-08-25,St. Louis,Midwest,2025-02-03,Silver,OK,False
+CUST0000695,Female,1960-10-30,Atlanta,Southeast,2024-01-12,Bronze,OK,False
+CUST0000696,Female,1985-08-30,Portland,West,2023-06-06,Bronze,Blank,False
+CUST0000697,Female,1993-04-17,Miami,Southeast,2025-07-30,Gold,OK,False
+CUST0000698,Male,1995-10-10,Houston,Southwest,2025-08-07,Bronze,Blank,False
+CUST0000699,Male,1992-07-23,Houston,Southwest,2025-11-29,,OK,False
+CUST0000700,Female,,Charlotte,Southeast,2021-09-09,,OK,False
+CUST0000701,Female,1985-09-22,Miami,Southeast,2025-11-28,,Blank,False
+CUST0000702,Male,1988-10-09,Orlando,Southeast,2023-02-26,,OK,False
+CUST0000703,Male,1991-03-11,Atlanta,Southeast,2023-12-29,Bronze,OK,False
+CUST0000704,Male,1961-09-04,Philadelphia,Northeast,2020-03-10,,OK,False
+CUST0000705,Male,1997-02-16,Chicago,Midwest,2023-04-17,,Blank,False
+CUST0000706,Female,1956-04-09,Seattle,West,2020-06-18,,OK,False
+CUST0000707,Female,1969-05-10,Atlanta,Southeast,2022-12-08,Bronze,OK,False
+CUST0000708,Female,1969-05-23,Orlando,Southeast,2025-05-01,Bronze,OK,False
+CUST0000709,Female,1994-11-15,Austin,Southwest,2021-10-24,Gold,OK,True
+CUST0000710,,,Seattle,West,2021-03-20,,OK,False
+CUST0000711,Male,1963-05-05,Las Vegas,West,2023-08-27,Gold,OK,False
+CUST0000712,Male,1995-03-30,Las Vegas,West,2024-07-27,,OK,False
+CUST0000713,Female,1955-11-09,Denver,Southwest,2025-06-25,Bronze,OK,False
+CUST0000714,Female,2002-12-22,San Diego,West,2023-05-13,,OK,False
+CUST0000715,Male,1958-12-02,Pittsburgh,Northeast,2025-04-23,,Invalid,False
+CUST0000716,Female,1967-07-24,Boston,Northeast,2025-04-27,,OK,False
+CUST0000717,Female,1968-12-10,Columbus,Midwest,2023-10-05,,OK,False
+CUST0000718,Male,1986-08-01,Los Angeles,West,2021-03-29,Bronze,OK,False
+CUST0000719,Male,1995-09-11,San Antonio,Southwest,2025-11-06,,OK,False
+CUST0000720,Female,,Miami,Southeast,2025-11-06,,OK,False
+CUST0000721,Male,2005-04-04,Seattle,West,2025-06-08,Silver,OK,False
+CUST0000722,Female,1986-10-17,Austin,Southwest,2023-10-09,Bronze,OK,False
+CUST0000723,Female,,Atlanta,Southeast,2021-09-25,,Blank,False
+CUST0000724,Male,1994-10-04,Atlanta,Southeast,2024-02-27,,OK,False
+CUST0000725,Male,1984-10-19,Charlotte,Southeast,2020-03-21,,OK,False
+CUST0000726,Female,1964-08-12,San Diego,West,2025-07-21,,OK,False
+CUST0000727,Female,1998-10-29,Houston,Southwest,2025-10-27,,OK,False
+CUST0000728,Female,,Charlotte,Southeast,2023-05-09,Bronze,OK,False
+CUST0000729,Male,1984-12-05,Los Angeles,West,2023-11-06,Bronze,OK,False
+CUST0000730,Male,2003-06-19,Tampa,Southeast,2025-07-31,,OK,False
+CUST0000731,Male,1964-05-13,Orlando,Southeast,2025-07-20,,OK,False
+CUST0000732,Female,1994-12-04,St. Louis,Midwest,2024-02-18,,OK,False
+CUST0000733,Female,1967-03-08,Philadelphia,Northeast,2022-01-24,,OK,False
+CUST0000734,Female,1968-06-04,Chicago,Midwest,2024-09-29,Bronze,OK,False
+CUST0000735,Male,1991-11-19,Detroit,Midwest,2023-06-10,,OK,False
+CUST0000736,Male,1956-03-08,San Diego,West,2024-12-23,,OK,False
+CUST0000737,,1968-08-02,Dallas,Southwest,2023-11-15,Bronze,Blank,False
+CUST0000738,Male,1957-10-23,Houston,Southwest,2024-10-05,Bronze,OK,False
+CUST0000739,Male,1987-08-25,Detroit,Midwest,2025-09-07,,Blank,False
+CUST0000740,Male,1969-01-02,Columbus,Midwest,2025-11-02,,OK,False
+CUST0000741,,1969-07-11,New York,Northeast,2024-02-02,Silver,OK,False
+CUST0000742,Male,1988-03-03,Detroit,Midwest,2024-04-30,Bronze,OK,False
+CUST0000743,Male,1955-08-31,Philadelphia,Northeast,2023-05-12,Gold,OK,False
+CUST0000744,,1978-09-21,Denver,Southwest,2020-02-20,,OK,False
+CUST0000745,Female,1986-06-10,Dallas,Southwest,2022-08-06,Platinum,OK,False
+CUST0000746,Male,1954-05-21,New York,Northeast,2020-10-03,Gold,OK,False
+CUST0000747,Female,1979-11-21,Phoenix,Southwest,2023-09-28,Platinum,Blank,False
+CUST0000748,Female,1963-08-30,Austin,Southwest,2025-02-26,,OK,False
+CUST0000749,Female,1986-03-11,Newark,Northeast,2023-04-03,,OK,False
+CUST0000750,Male,1958-03-05,Minneapolis,Midwest,2025-09-17,Bronze,OK,False
+CUST0000751,Male,,Atlanta,Southeast,2025-07-11,Bronze,OK,False
+CUST0000752,Female,1954-12-10,San Francisco,West,2025-10-12,Bronze,OK,False
+CUST0000753,Male,1997-12-12,Newark,Northeast,2024-09-05,Gold,OK,False
+CUST0000754,Female,1995-06-08,Pittsburgh,Northeast,2024-04-24,Bronze,OK,False
+CUST0000755,,1980-07-27,Detroit,Midwest,2025-07-05,Bronze,OK,False
+CUST0000756,Male,1996-01-11,San Francisco,West,2023-09-07,Gold,OK,False
+CUST0000757,Female,2002-01-18,Pittsburgh,Northeast,2025-05-08,,OK,False
+CUST0000758,Male,1993-12-28,Chicago,Midwest,2025-10-21,Bronze,OK,False
+CUST0000759,Male,1980-01-25,Houston,Southwest,2023-07-11,Gold,OK,False
+CUST0000760,Male,1998-01-31,Los Angeles,West,2024-10-21,,OK,False
+CUST0000761,Female,1971-08-05,Orlando,Southeast,2020-04-02,,OK,False
+CUST0000762,Female,1950-06-11,Phoenix,Southwest,2020-08-18,,OK,False
+CUST0000763,Female,1999-04-11,Houston,Southwest,2023-11-09,,OK,False
+CUST0000764,Female,1982-12-22,Philadelphia,Northeast,2024-12-20,,OK,False
+CUST0000765,Male,1974-07-04,Pittsburgh,Northeast,2025-07-03,Silver,OK,False
+CUST0000766,Female,1985-10-18,Chicago,Midwest,2022-07-25,,OK,False
+CUST0000767,Female,1989-01-25,Detroit,Midwest,2025-08-24,,OK,False
+CUST0000768,Male,1950-01-11,Phoenix,Southwest,2023-02-13,,OK,False
+CUST0000769,Female,1968-01-04,San Antonio,Southwest,2020-04-29,,OK,False
+CUST0000770,Female,1964-07-08,Atlanta,Southeast,2023-07-13,Gold,OK,False
+CUST0000771,Female,1995-06-06,San Francisco,West,2024-12-28,Bronze,OK,False
+CUST0000772,Female,1982-09-10,Phoenix,Southwest,2024-05-29,,OK,False
+CUST0000773,Female,1972-08-04,Orlando,Southeast,2024-03-23,,OK,False
+CUST0000774,Male,1974-04-17,Newark,Northeast,2024-03-09,Gold,OK,False
+CUST0000775,Male,2003-02-18,Detroit,Midwest,2025-03-22,Bronze,OK,False
+CUST0000776,Female,1995-07-19,Pittsburgh,Northeast,2023-11-10,Silver,OK,False
+CUST0000777,Female,1982-04-10,New York,Northeast,2021-05-04,,OK,False
+CUST0000778,Male,1953-02-16,New York,Northeast,2023-04-07,Silver,OK,False
+CUST0000779,Female,1952-06-21,Miami,Southeast,2022-06-11,Gold,OK,False
+CUST0000780,Male,,San Diego,West,2024-06-25,Bronze,OK,False
+CUST0000781,Female,1994-04-20,Los Angeles,West,2020-03-31,Gold,OK,False
+CUST0000782,Female,1977-06-20,Orlando,Southeast,2020-08-20,,OK,False
+CUST0000783,Female,1986-09-02,San Francisco,West,2023-07-07,,OK,False
+CUST0000784,Female,1954-05-21,Los Angeles,West,2024-09-15,,OK,False
+CUST0000785,Female,,Detroit,Midwest,2022-02-06,Silver,OK,False
+CUST0000786,Female,1951-08-20,Houston,Southwest,2021-07-18,Platinum,OK,False
+CUST0000787,Female,1986-04-26,Boston,Northeast,2025-10-09,Bronze,Invalid,False
+CUST0000788,Female,1969-10-20,Seattle,West,2020-05-26,Silver,OK,False
+CUST0000789,Female,1956-12-23,Philadelphia,Northeast,2020-03-18,Gold,OK,False
+CUST0000790,Male,1983-06-23,Minneapolis,Midwest,2025-04-23,Bronze,OK,False
+CUST0000791,Male,1968-06-09,Nashville,Southeast,2023-07-11,Bronze,OK,False
+CUST0000792,Male,2004-02-19,Pittsburgh,Northeast,2022-03-03,Gold,OK,False
+CUST0000793,Male,1954-12-28,Los Angeles,West,2023-04-20,Bronze,OK,False
+CUST0000794,,1982-10-20,Detroit,Midwest,2025-06-02,,OK,False
+CUST0000795,Female,,Los Angeles,West,2022-04-03,,OK,False
+CUST0000796,Male,1984-10-26,Minneapolis,Midwest,2021-04-05,,OK,False
+CUST0000797,Female,1989-07-23,Philadelphia,Northeast,2022-04-08,,OK,False
+CUST0000798,Female,1967-09-06,Boston,Northeast,2025-07-21,,OK,False
+CUST0000799,Female,1959-06-29,Philadelphia,Northeast,2022-02-28,Silver,OK,False
+CUST0000800,Female,1999-07-03,Philadelphia,Northeast,2025-09-16,,OK,False
+CUST0000801,Male,1997-12-20,San Diego,West,2025-04-06,,Blank,False
+CUST0000802,Female,1980-07-10,Detroit,Midwest,2025-03-05,,OK,False
+CUST0000803,Female,1950-05-11,Denver,Southwest,2025-01-01,,OK,False
+CUST0000804,Female,1984-01-18,Detroit,Midwest,2020-12-29,,OK,False
+CUST0000805,Female,1964-07-26,Boston,Northeast,2023-05-06,,OK,False
+CUST0000806,Female,1956-01-30,Tampa,Southeast,2021-07-09,Gold,OK,False
+CUST0000807,Male,1956-11-08,New York,Northeast,2025-07-14,,OK,False
+CUST0000808,Female,1996-04-24,Portland,West,2022-12-05,Bronze,OK,False
+CUST0000809,Female,1993-10-09,Nashville,Southeast,2022-03-12,,OK,False
+CUST0000810,Male,1977-12-21,San Diego,West,2022-04-06,Gold,OK,False
+CUST0000811,Female,1977-01-28,Phoenix,Southwest,2023-11-05,Bronze,OK,False
+CUST0000812,Male,1956-07-16,Charlotte,Southeast,2024-12-14,,OK,False
+CUST0000813,Female,1984-02-21,Los Angeles,West,2022-08-21,Bronze,Blank,False
+CUST0000814,Female,,Minneapolis,Midwest,2023-01-31,,OK,False
+CUST0000815,Female,1960-06-19,Phoenix,Southwest,2021-04-04,,OK,False
+CUST0000816,Female,1979-10-23,San Antonio,Southwest,2024-03-05,Bronze,Blank,False
+CUST0000817,Male,,Los Angeles,West,2021-11-28,,OK,False
+CUST0000818,Female,1994-02-04,Houston,Southwest,2025-05-23,,Blank,False
+CUST0000819,Female,1995-12-13,San Francisco,West,2024-04-04,Silver,Blank,False
+CUST0000820,Male,1996-12-08,Milwaukee,Midwest,2024-11-06,Bronze,OK,False
+CUST0000821,Male,1974-08-27,Columbus,Midwest,2024-07-02,Bronze,OK,False
+CUST0000822,Female,,Seattle,West,2020-11-18,Gold,OK,False
+CUST0000823,Female,1971-04-23,New York,Northeast,2025-10-28,,OK,False
+CUST0000824,Female,1982-07-07,Los Angeles,West,2021-06-24,,OK,False
+CUST0000825,Female,2001-09-26,New York,Northeast,2025-10-20,Gold,OK,False
+CUST0000826,Female,1998-01-21,Los Angeles,West,2024-07-12,Bronze,OK,False
+CUST0000827,Male,1950-05-29,Milwaukee,Midwest,2024-06-28,,OK,False
+CUST0000828,Female,1976-02-07,Pittsburgh,Northeast,2025-04-14,,OK,False
+CUST0000829,Male,1950-04-24,Minneapolis,Midwest,2025-08-16,,OK,False
+CUST0000830,Male,1982-11-24,Minneapolis,Midwest,2024-02-11,Bronze,OK,False
+CUST0000831,Female,1957-10-11,St. Louis,Midwest,2022-06-11,Bronze,OK,False
+CUST0000832,Female,1963-09-15,Austin,Southwest,2025-10-13,,OK,False
+CUST0000833,Female,1972-04-19,Austin,Southwest,2025-08-26,Bronze,OK,False
+CUST0000834,Male,,Columbus,Midwest,2020-02-18,,OK,False
+CUST0000835,Female,1993-02-26,Orlando,Southeast,2024-04-09,Gold,OK,False
+CUST0000836,Male,,Boston,Northeast,2023-12-18,,OK,False
+CUST0000837,Male,,Phoenix,Southwest,2025-09-02,,OK,False
+CUST0000838,Female,1999-10-18,Minneapolis,Midwest,2023-12-02,,OK,False
+CUST0000839,Male,1950-02-18,Houston,Southwest,2022-05-17,Bronze,OK,False
+CUST0000840,Female,1954-03-06,Austin,Southwest,2021-10-07,,OK,False
+CUST0000841,Female,1966-12-23,Los Angeles,West,2022-03-03,,OK,True
+CUST0000842,Female,1993-10-03,Tampa,Southeast,2025-11-15,,OK,False
+CUST0000843,Female,1985-03-13,Charlotte,Southeast,2023-04-22,Gold,OK,False
+CUST0000844,Male,1995-01-18,Portland,West,2024-11-25,,OK,False
+CUST0000845,Male,1966-09-25,San Diego,West,2023-10-26,Bronze,Blank,False
+CUST0000846,Female,1951-06-24,Los Angeles,West,2023-06-26,Bronze,OK,False
+CUST0000847,Female,1998-12-13,Los Angeles,West,2024-04-12,Bronze,OK,False
+CUST0000848,Female,1996-06-20,Philadelphia,Northeast,2025-06-20,,OK,False
+CUST0000849,Male,1992-01-12,Los Angeles,West,2020-11-16,,OK,False
+CUST0000850,Female,1970-07-13,Philadelphia,Northeast,2025-08-27,,OK,False
+CUST0000851,Female,1976-05-01,San Diego,West,2024-12-11,Bronze,OK,False
+CUST0000852,Female,1977-04-16,Hartford,Northeast,2025-08-11,Bronze,OK,False
+CUST0000853,Male,1997-06-19,Denver,Southwest,2021-05-01,,OK,False
+CUST0000854,,1981-10-25,Minneapolis,Midwest,2023-12-14,Bronze,OK,False
+CUST0000855,Female,1973-05-02,Hartford,Northeast,2023-06-14,Silver,OK,False
+CUST0000856,,1995-07-29,San Antonio,Southwest,2022-05-25,,OK,False
+CUST0000857,Female,1962-12-27,Atlanta,Southeast,2020-12-17,,OK,False
+CUST0000858,Female,2001-03-21,Charlotte,Southeast,2025-11-05,,OK,False
+CUST0000859,,1991-01-01,Chicago,Midwest,2024-11-26,,OK,False
+CUST0000860,Male,1997-01-21,Orlando,Southeast,2024-08-20,,OK,False
+CUST0000861,Male,1967-06-07,Houston,Southwest,2020-09-18,,OK,False
+CUST0000862,Male,1965-09-26,Denver,Southwest,2022-08-27,,Blank,False
+CUST0000863,Male,1958-10-24,Pittsburgh,Northeast,2025-03-29,,OK,False
+CUST0000864,Female,2000-09-22,Milwaukee,Midwest,2025-07-04,,OK,False
+CUST0000865,,1975-09-21,Las Vegas,West,2020-09-30,,OK,False
+CUST0000866,Female,1971-11-06,Houston,Southwest,2022-06-03,,OK,False
+CUST0000867,Female,1997-02-06,Columbus,Midwest,2022-12-05,Bronze,Blank,False
+CUST0000868,Female,1951-01-14,Boston,Northeast,2024-09-03,Gold,OK,False
+CUST0000869,Female,1978-06-10,Tampa,Southeast,2022-08-03,Bronze,OK,False
+CUST0000870,Female,1966-08-21,Newark,Northeast,2025-04-20,,OK,False
+CUST0000871,Male,2004-02-13,Los Angeles,West,2024-01-03,,OK,False
+CUST0000872,Male,1971-04-15,Denver,Southwest,2025-06-10,,OK,False
+CUST0000873,Female,1976-05-01,Tampa,Southeast,2021-02-12,,OK,False
+CUST0000874,Female,1972-12-29,Nashville,Southeast,2024-08-25,,OK,False
+CUST0000875,Female,1968-12-15,Chicago,Midwest,2022-06-21,,Blank,False
+CUST0000876,Male,1998-03-01,Boston,Northeast,2023-08-21,Gold,OK,False
+CUST0000877,Male,1992-01-21,Philadelphia,Northeast,2025-09-11,Silver,Blank,False
+CUST0000878,Female,1989-05-07,Seattle,West,2022-03-02,,OK,False
+CUST0000879,Male,1999-11-08,Philadelphia,Northeast,2025-08-02,,OK,False
+CUST0000880,Female,1985-07-18,Minneapolis,Midwest,2021-07-04,Gold,OK,False
+CUST0000881,Male,1991-02-06,San Francisco,West,2024-09-10,,OK,False
+CUST0000882,,1954-09-05,Atlanta,Southeast,2021-01-25,,OK,False
+CUST0000883,Male,1952-12-10,Seattle,West,2023-10-31,Silver,OK,False
+CUST0000884,Male,1998-06-08,Boston,Northeast,2025-03-05,,OK,False
+CUST0000885,Female,1966-05-02,San Antonio,Southwest,2025-10-26,,OK,False
+CUST0000886,Male,,San Francisco,West,2025-07-15,Silver,OK,False
+CUST0000887,Female,1976-09-11,Houston,Southwest,2024-07-05,,OK,False
+CUST0000888,Female,1976-10-13,Atlanta,Southeast,2022-08-10,Platinum,OK,False
+CUST0000889,Female,1975-02-15,Houston,Southwest,2024-07-10,Bronze,OK,False
+CUST0000890,Male,,Phoenix,Southwest,2024-08-30,,OK,False
+CUST0000891,Female,1967-04-24,Atlanta,Southeast,2020-11-22,,OK,False
+CUST0000892,Male,1969-02-17,Phoenix,Southwest,2022-08-23,,OK,False
+CUST0000893,Male,2000-06-22,Los Angeles,West,2021-06-12,,OK,False
+CUST0000894,Male,1963-03-16,Seattle,West,2022-07-21,Silver,OK,False
+CUST0000895,Female,1950-09-07,San Francisco,West,2020-10-14,,Blank,False
+CUST0000896,Male,1982-03-15,Minneapolis,Midwest,2025-11-27,,OK,False
+CUST0000897,Male,1968-05-05,San Francisco,West,2021-01-19,,OK,False
+CUST0000898,Female,1984-10-09,Columbus,Midwest,2024-05-17,,OK,False
+CUST0000899,Female,1972-06-08,Phoenix,Southwest,2025-03-18,,OK,False
+CUST0000900,,1989-12-06,Seattle,West,2024-10-30,Bronze,OK,False
+CUST0000901,Female,1994-08-07,Miami,Southeast,2023-12-07,Bronze,OK,False
+CUST0000902,Female,1981-08-14,Minneapolis,Midwest,2025-02-25,,OK,False
+CUST0000903,Male,1968-05-16,Seattle,West,2022-11-06,Platinum,OK,False
+CUST0000904,Female,1993-09-12,Dallas,Southwest,2020-11-22,,Blank,False
+CUST0000905,Male,,Las Vegas,West,2024-12-13,,OK,False
+CUST0000906,Male,1977-02-13,St. Louis,Midwest,2021-09-21,Bronze,OK,False
+CUST0000907,Female,1957-05-23,Chicago,Midwest,2023-05-13,Bronze,Blank,False
+CUST0000908,Male,1994-10-04,Hartford,Northeast,2024-12-03,Bronze,OK,False
+CUST0000909,Female,1975-02-22,Portland,West,2022-05-04,,OK,False
+CUST0000910,Male,1976-01-31,Philadelphia,Northeast,2023-09-26,Bronze,OK,False
+CUST0000911,Male,1951-12-07,Seattle,West,2025-10-14,,OK,False
+CUST0000912,Female,1993-11-11,Chicago,Midwest,2024-09-18,Gold,Blank,False
+CUST0000913,Female,2003-02-02,Boston,Northeast,2021-09-15,,OK,False
+CUST0000914,Female,1992-12-13,Philadelphia,Northeast,2020-06-05,,OK,False
+CUST0000915,Male,1977-10-07,Philadelphia,Northeast,2023-10-09,Platinum,OK,False
+CUST0000916,Male,,Philadelphia,Northeast,2022-09-17,,OK,False
+CUST0000917,Male,1965-08-17,Detroit,Midwest,2024-10-23,Silver,OK,False
+CUST0000918,Female,1961-03-11,Pittsburgh,Northeast,2024-05-17,Bronze,OK,False
+CUST0000919,Female,1989-03-24,New York,Northeast,2023-02-15,Silver,OK,False
+CUST0000920,Female,1965-04-21,New York,Northeast,2023-04-20,,OK,False
+CUST0000921,,1962-01-05,Pittsburgh,Northeast,2023-08-11,Platinum,OK,False
+CUST0000922,Male,1980-01-15,Orlando,Southeast,2025-10-17,,OK,False
+CUST0000923,Female,1977-10-03,Portland,West,2021-04-08,,OK,False
+CUST0000924,Female,1998-02-08,San Diego,West,2021-04-23,,OK,False
+CUST0000925,Male,1957-05-14,Philadelphia,Northeast,2022-02-11,,OK,False
+CUST0000926,Female,1979-11-11,San Antonio,Southwest,2024-11-13,,OK,False
+CUST0000927,Female,1951-11-11,Los Angeles,West,2024-06-22,Gold,OK,False
+CUST0000928,Male,1971-01-13,Houston,Southwest,2025-04-20,,OK,False
+CUST0000929,Female,1994-11-04,Los Angeles,West,2020-12-20,Bronze,OK,False
+CUST0000930,Female,1986-12-09,Pittsburgh,Northeast,2024-05-25,Silver,OK,False
+CUST0000931,,1984-06-01,Columbus,Midwest,2020-05-14,,OK,True
+CUST0000932,Female,1957-03-25,Chicago,Midwest,2020-06-02,Silver,OK,False
+CUST0000933,Male,1957-08-13,Nashville,Southeast,2024-07-22,,OK,False
+CUST0000934,Male,2002-06-01,Detroit,Midwest,2024-07-20,Gold,OK,False
+CUST0000935,Male,1967-08-21,Los Angeles,West,2025-05-02,,OK,False
+CUST0000936,Male,1968-07-01,Las Vegas,West,2023-06-28,Gold,OK,False
+CUST0000937,Male,1999-07-27,Boston,Northeast,2025-08-02,,OK,False
+CUST0000938,Male,1968-01-24,Atlanta,Southeast,2022-08-20,,OK,False
+CUST0000939,Female,1989-06-13,Dallas,Southwest,2023-07-01,Bronze,OK,False
+CUST0000940,Male,1954-07-26,Los Angeles,West,2021-01-14,Platinum,Blank,False
+CUST0000941,Male,1963-01-19,Los Angeles,West,2021-12-28,Silver,OK,False
+CUST0000942,Female,1971-04-24,Hartford,Northeast,2024-09-27,,OK,False
+CUST0000943,Male,1956-11-30,San Diego,West,2023-09-08,Platinum,OK,False
+CUST0000944,Male,1955-08-26,Philadelphia,Northeast,2022-04-20,Silver,Blank,False
+CUST0000945,Male,,Seattle,West,2023-05-23,,OK,False
+CUST0000946,Male,1970-11-15,Chicago,Midwest,2022-01-16,,Blank,False
+CUST0000947,Male,1987-11-01,Seattle,West,2021-10-07,,OK,False
+CUST0000948,,1968-09-05,San Francisco,West,2021-01-29,,OK,False
+CUST0000949,Male,2003-03-14,Dallas,Southwest,2023-05-23,,OK,False
+CUST0000950,Male,1988-04-21,Houston,Southwest,2020-07-26,Bronze,OK,False
+CUST0000951,Male,1960-08-07,Los Angeles,West,2025-09-01,,OK,False
+CUST0000952,Male,,New York,Northeast,2023-10-25,,OK,False
+CUST0000953,,2003-04-18,Hartford,Northeast,2023-06-07,Platinum,OK,False
+CUST0000954,Male,1969-07-16,Nashville,Southeast,2023-04-10,,Blank,False
+CUST0000955,Male,1971-11-29,Orlando,Southeast,2025-05-15,Bronze,Blank,False
+CUST0000956,Female,2001-03-01,St. Louis,Midwest,2025-01-15,Silver,OK,False
+CUST0000957,Female,1996-02-09,Houston,Southwest,2023-05-14,Silver,OK,False
+CUST0000958,Female,1984-03-31,Minneapolis,Midwest,2025-06-20,,Blank,False
+CUST0000959,Male,1953-11-24,Atlanta,Southeast,2020-09-10,,OK,False
+CUST0000960,Female,1965-05-26,Orlando,Southeast,2025-10-29,,Blank,False
+CUST0000961,Female,1993-09-24,Philadelphia,Northeast,2021-01-13,,OK,False
+CUST0000962,Male,1975-01-03,Detroit,Midwest,2024-09-11,Silver,OK,False
+CUST0000963,Male,1962-09-14,New York,Northeast,2025-05-05,Silver,Blank,False
+CUST0000964,Female,1982-02-20,Boston,Northeast,2025-08-30,Bronze,OK,False
+CUST0000965,Female,1980-12-19,Philadelphia,Northeast,2022-01-10,Platinum,OK,False
+CUST0000966,Female,1994-04-26,San Antonio,Southwest,2024-02-05,,OK,False
+CUST0000967,Male,1972-09-15,Austin,Southwest,2024-03-29,,OK,False
+CUST0000968,Male,1988-06-23,Chicago,Midwest,2022-06-25,,OK,False
+CUST0000969,Female,1972-12-10,Chicago,Midwest,2023-11-28,Silver,OK,False
+CUST0000970,Female,1952-03-21,Atlanta,Southeast,2024-12-27,,OK,False
+CUST0000971,Male,1970-10-31,Minneapolis,Midwest,2022-02-26,Platinum,OK,False
+CUST0000972,Male,1966-05-17,Orlando,Southeast,2024-06-24,Bronze,OK,False
+CUST0000973,Female,1985-06-22,Miami,Southeast,2021-04-20,Silver,OK,False
+CUST0000974,Female,1978-07-19,Denver,Southwest,2022-09-01,,OK,False
+CUST0000975,Female,2005-04-28,Miami,Southeast,2023-03-26,,OK,False
+CUST0000976,Male,1964-08-16,Nashville,Southeast,2024-04-08,,OK,False
+CUST0000977,,1963-01-08,Los Angeles,West,2021-02-19,,OK,False
+CUST0000978,Female,2004-03-27,Charlotte,Southeast,2022-02-08,,OK,False
+CUST0000979,,,Seattle,West,2025-01-10,,OK,False
+CUST0000980,Male,1991-05-13,San Diego,West,2020-12-02,,Blank,False
+CUST0000981,Female,1979-08-16,Miami,Southeast,2021-03-09,Silver,OK,False
+CUST0000982,Female,1962-10-30,Pittsburgh,Northeast,2023-04-25,Bronze,Blank,False
+CUST0000983,Male,1983-09-21,Seattle,West,2020-11-29,,OK,False
+CUST0000984,Male,1955-10-07,Minneapolis,Midwest,2020-03-12,Gold,OK,False
+CUST0000985,Female,1980-03-05,Hartford,Northeast,2023-10-17,Bronze,OK,False
+CUST0000986,Female,1975-04-01,Denver,Southwest,2020-02-28,,OK,False
+CUST0000987,Female,2005-10-20,Dallas,Southwest,2023-01-28,Bronze,OK,False
+CUST0000988,Female,1977-12-26,Chicago,Midwest,2022-08-04,Silver,OK,False
+CUST0000989,Female,1961-12-05,Seattle,West,2025-05-20,,OK,False
+CUST0000990,Female,1991-10-23,Newark,Northeast,2022-03-21,Platinum,OK,False
+CUST0000991,Male,1958-03-20,Dallas,Southwest,2022-12-16,Platinum,OK,False
+CUST0000992,Male,1992-01-05,Charlotte,Southeast,2023-08-02,,Blank,False
+CUST0000993,Male,1964-10-31,Pittsburgh,Northeast,2022-12-29,Gold,OK,False
+CUST0000994,Female,2000-06-28,Phoenix,Southwest,2025-10-01,,OK,False
+CUST0000995,Female,1983-10-21,Chicago,Midwest,2023-01-25,Bronze,OK,False
+CUST0000996,Male,1993-07-30,Phoenix,Southwest,2024-01-05,Bronze,OK,False
+CUST0000997,Male,1983-02-09,Los Angeles,West,2024-03-07,Gold,OK,False
+CUST0000998,,1958-03-28,Orlando,Southeast,2025-11-18,,OK,False
+CUST0000999,Male,1981-03-07,Columbus,Midwest,2021-03-03,,OK,False
+CUST0001000,Female,1991-11-22,Atlanta,Southeast,2021-10-17,,OK,False
+CUST0001001,Male,1983-01-06,Miami,Southeast,2021-12-31,Silver,OK,False
+CUST0001002,Female,1966-10-22,Nashville,Southeast,2025-02-25,Silver,OK,False
+CUST0001003,Female,1963-08-09,Houston,Southwest,2024-07-19,,OK,False
+CUST0001004,Female,1977-01-23,Pittsburgh,Northeast,2020-06-17,,OK,False
+CUST0001005,Female,1992-09-23,Dallas,Southwest,2024-04-25,Bronze,OK,False
+CUST0001006,Male,2003-07-19,Phoenix,Southwest,2020-04-18,Gold,OK,False
+CUST0001007,Male,1992-02-09,Nashville,Southeast,2022-02-04,Silver,OK,False
+CUST0001008,Male,1959-08-05,New York,Northeast,2023-02-13,,OK,False
+CUST0001009,,1988-08-16,Columbus,Midwest,2024-02-20,,OK,False
+CUST0001010,Female,2000-04-19,San Francisco,West,2020-07-17,Silver,OK,False
+CUST0001011,Female,1956-12-26,New York,Northeast,2022-03-05,,OK,False
+CUST0001012,Female,2002-07-31,Nashville,Southeast,2024-09-18,,OK,False
+CUST0001013,Female,1951-03-12,Seattle,West,2022-12-21,Bronze,OK,False
+CUST0001014,Female,1951-10-08,Atlanta,Southeast,2020-03-12,,OK,False
+CUST0001015,Male,1999-04-04,Boston,Northeast,2024-06-04,,OK,False
+CUST0001016,Male,1952-12-14,San Francisco,West,2021-04-02,Bronze,OK,False
+CUST0001017,Female,1978-01-22,Chicago,Midwest,2024-08-18,,OK,False
+CUST0001018,Female,1980-05-18,Los Angeles,West,2023-07-23,,OK,False
+CUST0001019,,1993-11-18,Atlanta,Southeast,2025-08-13,,OK,False
+CUST0001020,Female,1950-12-06,Portland,West,2022-10-21,Silver,OK,False
+CUST0001021,Female,,Philadelphia,Northeast,2025-07-22,,OK,False
+CUST0001022,Female,1950-07-13,Chicago,Midwest,2023-01-19,,OK,False
+CUST0001023,Female,1960-12-16,Minneapolis,Midwest,2020-09-25,,OK,False
+CUST0001024,Male,1994-10-21,Philadelphia,Northeast,2021-04-03,Platinum,OK,False
+CUST0001025,Male,1964-12-16,San Antonio,Southwest,2022-01-28,Platinum,OK,False
+CUST0001026,Male,1969-08-23,Phoenix,Southwest,2025-02-27,,OK,False
+CUST0001027,Male,1993-10-04,Boston,Northeast,2024-01-21,Bronze,OK,False
+CUST0001028,Male,1990-12-03,Atlanta,Southeast,2025-10-11,,OK,False
+CUST0001029,Female,,Charlotte,Southeast,2025-01-04,,OK,False
+CUST0001030,Male,1998-04-16,Miami,Southeast,2023-04-18,Gold,OK,False
+CUST0001031,,1953-12-26,Dallas,Southwest,2024-09-11,,OK,False
+CUST0001032,Male,1983-10-10,Detroit,Midwest,2023-04-06,Bronze,OK,False
+CUST0001033,Male,1990-07-20,Orlando,Southeast,2024-09-12,Bronze,OK,False
+CUST0001034,Male,1969-09-14,San Francisco,West,2025-07-08,Bronze,OK,False
+CUST0001035,Male,1970-01-06,Atlanta,Southeast,2024-04-13,Gold,OK,False
+CUST0001036,Female,1956-02-11,San Francisco,West,2025-04-25,Bronze,Blank,False
+CUST0001037,Female,1978-01-15,Austin,Southwest,2024-10-24,,OK,False
+CUST0001038,Female,1998-10-13,Miami,Southeast,2022-05-08,,OK,False
+CUST0001039,Female,1979-06-18,San Francisco,West,2023-08-04,Bronze,OK,False
+CUST0001040,Male,1975-01-12,Philadelphia,Northeast,2023-11-03,Bronze,OK,False
+CUST0001041,Female,,Los Angeles,West,2023-06-13,Bronze,OK,False
+CUST0001042,Female,1998-10-11,Miami,Southeast,2024-12-14,Silver,OK,False
+CUST0001043,Male,1977-05-14,Chicago,Midwest,2021-07-02,,OK,False
+CUST0001044,Male,1975-08-31,Los Angeles,West,2025-09-08,,OK,False
+CUST0001045,Male,1964-01-08,San Diego,West,2022-05-21,Bronze,OK,False
+CUST0001046,Male,1963-09-13,Los Angeles,West,2023-01-19,Bronze,OK,False
+CUST0001047,Female,1998-06-26,Columbus,Midwest,2025-11-28,,OK,False
+CUST0001048,Male,1962-03-09,Houston,Southwest,2021-03-03,,OK,False
+CUST0001049,Female,1980-06-02,Houston,Southwest,2020-06-29,,OK,False
+CUST0001050,Female,2004-07-17,New York,Northeast,2025-07-20,,OK,False
+CUST0001051,Male,1963-02-20,Dallas,Southwest,2024-07-25,Silver,OK,False
+CUST0001052,Female,1996-03-02,Seattle,West,2021-02-15,,OK,False
+CUST0001053,Female,,Miami,Southeast,2024-07-31,,Blank,False
+CUST0001054,Male,1955-09-29,Detroit,Midwest,2023-09-26,Gold,OK,False
+CUST0001055,Male,1967-01-29,Denver,Southwest,2023-06-07,Gold,Invalid,False
+CUST0001056,Male,1960-02-10,Los Angeles,West,2020-05-20,,OK,False
+CUST0001057,,1978-01-14,San Francisco,West,2020-06-30,Silver,OK,False
+CUST0001058,Male,1968-03-28,Atlanta,Southeast,2024-03-15,Silver,OK,False
+CUST0001059,Female,1962-08-11,New York,Northeast,2024-03-04,Gold,OK,False
+CUST0001060,,1963-08-13,Miami,Southeast,2022-05-22,,OK,False
+CUST0001061,Female,1997-02-17,Chicago,Midwest,2024-12-20,,OK,False
+CUST0001062,Male,1972-07-05,Tampa,Southeast,2025-07-02,Gold,OK,False
+CUST0001063,Female,1996-12-13,San Francisco,West,2024-02-29,,OK,False
+CUST0001064,Male,1993-04-18,San Diego,West,2024-02-07,,OK,False
+CUST0001065,Female,1999-05-13,Orlando,Southeast,2021-03-20,Bronze,OK,False
+CUST0001066,Female,1965-07-13,Boston,Northeast,2023-05-05,Bronze,OK,False
+CUST0001067,Male,1965-07-12,Boston,Northeast,2025-10-24,,OK,False
+CUST0001068,Female,1975-04-25,Denver,Southwest,2021-03-30,Bronze,OK,True
+CUST0001069,Male,1965-07-07,Boston,Northeast,2023-11-07,Platinum,OK,True
+CUST0001070,Female,1970-02-21,Hartford,Northeast,2020-07-05,Gold,OK,False
+CUST0001071,Male,1951-09-18,Charlotte,Southeast,2024-09-13,Bronze,OK,False
+CUST0001072,Female,1951-10-26,New York,Northeast,2020-06-05,,OK,False
+CUST0001073,Female,1978-12-16,Detroit,Midwest,2022-03-12,Silver,OK,False
+CUST0001074,Female,1977-12-05,Houston,Southwest,2023-12-07,Bronze,OK,True
+CUST0001075,Male,1985-11-09,San Francisco,West,2020-03-27,,OK,False
+CUST0001076,Male,1982-10-20,Houston,Southwest,2025-06-05,,OK,False
+CUST0001077,Male,1973-07-24,Atlanta,Southeast,2023-08-13,Gold,OK,False
+CUST0001078,Male,1982-09-06,Dallas,Southwest,2020-05-18,,OK,True
+CUST0001079,Male,1978-05-22,Atlanta,Southeast,2025-11-30,,OK,False
+CUST0001080,Male,1985-11-18,Atlanta,Southeast,2024-08-28,Gold,OK,False
+CUST0001081,Male,1987-01-01,Atlanta,Southeast,2020-01-20,,OK,False
+CUST0001082,Female,1985-07-31,Charlotte,Southeast,2025-01-18,Silver,OK,False
+CUST0001083,Female,,New York,Northeast,2022-04-02,,OK,False
+CUST0001084,Male,,Houston,Southwest,2025-05-25,Bronze,OK,False
+CUST0001085,Female,2005-12-07,Houston,Southwest,2025-11-11,,OK,False
+CUST0001086,Female,1975-11-06,Houston,Southwest,2023-07-16,Gold,OK,False
+CUST0001087,Male,1969-08-24,Seattle,West,2024-05-08,,OK,False
+CUST0001088,Male,1981-10-02,Denver,Southwest,2025-05-06,Bronze,OK,False
+CUST0001089,Male,1974-01-25,Phoenix,Southwest,2024-06-03,,OK,False
+CUST0001090,Male,,Atlanta,Southeast,2023-09-28,,OK,False
+CUST0001091,,1992-10-30,San Diego,West,2024-03-07,Bronze,OK,False
+CUST0001092,Female,1958-01-08,Atlanta,Southeast,2021-05-25,,OK,False
+CUST0001093,Male,1958-04-05,Seattle,West,2020-03-14,Silver,OK,False
+CUST0001094,Female,1988-05-23,San Antonio,Southwest,2023-06-05,Bronze,OK,False
+CUST0001095,Female,1951-04-25,Phoenix,Southwest,2024-01-26,Bronze,OK,False
+CUST0001096,Female,1995-05-11,San Diego,West,2021-02-27,,OK,False
+CUST0001097,Female,1956-09-28,New York,Northeast,2024-04-10,Gold,OK,False
+CUST0001098,,2000-11-27,Hartford,Northeast,2021-12-30,,OK,False
+CUST0001099,Female,1961-08-13,Philadelphia,Northeast,2021-01-24,,OK,False
+CUST0001100,Male,1950-08-17,Detroit,Midwest,2020-08-22,,OK,False
+CUST0001101,Female,1964-08-09,Houston,Southwest,2025-11-08,,OK,False
+CUST0001102,Female,1958-06-22,Detroit,Midwest,2023-03-11,,OK,False
+CUST0001103,Male,1968-12-06,New York,Northeast,2021-10-02,,OK,False
+CUST0001104,,2004-09-08,Pittsburgh,Northeast,2023-01-28,Silver,Blank,False
+CUST0001105,Female,1995-06-01,Los Angeles,West,2025-10-14,,OK,False
+CUST0001106,Male,1981-11-11,Columbus,Midwest,2025-04-06,,Blank,False
+CUST0001107,Male,,Detroit,Midwest,2022-11-04,,OK,False
+CUST0001108,Male,1978-07-14,Nashville,Southeast,2025-07-23,Bronze,OK,False
+CUST0001109,Male,2001-11-11,New York,Northeast,2022-05-19,,OK,False
+CUST0001110,Female,1955-04-03,San Diego,West,2021-12-18,,OK,False
+CUST0001111,Male,1960-03-20,San Francisco,West,2021-02-09,Gold,OK,False
+CUST0001112,Male,1992-03-25,Boston,Northeast,2025-05-19,,OK,False
+CUST0001113,Female,1984-01-17,Charlotte,Southeast,2024-06-24,Silver,OK,False
+CUST0001114,Male,1979-02-13,Houston,Southwest,2025-11-30,,OK,False
+CUST0001115,Female,1994-10-28,Philadelphia,Northeast,2025-03-24,Silver,OK,False
+CUST0001116,Female,1970-08-12,Los Angeles,West,2022-05-02,,OK,False
+CUST0001117,Female,1956-02-05,Columbus,Midwest,2023-09-02,,Blank,False
+CUST0001118,Male,,San Francisco,West,2024-09-20,,OK,False
+CUST0001119,Female,1963-01-20,Denver,Southwest,2022-04-20,,OK,False
+CUST0001120,Female,1959-12-19,St. Louis,Midwest,2022-06-28,,OK,False
+CUST0001121,Male,1953-03-14,St. Louis,Midwest,2025-07-13,,OK,False
+CUST0001122,Female,1961-01-09,St. Louis,Midwest,2025-03-07,,OK,False
+CUST0001123,Male,1973-12-17,St. Louis,Midwest,2025-11-18,,OK,False
+CUST0001124,Female,1956-10-02,Nashville,Southeast,2024-07-09,,OK,False
+CUST0001125,Female,1986-02-02,Phoenix,Southwest,2021-03-29,,Blank,False
+CUST0001126,Female,1994-01-10,Miami,Southeast,2024-10-18,,OK,False
+CUST0001127,Male,1993-06-06,Chicago,Midwest,2023-12-13,,OK,False
+CUST0001128,Female,1963-12-19,Nashville,Southeast,2021-11-28,,OK,False
+CUST0001129,Male,1973-07-30,Detroit,Midwest,2025-08-04,Silver,OK,False
+CUST0001130,Male,1962-09-16,Columbus,Midwest,2025-06-01,Bronze,OK,False
+CUST0001131,Female,1954-06-26,Houston,Southwest,2021-09-10,,OK,False
+CUST0001132,Male,1959-09-13,San Francisco,West,2020-11-15,,OK,False
+CUST0001133,Male,2003-08-01,Philadelphia,Northeast,2025-01-30,,OK,False
+CUST0001134,Male,2001-09-06,Minneapolis,Midwest,2023-06-25,Gold,OK,False
+CUST0001135,Male,,Los Angeles,West,2023-08-27,,OK,False
+CUST0001136,Male,1951-08-14,Boston,Northeast,2024-05-19,,OK,False
+CUST0001137,Female,1950-09-12,Portland,West,2023-12-17,,Blank,False
+CUST0001138,Female,1951-02-12,San Antonio,Southwest,2021-12-15,Silver,OK,False
+CUST0001139,Male,1955-05-16,Austin,Southwest,2025-04-29,Silver,OK,False
+CUST0001140,Female,2002-03-16,Phoenix,Southwest,2020-08-30,,OK,False
+CUST0001141,Female,1951-06-14,Charlotte,Southeast,2022-02-10,Bronze,OK,False
+CUST0001142,Female,1974-04-22,Detroit,Midwest,2025-07-03,Bronze,OK,False
+CUST0001143,Male,1975-12-06,Miami,Southeast,2024-11-24,Bronze,OK,False
+CUST0001144,Female,1969-03-23,Philadelphia,Northeast,2020-10-26,,OK,False
+CUST0001145,Female,2003-08-11,New York,Northeast,2023-07-26,,Invalid,False
+CUST0001146,Female,1990-06-13,New York,Northeast,2022-03-21,Gold,OK,False
+CUST0001147,Male,1986-12-05,Seattle,West,2021-10-27,,OK,False
+CUST0001148,Female,1952-03-11,Dallas,Southwest,2024-03-01,Silver,OK,False
+CUST0001149,Male,1995-02-08,Chicago,Midwest,2021-03-22,,Blank,False
+CUST0001150,,1950-12-22,St. Louis,Midwest,2025-10-07,,OK,False
+CUST0001151,Male,2003-07-05,Columbus,Midwest,2021-08-01,,OK,False
+CUST0001152,Male,1952-12-16,Charlotte,Southeast,2024-08-31,Silver,OK,False
+CUST0001153,Male,1961-04-16,San Francisco,West,2020-09-24,,OK,False
+CUST0001154,Female,,Chicago,Midwest,2021-12-08,,OK,False
+CUST0001155,Male,1992-02-10,Columbus,Midwest,2021-07-26,Gold,OK,False
+CUST0001156,Male,1986-08-08,Atlanta,Southeast,2022-11-30,Bronze,OK,False
+CUST0001157,Male,1998-07-14,Hartford,Northeast,2024-08-08,Bronze,OK,False
+CUST0001158,Female,1964-04-03,Milwaukee,Midwest,2025-09-27,Bronze,OK,False
+CUST0001159,Male,1960-11-12,Charlotte,Southeast,2024-05-06,Bronze,OK,False
+CUST0001160,Female,1993-02-08,San Antonio,Southwest,2025-07-01,Silver,OK,False
+CUST0001161,Male,2002-01-13,Atlanta,Southeast,2021-06-07,Gold,OK,False
+CUST0001162,Female,2001-09-01,New York,Northeast,2023-07-28,,OK,False
+CUST0001163,Male,1963-03-10,Orlando,Southeast,2025-04-30,Silver,OK,False
+CUST0001164,Female,1966-12-14,Philadelphia,Northeast,2020-11-23,,OK,False
+CUST0001165,Female,1999-07-26,Philadelphia,Northeast,2025-01-14,,OK,False
+CUST0001166,Male,1974-10-10,Miami,Southeast,2025-02-26,Silver,OK,False
+CUST0001167,Male,1996-05-20,Charlotte,Southeast,2023-02-11,Silver,OK,False
+CUST0001168,Male,1977-01-10,Los Angeles,West,2025-08-31,,OK,False
+CUST0001169,Male,1994-02-21,Nashville,Southeast,2024-05-11,Silver,OK,False
+CUST0001170,Male,1996-08-21,New York,Northeast,2024-10-01,Silver,Blank,False
+CUST0001171,Male,1999-04-25,San Antonio,Southwest,2024-08-10,Bronze,OK,False
+CUST0001172,Female,1971-03-05,St. Louis,Midwest,2025-07-10,Bronze,OK,False
+CUST0001173,Male,,Minneapolis,Midwest,2024-04-12,,OK,False
+CUST0001174,,1993-01-06,Orlando,Southeast,2024-10-10,Silver,OK,False
+CUST0001175,Female,1974-10-09,Orlando,Southeast,2024-01-03,Bronze,OK,False
+CUST0001176,Female,1969-04-20,San Antonio,Southwest,2022-09-03,,OK,False
+CUST0001177,Male,1997-02-07,Denver,Southwest,2022-12-17,Bronze,OK,False
+CUST0001178,Male,1964-11-05,Philadelphia,Northeast,2022-06-26,Platinum,OK,False
+CUST0001179,Male,1968-05-31,Orlando,Southeast,2024-06-13,,OK,False
+CUST0001180,Female,1993-12-19,Philadelphia,Northeast,2020-01-25,,OK,False
+CUST0001181,Female,1965-12-08,Columbus,Midwest,2021-02-13,,OK,False
+CUST0001182,Male,1967-02-06,Atlanta,Southeast,2022-10-14,,OK,False
+CUST0001183,Male,1998-03-19,San Diego,West,2022-01-28,,OK,False
+CUST0001184,Male,1985-12-29,Hartford,Northeast,2024-08-16,,OK,False
+CUST0001185,Male,1984-11-05,Columbus,Midwest,2023-08-09,,OK,False
+CUST0001186,Male,1967-06-15,Portland,West,2025-02-15,,OK,False
+CUST0001187,Female,,Los Angeles,West,2025-03-11,Bronze,OK,False
+CUST0001188,Female,2005-06-06,Boston,Northeast,2024-03-06,,OK,False
+CUST0001189,Male,1952-04-22,San Antonio,Southwest,2025-07-13,,OK,False
+CUST0001190,Female,1998-08-07,Miami,Southeast,2020-04-25,,OK,False
+CUST0001191,Male,,Portland,West,2025-06-12,Bronze,OK,False
+CUST0001192,,1967-11-02,Columbus,Midwest,2025-08-12,,OK,False
+CUST0001193,Male,1950-12-06,Tampa,Southeast,2024-05-08,Bronze,OK,False
+CUST0001194,Male,2003-12-19,Boston,Northeast,2025-09-12,,OK,False
+CUST0001195,Female,1990-12-07,Milwaukee,Midwest,2024-12-24,,OK,False
+CUST0001196,Female,1958-04-13,Seattle,West,2025-02-21,,OK,False
+CUST0001197,Male,1957-05-24,New York,Northeast,2025-10-05,,OK,False
+CUST0001198,Female,1960-07-25,Columbus,Midwest,2022-08-06,Gold,OK,False
+CUST0001199,Male,1958-11-23,Portland,West,2021-12-06,,OK,False
+CUST0001200,Female,1997-02-21,Milwaukee,Midwest,2020-01-10,,OK,False
+CUST0001201,Female,2004-12-26,Hartford,Northeast,2023-06-07,Platinum,OK,False
+CUST0001202,Female,1986-01-31,San Antonio,Southwest,2021-10-12,Bronze,OK,False
+CUST0001203,Female,1986-12-13,Atlanta,Southeast,2025-02-02,,OK,False
+CUST0001204,Male,1987-10-25,Philadelphia,Northeast,2020-04-15,,OK,False
+CUST0001205,Male,1959-08-09,Denver,Southwest,2022-06-07,,OK,False
+CUST0001206,Male,1963-05-27,New York,Northeast,2024-10-30,,OK,False
+CUST0001207,Female,1964-11-07,San Francisco,West,2021-02-17,,OK,False
+CUST0001208,Male,1963-05-29,San Francisco,West,2021-03-26,,OK,False
+CUST0001209,Female,,Dallas,Southwest,2023-04-11,Silver,OK,False
+CUST0001210,Female,2004-02-07,Miami,Southeast,2023-03-05,Gold,Blank,False
+CUST0001211,Male,1988-11-07,San Francisco,West,2024-10-18,,Blank,False
+CUST0001212,Male,1988-06-10,Charlotte,Southeast,2025-09-09,,OK,False
+CUST0001213,Male,1991-01-14,Tampa,Southeast,2025-02-19,,OK,False
+CUST0001214,Female,1955-02-22,New York,Northeast,2025-06-07,Silver,Blank,False
+CUST0001215,Male,1967-08-13,Philadelphia,Northeast,2022-10-12,Gold,OK,False
+CUST0001216,Male,1958-05-21,Atlanta,Southeast,2025-01-19,Bronze,OK,False
+CUST0001217,Female,1971-06-04,Boston,Northeast,2022-06-26,,OK,False
+CUST0001218,,1978-03-17,Minneapolis,Midwest,2020-08-16,Silver,OK,False
+CUST0001219,Male,1994-02-25,New York,Northeast,2025-09-17,,OK,False
+CUST0001220,Female,1954-05-11,New York,Northeast,2024-07-31,,OK,False
+CUST0001221,Female,1960-02-03,Boston,Northeast,2024-10-03,,OK,False
+CUST0001222,Female,1966-08-31,Los Angeles,West,2020-05-01,Gold,OK,False
+CUST0001223,Male,1982-09-09,Minneapolis,Midwest,2025-06-28,,OK,False
+CUST0001224,Female,1997-11-23,Orlando,Southeast,2025-03-09,Gold,OK,False
+CUST0001225,,1973-01-22,Seattle,West,2024-04-06,Silver,OK,False
+CUST0001226,Male,1971-05-05,Seattle,West,2024-03-27,Bronze,OK,True
+CUST0001227,Female,1994-04-14,Dallas,Southwest,2025-05-31,Bronze,OK,False
+CUST0001228,Female,1989-06-09,St. Louis,Midwest,2021-12-19,Silver,OK,False
+CUST0001229,Female,1976-05-05,San Diego,West,2025-10-21,Bronze,OK,False
+CUST0001230,Male,1975-09-01,San Diego,West,2024-08-21,Silver,OK,False
+CUST0001231,Female,1984-09-06,Portland,West,2024-04-09,,OK,False
+CUST0001232,Female,1989-10-31,Nashville,Southeast,2020-03-29,Bronze,OK,False
+CUST0001233,Female,1985-01-11,Chicago,Midwest,2022-06-12,Silver,OK,False
+CUST0001234,Male,1986-07-11,Portland,West,2022-11-02,Bronze,OK,False
+CUST0001235,Female,1978-01-11,Seattle,West,2025-03-15,,OK,False
+CUST0001236,Female,1965-05-01,Seattle,West,2025-07-01,Bronze,OK,False
+CUST0001237,Female,1995-02-08,Atlanta,Southeast,2025-08-28,,Blank,False
+CUST0001238,Female,1972-11-07,Detroit,Midwest,2023-11-28,,OK,False
+CUST0001239,Female,1980-02-07,San Francisco,West,2023-03-24,,OK,False
+CUST0001240,Male,1993-03-26,New York,Northeast,2022-09-23,,OK,True
+CUST0001241,Female,1987-03-28,Charlotte,Southeast,2025-10-24,Bronze,OK,False
+CUST0001242,Female,1986-06-03,Houston,Southwest,2025-03-08,,OK,False
+CUST0001243,Female,1979-05-03,Dallas,Southwest,2025-05-18,,OK,False
+CUST0001244,Male,1950-05-10,Minneapolis,Midwest,2025-01-31,,OK,False
+CUST0001245,Female,1985-07-07,San Antonio,Southwest,2024-03-07,,OK,False
+CUST0001246,Female,1950-11-25,Los Angeles,West,2020-03-11,,OK,False
+CUST0001247,Female,,Phoenix,Southwest,2024-08-07,Bronze,OK,False
+CUST0001248,Male,1991-08-08,Miami,Southeast,2021-06-05,Silver,OK,False
+CUST0001249,Male,1984-02-05,Portland,West,2020-06-08,Gold,OK,False
+CUST0001250,Female,1965-08-25,Austin,Southwest,2025-02-15,,OK,False
+CUST0001251,,1960-06-26,Newark,Northeast,2025-02-26,,OK,False
+CUST0001252,Female,1971-04-09,Columbus,Midwest,2023-07-22,Gold,OK,False
+CUST0001253,Female,1989-07-31,Charlotte,Southeast,2022-02-17,,OK,False
+CUST0001254,Female,1957-03-30,Denver,Southwest,2022-01-31,Bronze,OK,False
+CUST0001255,Male,1989-04-03,Austin,Southwest,2025-02-15,Silver,OK,False
+CUST0001256,Female,1983-03-25,Seattle,West,2025-10-10,,Blank,False
+CUST0001257,Male,1957-02-27,Philadelphia,Northeast,2023-11-24,,OK,False
+CUST0001258,Male,,Chicago,Midwest,2020-01-28,,OK,False
+CUST0001259,Male,1997-09-29,Dallas,Southwest,2025-05-29,,OK,False
+CUST0001260,Male,1960-07-04,Detroit,Midwest,2025-07-21,Bronze,OK,False
+CUST0001261,Female,1958-01-18,Detroit,Midwest,2025-03-18,Bronze,OK,False
+CUST0001262,Male,1972-05-10,St. Louis,Midwest,2021-02-11,,OK,False
+CUST0001263,Female,1967-09-22,Pittsburgh,Northeast,2020-05-15,,OK,False
+CUST0001264,Female,1993-01-28,Houston,Southwest,2022-12-23,Platinum,OK,False
+CUST0001265,Female,1979-01-14,Pittsburgh,Northeast,2020-03-18,Gold,OK,False
+CUST0001266,Female,1970-08-31,Los Angeles,West,2025-08-15,,OK,False
+CUST0001267,Female,1963-05-09,Houston,Southwest,2025-05-28,,OK,False
+CUST0001268,Female,2005-07-17,Austin,Southwest,2023-11-26,,OK,False
+CUST0001269,Male,1965-11-08,Houston,Southwest,2021-04-13,,OK,False
+CUST0001270,Male,1990-06-06,Miami,Southeast,2024-09-10,Bronze,Blank,False
+CUST0001271,Male,1957-03-10,Houston,Southwest,2020-07-01,Bronze,OK,False
+CUST0001272,Female,1967-07-07,Los Angeles,West,2023-12-04,,OK,False
+CUST0001273,Female,1998-01-26,Nashville,Southeast,2024-11-04,Bronze,OK,False
+CUST0001274,Female,1964-07-11,Las Vegas,West,2025-09-16,,OK,False
+CUST0001275,Female,1968-05-29,San Francisco,West,2025-05-08,Bronze,OK,False
+CUST0001276,Male,1969-10-19,Pittsburgh,Northeast,2024-12-06,,OK,False
+CUST0001277,Female,1982-06-20,Minneapolis,Midwest,2024-12-06,Bronze,OK,False
+CUST0001278,Female,1964-04-06,Portland,West,2024-09-19,Bronze,OK,False
+CUST0001279,Male,1956-07-15,Detroit,Midwest,2025-01-18,Bronze,OK,False
+CUST0001280,Female,1965-10-20,Nashville,Southeast,2023-07-22,,OK,False
+CUST0001281,Male,1982-08-21,Orlando,Southeast,2021-09-17,,OK,False
+CUST0001282,Female,1956-07-13,Los Angeles,West,2025-08-21,Bronze,OK,False
+CUST0001283,Male,1963-02-23,Atlanta,Southeast,2020-10-03,,Blank,False
+CUST0001284,Female,1974-12-02,Houston,Southwest,2020-10-17,Bronze,OK,False
+CUST0001285,Female,1977-03-14,Houston,Southwest,2024-12-12,Silver,OK,False
+CUST0001286,Male,1969-12-04,Seattle,West,2025-09-11,,OK,False
+CUST0001287,Male,1988-08-06,Charlotte,Southeast,2025-01-04,Silver,OK,False
+CUST0001288,Male,1975-05-13,Newark,Northeast,2025-10-04,,OK,False
+CUST0001289,Female,2002-09-16,Houston,Southwest,2025-10-12,,OK,False
+CUST0001290,Female,2000-07-15,Denver,Southwest,2025-11-17,,OK,False
+CUST0001291,Female,1995-10-02,Seattle,West,2021-12-27,,OK,False
+CUST0001292,Female,1980-04-08,Phoenix,Southwest,2024-05-09,,OK,False
+CUST0001293,Female,1976-07-05,Boston,Northeast,2024-12-05,,OK,False
+CUST0001294,Female,1959-05-08,Philadelphia,Northeast,2025-02-04,Bronze,OK,False
+CUST0001295,Female,1954-07-03,San Diego,West,2020-10-07,,OK,False
+CUST0001296,Male,1985-06-04,Phoenix,Southwest,2020-01-22,,OK,False
+CUST0001297,,1973-04-19,Phoenix,Southwest,2020-12-04,,OK,False
+CUST0001298,Male,,Houston,Southwest,2024-04-17,,OK,False
+CUST0001299,Female,1987-04-15,Miami,Southeast,2025-08-24,Bronze,OK,False
+CUST0001300,Female,1950-11-05,Atlanta,Southeast,2020-01-09,Bronze,OK,False
+CUST0001301,Female,1975-12-28,Houston,Southwest,2024-04-05,,OK,False
+CUST0001302,Female,1975-12-02,Tampa,Southeast,2021-10-07,,OK,False
+CUST0001303,,1959-03-12,Miami,Southeast,2025-05-01,Bronze,OK,False
+CUST0001304,Male,1968-09-09,Chicago,Midwest,2024-10-30,,OK,False
+CUST0001305,Male,1955-11-15,Seattle,West,2020-03-31,,OK,False
+CUST0001306,Male,1988-12-15,Tampa,Southeast,2024-06-21,,OK,False
+CUST0001307,Female,1974-06-25,Philadelphia,Northeast,2022-03-04,Gold,OK,False
+CUST0001308,Male,1973-08-22,Dallas,Southwest,2020-03-27,,OK,False
+CUST0001309,Female,1991-12-02,Tampa,Southeast,2023-04-08,Platinum,OK,False
+CUST0001310,Female,1956-03-17,New York,Northeast,2023-09-14,Gold,OK,False
+CUST0001311,Male,1954-01-03,Columbus,Midwest,2020-03-14,Gold,OK,False
+CUST0001312,Female,1974-01-21,Philadelphia,Northeast,2024-12-14,,OK,False
+CUST0001313,,1953-04-12,Denver,Southwest,2023-02-22,Gold,OK,False
+CUST0001314,Male,1957-08-31,Houston,Southwest,2020-12-01,Gold,OK,False
+CUST0001315,Female,1976-02-14,Houston,Southwest,2025-04-22,Silver,OK,False
+CUST0001316,Male,1981-08-06,Chicago,Midwest,2025-07-03,Bronze,OK,False
+CUST0001317,Male,1993-02-03,Boston,Northeast,2022-04-25,,OK,False
+CUST0001318,Female,1959-08-03,Philadelphia,Northeast,2022-03-22,,OK,False
+CUST0001319,Female,1967-12-03,Los Angeles,West,2023-06-28,Silver,OK,False
+CUST0001320,Male,1971-10-22,Atlanta,Southeast,2025-04-05,,OK,False
+CUST0001321,Female,,Minneapolis,Midwest,2025-06-17,Silver,OK,False
+CUST0001322,Female,1950-06-06,Milwaukee,Midwest,2025-09-18,,OK,False
+CUST0001323,Female,1978-11-08,San Francisco,West,2020-07-01,Platinum,OK,False
+CUST0001324,Female,1952-06-05,Chicago,Midwest,2023-05-13,Gold,OK,False
+CUST0001325,Male,1964-05-24,New York,Northeast,2023-12-26,Bronze,OK,False
+CUST0001326,,2004-06-16,Orlando,Southeast,2022-01-19,,OK,False
+CUST0001327,Male,1996-04-08,Minneapolis,Midwest,2024-09-09,Bronze,OK,False
+CUST0001328,Male,1961-07-23,San Diego,West,2025-04-07,Silver,OK,False
+CUST0001329,,1996-06-25,San Diego,West,2025-11-12,,OK,False
+CUST0001330,Female,1999-01-09,Pittsburgh,Northeast,2025-11-24,,OK,False
+CUST0001331,Female,1986-08-26,Seattle,West,2023-03-06,,OK,False
+CUST0001332,Male,1951-12-26,Newark,Northeast,2022-02-04,,OK,False
+CUST0001333,Female,1966-12-17,Las Vegas,West,2021-08-14,Bronze,OK,False
+CUST0001334,Female,1956-05-16,Newark,Northeast,2025-04-15,Gold,OK,False
+CUST0001335,Male,1960-10-14,Detroit,Midwest,2021-10-29,Bronze,OK,False
+CUST0001336,Female,1951-05-31,Minneapolis,Midwest,2025-07-20,Bronze,OK,False
+CUST0001337,Male,2001-09-03,Dallas,Southwest,2025-01-04,,OK,False
+CUST0001338,Male,1958-06-10,Dallas,Southwest,2022-06-27,,OK,False
+CUST0001339,Female,1988-08-25,Dallas,Southwest,2025-05-13,,OK,False
+CUST0001340,Female,1991-04-08,Atlanta,Southeast,2025-08-25,Bronze,OK,False
+CUST0001341,Female,1986-05-30,San Diego,West,2024-06-30,Silver,Blank,False
+CUST0001342,Male,1963-09-07,San Francisco,West,2025-02-03,,OK,False
+CUST0001343,Male,,San Diego,West,2024-03-04,,OK,False
+CUST0001344,Male,1976-01-16,Los Angeles,West,2022-02-15,,OK,False
+CUST0001345,Male,1995-05-26,Pittsburgh,Northeast,2023-09-17,Bronze,OK,False
+CUST0001346,Female,1960-11-22,Charlotte,Southeast,2023-03-18,Gold,OK,False
+CUST0001347,Female,2002-05-25,New York,Northeast,2025-07-31,Bronze,OK,False
+CUST0001348,Female,1963-04-08,Newark,Northeast,2025-03-27,,Blank,False
+CUST0001349,Female,1998-02-16,Houston,Southwest,2024-09-08,,OK,False
+CUST0001350,Female,1982-04-14,Seattle,West,2021-07-12,,OK,False
+CUST0001351,Male,1974-12-10,Denver,Southwest,2023-10-20,,OK,False
+CUST0001352,Female,1972-01-15,Miami,Southeast,2025-08-19,Bronze,OK,False
+CUST0001353,Male,1974-07-12,Orlando,Southeast,2024-04-21,Bronze,OK,False
+CUST0001354,Male,1954-02-17,Pittsburgh,Northeast,2024-10-08,,OK,False
+CUST0001355,Female,,Columbus,Midwest,2022-04-22,Bronze,OK,False
+CUST0001356,Female,1960-05-18,Pittsburgh,Northeast,2025-10-01,,OK,False
+CUST0001357,Female,1996-02-28,Los Angeles,West,2025-10-19,,OK,False
+CUST0001358,Female,1985-12-27,Detroit,Midwest,2023-11-02,Silver,OK,False
+CUST0001359,Female,1970-10-16,San Antonio,Southwest,2023-04-11,,OK,False
+CUST0001360,Female,1986-05-14,Dallas,Southwest,2023-11-06,,OK,False
+CUST0001361,Male,1997-07-08,New York,Northeast,2024-05-28,Silver,OK,False
+CUST0001362,Female,1963-04-06,New York,Northeast,2023-08-25,,OK,False
+CUST0001363,Female,,Chicago,Midwest,2025-04-23,Bronze,OK,False
+CUST0001364,Female,1999-04-27,Orlando,Southeast,2024-02-19,Gold,OK,True
+CUST0001365,Female,1957-07-24,Detroit,Midwest,2025-07-01,,Blank,False
+CUST0001366,Female,2004-07-25,Columbus,Midwest,2024-06-21,Silver,OK,False
+CUST0001367,Female,1968-12-01,New York,Northeast,2024-11-04,,OK,False
+CUST0001368,Male,1967-09-17,New York,Northeast,2021-04-15,,OK,False
+CUST0001369,Male,1982-02-05,Detroit,Midwest,2022-02-02,Silver,OK,False
+CUST0001370,Male,1973-08-28,Seattle,West,2022-07-31,Silver,OK,False
+CUST0001371,Female,1984-01-09,Chicago,Midwest,2023-04-10,,OK,False
+CUST0001372,Male,1975-01-31,Philadelphia,Northeast,2024-11-24,,OK,False
+CUST0001373,Female,1998-04-24,Columbus,Midwest,2024-01-10,,OK,False
+CUST0001374,Male,1965-04-06,Charlotte,Southeast,2024-07-09,,OK,False
+CUST0001375,Male,1997-06-24,Houston,Southwest,2023-09-26,,OK,False
+CUST0001376,Male,1999-01-04,San Francisco,West,2024-12-15,Gold,OK,False
+CUST0001377,Female,1986-03-18,Chicago,Midwest,2023-10-27,,OK,False
+CUST0001378,Male,1952-10-17,San Francisco,West,2021-11-29,Gold,OK,False
+CUST0001379,Female,1997-05-01,Atlanta,Southeast,2024-06-26,Gold,OK,False
+CUST0001380,Female,1991-04-25,Charlotte,Southeast,2023-11-03,,Blank,False
+CUST0001381,Female,1983-01-28,Phoenix,Southwest,2020-01-30,,OK,False
+CUST0001382,Female,1980-06-25,Miami,Southeast,2022-06-22,Platinum,Blank,False
+CUST0001383,Female,,Houston,Southwest,2023-12-09,Gold,OK,False
+CUST0001384,Female,1980-07-28,Seattle,West,2024-04-24,Silver,OK,False
+CUST0001385,Female,1963-12-11,Orlando,Southeast,2025-07-30,Bronze,OK,False
+CUST0001386,Female,1996-01-08,Charlotte,Southeast,2023-09-03,Gold,OK,False
+CUST0001387,Female,2005-03-07,Las Vegas,West,2024-02-29,,OK,False
+CUST0001388,,1986-01-12,Seattle,West,2025-03-17,Silver,OK,False
+CUST0001389,Male,1993-04-25,San Francisco,West,2025-08-26,,OK,False
+CUST0001390,Female,,Pittsburgh,Northeast,2022-07-26,,OK,False
+CUST0001391,Male,1986-03-18,Phoenix,Southwest,2025-11-09,,OK,False
+CUST0001392,Female,1972-06-22,Los Angeles,West,2025-04-19,,OK,False
+CUST0001393,Female,1992-12-25,Miami,Southeast,2022-05-24,,OK,False
+CUST0001394,Female,1951-12-10,Houston,Southwest,2024-05-31,Silver,OK,False
+CUST0001395,Female,1957-07-29,Austin,Southwest,2022-07-15,Platinum,OK,True
+CUST0001396,Female,1965-01-15,Charlotte,Southeast,2024-03-22,,OK,False
+CUST0001397,Female,1951-05-18,Austin,Southwest,2020-04-06,,OK,False
+CUST0001398,Female,1975-07-03,Los Angeles,West,2024-03-26,,OK,False
+CUST0001399,Female,1953-03-13,Las Vegas,West,2024-02-22,Bronze,OK,False
+CUST0001400,Female,1995-11-04,Seattle,West,2020-01-18,,OK,False
+CUST0001401,Male,1958-02-20,Los Angeles,West,2022-04-29,,Invalid,False
+CUST0001402,Male,1952-06-02,Chicago,Midwest,2023-03-08,,OK,False
+CUST0001403,Female,1954-08-02,Portland,West,2023-10-18,Gold,OK,False
+CUST0001404,Female,1993-12-15,Newark,Northeast,2024-08-20,,OK,False
+CUST0001405,Male,1976-04-14,Dallas,Southwest,2022-05-12,Bronze,Blank,False
+CUST0001406,Male,1999-02-28,San Francisco,West,2021-08-29,,OK,False
+CUST0001407,Female,1954-04-12,San Antonio,Southwest,2020-04-21,,OK,False
+CUST0001408,Female,2002-10-26,Orlando,Southeast,2025-06-22,Bronze,OK,False
+CUST0001409,Female,2001-11-27,Philadelphia,Northeast,2025-02-24,Bronze,Blank,False
+CUST0001410,Female,1986-08-30,Charlotte,Southeast,2021-12-28,,Blank,False
+CUST0001411,Female,1977-09-06,Boston,Northeast,2023-09-27,,OK,False
+CUST0001412,Female,1993-11-12,St. Louis,Midwest,2021-12-28,,OK,False
+CUST0001413,Male,1998-03-07,Boston,Northeast,2025-07-23,,OK,False
+CUST0001414,,1977-06-03,Detroit,Midwest,2020-03-29,,OK,False
+CUST0001415,Female,1955-07-14,Boston,Northeast,2024-12-02,,OK,False
+CUST0001416,Female,1987-02-13,Boston,Northeast,2022-11-20,Silver,OK,False
+CUST0001417,Male,1962-09-24,Minneapolis,Midwest,2024-09-22,,Blank,False
+CUST0001418,Female,1974-11-12,Los Angeles,West,2023-01-29,Silver,Blank,False
+CUST0001419,Female,1953-06-26,Houston,Southwest,2020-03-04,Platinum,OK,False
+CUST0001420,Female,1985-02-24,Boston,Northeast,2025-07-23,,OK,False
+CUST0001421,Female,1982-08-30,Columbus,Midwest,2024-04-20,,Blank,False
+CUST0001422,Male,1994-08-02,Phoenix,Southwest,2025-01-29,Bronze,OK,True
+CUST0001423,Female,,Columbus,Midwest,2024-10-13,,Blank,False
+CUST0001424,,1989-03-26,Philadelphia,Northeast,2021-01-31,,OK,False
+CUST0001425,Male,1959-02-10,Detroit,Midwest,2024-03-08,Platinum,OK,False
+CUST0001426,,1965-01-07,Phoenix,Southwest,2025-09-11,,OK,False
+CUST0001427,Female,1980-05-01,Houston,Southwest,2024-05-31,,OK,False
+CUST0001428,Male,1965-05-21,Milwaukee,Midwest,2025-07-16,Bronze,OK,False
+CUST0001429,,1998-01-01,Chicago,Midwest,2024-12-05,Silver,OK,False
+CUST0001430,Male,1988-04-27,Houston,Southwest,2021-11-05,,OK,False
+CUST0001431,Female,1953-03-29,Milwaukee,Midwest,2020-11-24,Bronze,Blank,False
+CUST0001432,Male,1986-03-30,Chicago,Midwest,2023-05-23,Bronze,OK,False
+CUST0001433,Male,1967-03-21,Seattle,West,2023-10-22,Bronze,OK,False
+CUST0001434,Male,1963-07-04,Los Angeles,West,2024-11-16,,OK,False
+CUST0001435,Male,1970-08-25,Chicago,Midwest,2024-10-27,,OK,False
+CUST0001436,Male,2005-12-01,Hartford,Northeast,2025-03-27,,OK,False
+CUST0001437,Male,1979-05-12,Miami,Southeast,2024-09-17,Bronze,Blank,False
+CUST0001438,Male,1977-11-13,Chicago,Midwest,2023-11-19,,OK,False
+CUST0001439,Male,1977-09-29,Phoenix,Southwest,2025-04-02,Bronze,OK,False
+CUST0001440,Male,1966-12-12,San Francisco,West,2023-12-02,Bronze,Blank,False
+CUST0001441,Male,1981-02-21,San Diego,West,2024-12-06,,OK,False
+CUST0001442,Female,2003-03-07,San Francisco,West,2025-05-17,Bronze,OK,False
+CUST0001443,Female,1963-10-07,San Diego,West,2023-09-13,Bronze,OK,False
+CUST0001444,Female,1986-09-01,Minneapolis,Midwest,2020-09-15,,OK,False
+CUST0001445,Female,1978-04-08,Los Angeles,West,2020-12-10,Silver,Blank,False
+CUST0001446,Male,,Detroit,Midwest,2021-10-26,,OK,False
+CUST0001447,Male,,Miami,Southeast,2023-09-23,Gold,OK,False
+CUST0001448,Male,2001-10-23,San Francisco,West,2025-07-27,Bronze,OK,True
+CUST0001449,Male,1968-02-25,Pittsburgh,Northeast,2021-03-02,,OK,False
+CUST0001450,Male,1980-05-24,Denver,Southwest,2025-08-05,Bronze,OK,False
+CUST0001451,Male,1986-10-14,San Diego,West,2024-11-05,Bronze,Blank,False
+CUST0001452,Male,1977-07-03,Detroit,Midwest,2020-04-08,Bronze,Blank,False
+CUST0001453,Female,1965-02-27,Seattle,West,2021-07-27,,OK,False
+CUST0001454,Female,1987-11-01,Tampa,Southeast,2024-03-08,Bronze,OK,False
+CUST0001455,Male,1985-07-04,San Antonio,Southwest,2024-09-13,Bronze,OK,False
+CUST0001456,Female,1964-11-13,Houston,Southwest,2025-08-17,,OK,False
+CUST0001457,Female,1965-04-01,Las Vegas,West,2021-08-02,,OK,False
+CUST0001458,Male,1950-06-27,Las Vegas,West,2025-05-05,,OK,False
+CUST0001459,Female,1957-06-18,Houston,Southwest,2022-10-24,,OK,False
+CUST0001460,Female,1989-12-24,Philadelphia,Northeast,2020-04-13,,OK,False
+CUST0001461,Female,1976-07-24,Dallas,Southwest,2023-10-04,,Blank,False
+CUST0001462,Female,1980-05-31,Tampa,Southeast,2025-06-13,Bronze,OK,False
+CUST0001463,Male,1969-01-05,Houston,Southwest,2025-04-21,,OK,False
+CUST0001464,Male,1972-02-25,Seattle,West,2021-04-01,,OK,False
+CUST0001465,Male,1984-01-01,New York,Northeast,2021-03-02,,OK,False
+CUST0001466,Male,1964-12-27,Boston,Northeast,2024-12-31,,OK,False
+CUST0001467,Male,1998-06-08,New York,Northeast,2025-04-20,Bronze,OK,False
+CUST0001468,Male,1959-10-07,Detroit,Midwest,2021-11-05,,OK,False
+CUST0001469,Male,1988-10-21,San Diego,West,2022-09-22,,OK,False
+CUST0001470,Female,1960-12-03,Boston,Northeast,2024-05-23,Silver,OK,False
+CUST0001471,Female,2002-02-27,Pittsburgh,Northeast,2023-05-27,Silver,OK,False
+CUST0001472,Female,1992-07-29,Portland,West,2023-02-02,Platinum,OK,False
+CUST0001473,Male,1984-10-02,Atlanta,Southeast,2023-05-08,,OK,False
+CUST0001474,,1977-04-14,San Francisco,West,2024-04-16,Silver,OK,False
+CUST0001475,Female,1950-05-11,Detroit,Midwest,2022-09-20,,OK,False
+CUST0001476,Female,1999-06-17,Milwaukee,Midwest,2023-10-09,Silver,OK,False
+CUST0001477,Male,1968-07-16,Nashville,Southeast,2024-01-03,,OK,False
+CUST0001478,Female,1983-04-13,Austin,Southwest,2021-03-20,Platinum,OK,False
+CUST0001479,Male,1991-09-13,Austin,Southwest,2025-11-29,,OK,False
+CUST0001480,Male,1998-09-03,San Antonio,Southwest,2020-06-03,Silver,OK,False
+CUST0001481,Male,,Columbus,Midwest,2024-08-03,Bronze,OK,False
+CUST0001482,Male,,Portland,West,2024-07-20,Gold,OK,False
+CUST0001483,Female,1984-02-17,Atlanta,Southeast,2024-05-04,,OK,False
+CUST0001484,Male,1965-08-20,Charlotte,Southeast,2024-08-25,Bronze,OK,False
+CUST0001485,Female,1953-04-13,Los Angeles,West,2024-05-01,Silver,OK,False
+CUST0001486,Male,2005-02-11,Phoenix,Southwest,2023-06-28,,OK,False
+CUST0001487,Female,1960-05-06,Chicago,Midwest,2021-02-09,,OK,False
+CUST0001488,Female,1991-09-22,Atlanta,Southeast,2020-04-06,,OK,False
+CUST0001489,Male,1964-05-16,Columbus,Midwest,2021-06-25,Bronze,Invalid,False
+CUST0001490,Male,1998-06-30,Pittsburgh,Northeast,2025-06-06,Bronze,OK,False
+CUST0001491,Female,1979-07-01,Houston,Southwest,2025-09-22,Silver,OK,True
+CUST0001492,Female,1966-07-03,San Diego,West,2025-04-26,,OK,False
+CUST0001493,Male,1966-09-06,Detroit,Midwest,2023-11-14,Platinum,OK,False
+CUST0001494,Male,1957-04-20,Atlanta,Southeast,2020-03-23,,OK,False
+CUST0001495,Female,1994-07-24,Orlando,Southeast,2023-01-31,,Blank,False
+CUST0001496,Male,1972-12-07,Phoenix,Southwest,2022-10-05,,Blank,False
+CUST0001497,Female,1993-07-12,Atlanta,Southeast,2024-10-25,,OK,False
+CUST0001498,Male,2004-01-09,San Francisco,West,2025-11-17,,OK,False
+CUST0001499,Female,1970-05-25,Charlotte,Southeast,2025-03-01,,Blank,False
+CUST0001500,Female,1963-04-16,Orlando,Southeast,2021-06-08,,OK,False
+CUST0001501,Female,,San Francisco,West,2025-09-05,Silver,OK,False
+CUST0001502,Male,1998-07-28,Dallas,Southwest,2022-01-24,Silver,OK,False
+CUST0001503,Male,1965-12-19,Pittsburgh,Northeast,2023-06-10,,OK,False
+CUST0001504,Male,2002-11-24,Seattle,West,2021-03-02,,OK,False
+CUST0001505,Female,1998-10-09,New York,Northeast,2024-02-19,,OK,False
+CUST0001506,Female,1994-06-23,Charlotte,Southeast,2024-04-19,,OK,False
+CUST0001507,Female,1967-12-12,Philadelphia,Northeast,2025-01-11,,OK,False
+CUST0001508,Female,1956-05-02,Portland,West,2025-07-29,Silver,OK,False
+CUST0001509,Female,1984-02-25,Las Vegas,West,2025-01-29,,OK,False
+CUST0001510,Male,1998-09-25,Milwaukee,Midwest,2025-05-10,Bronze,OK,False
+CUST0001511,Female,2001-10-15,San Francisco,West,2020-03-13,,OK,False
+CUST0001512,Female,1966-03-10,Columbus,Midwest,2024-02-05,Platinum,Blank,False
+CUST0001513,,1994-02-08,Dallas,Southwest,2024-07-20,,OK,False
+CUST0001514,Female,2002-04-30,Pittsburgh,Northeast,2025-08-18,,OK,False
+CUST0001515,Female,1967-08-23,Charlotte,Southeast,2024-12-15,,OK,False
+CUST0001516,Male,1988-12-29,Charlotte,Southeast,2023-06-23,,OK,False
+CUST0001517,Female,2001-07-09,New York,Northeast,2024-09-17,,OK,False
+CUST0001518,Female,1971-12-01,Austin,Southwest,2021-07-15,Silver,OK,False
+CUST0001519,Female,1997-04-16,Charlotte,Southeast,2024-06-17,Bronze,OK,False
+CUST0001520,Female,,Minneapolis,Midwest,2024-07-17,,OK,False
+CUST0001521,,1977-01-11,Minneapolis,Midwest,2023-09-07,Silver,OK,False
+CUST0001522,Female,1987-02-07,Dallas,Southwest,2024-01-16,Gold,OK,False
+CUST0001523,Female,1970-01-27,Detroit,Midwest,2024-11-06,,OK,False
+CUST0001524,Male,1994-09-02,Newark,Northeast,2024-10-08,,OK,False
+CUST0001525,Male,1972-12-26,Dallas,Southwest,2020-04-01,,OK,False
+CUST0001526,Female,1993-03-30,New York,Northeast,2024-08-25,,OK,False
+CUST0001527,Male,2001-08-17,Los Angeles,West,2025-07-13,,OK,False
+CUST0001528,Female,2004-05-20,Los Angeles,West,2025-03-16,Silver,OK,False
+CUST0001529,Male,,Miami,Southeast,2023-10-30,Gold,OK,False
+CUST0001530,Male,1969-11-28,Seattle,West,2021-02-08,Silver,OK,False
+CUST0001531,Female,1990-01-26,Denver,Southwest,2025-07-03,Bronze,OK,False
+CUST0001532,Female,2005-12-27,Milwaukee,Midwest,2021-07-31,,OK,False
+CUST0001533,Female,1985-01-25,Dallas,Southwest,2020-09-27,,OK,False
+CUST0001534,Male,1954-09-02,Charlotte,Southeast,2021-05-14,,OK,False
+CUST0001535,Male,1970-07-26,Columbus,Midwest,2022-02-01,Silver,OK,False
+CUST0001536,Female,1957-11-15,Tampa,Southeast,2023-02-22,Platinum,OK,False
+CUST0001537,,1978-05-30,Charlotte,Southeast,2025-08-26,,OK,False
+CUST0001538,Female,1979-12-21,Columbus,Midwest,2020-10-28,,OK,False
+CUST0001539,Male,1957-07-07,Milwaukee,Midwest,2023-12-06,Bronze,OK,False
+CUST0001540,Male,1994-04-20,Las Vegas,West,2024-04-14,Silver,OK,False
+CUST0001541,Male,1996-06-05,Minneapolis,Midwest,2024-07-11,,OK,False
+CUST0001542,Female,1990-05-20,Charlotte,Southeast,2022-11-22,,OK,False
+CUST0001543,Male,1972-07-31,Charlotte,Southeast,2021-12-12,,OK,False
+CUST0001544,Female,1983-06-13,Dallas,Southwest,2024-05-15,,OK,False
+CUST0001545,Male,1989-02-01,Milwaukee,Midwest,2023-11-10,Silver,OK,False
+CUST0001546,Male,1997-10-04,Orlando,Southeast,2020-05-19,,OK,False
+CUST0001547,Female,1994-03-15,Los Angeles,West,2025-07-28,Bronze,OK,False
+CUST0001548,Female,,Pittsburgh,Northeast,2022-03-02,,OK,False
+CUST0001549,Male,1964-01-11,Columbus,Midwest,2024-08-31,,OK,False
+CUST0001550,Male,1975-10-03,Detroit,Midwest,2025-09-01,Bronze,OK,False
+CUST0001551,Female,1964-04-23,New York,Northeast,2022-05-30,,OK,False
+CUST0001552,Male,,Los Angeles,West,2020-12-02,,OK,False
+CUST0001553,Male,1969-12-04,Phoenix,Southwest,2025-11-16,Bronze,OK,False
+CUST0001554,Male,1980-08-06,Pittsburgh,Northeast,2020-09-11,,OK,False
+CUST0001555,Male,1962-01-15,Boston,Northeast,2025-03-12,,OK,False
+CUST0001556,Male,1994-06-09,Charlotte,Southeast,2025-03-02,Bronze,OK,False
+CUST0001557,,1982-07-15,Austin,Southwest,2024-05-09,,OK,False
+CUST0001558,Male,1964-11-22,Phoenix,Southwest,2021-06-16,,OK,False
+CUST0001559,Male,2001-06-01,Houston,Southwest,2025-01-24,,OK,False
+CUST0001560,Female,1975-05-01,Charlotte,Southeast,2025-06-17,Silver,OK,False
+CUST0001561,Female,1970-04-09,Nashville,Southeast,2024-01-26,,OK,False
+CUST0001562,Male,1972-02-12,Miami,Southeast,2020-06-15,,OK,False
+CUST0001563,,1989-01-13,Dallas,Southwest,2021-05-06,Silver,OK,False
+CUST0001564,Female,1978-08-06,Chicago,Midwest,2023-12-09,,OK,False
+CUST0001565,Female,2004-11-29,Dallas,Southwest,2025-02-06,Bronze,OK,False
+CUST0001566,Male,1962-05-10,Minneapolis,Midwest,2024-03-26,,OK,False
+CUST0001567,Male,1980-08-31,Minneapolis,Midwest,2024-12-09,Bronze,OK,False
+CUST0001568,Female,1985-12-11,Philadelphia,Northeast,2024-06-02,Bronze,OK,False
+CUST0001569,Female,1978-07-02,Philadelphia,Northeast,2024-02-16,,OK,True
+CUST0001570,Female,1994-07-23,Minneapolis,Midwest,2024-06-07,,OK,False
+CUST0001571,Male,1964-07-18,San Antonio,Southwest,2024-12-07,,Blank,False
+CUST0001572,Female,,Chicago,Midwest,2023-07-25,Silver,OK,False
+CUST0001573,,1987-02-06,Columbus,Midwest,2023-09-09,,OK,False
+CUST0001574,Male,1959-02-23,Atlanta,Southeast,2025-03-18,Bronze,Invalid,False
+CUST0001575,Male,1990-07-20,Los Angeles,West,2021-11-02,,OK,False
+CUST0001576,Female,2005-06-03,New York,Northeast,2023-03-15,Silver,OK,False
+CUST0001577,Female,1981-09-10,Los Angeles,West,2023-06-09,Gold,OK,False
+CUST0001578,Male,1974-05-27,Miami,Southeast,2021-06-22,Gold,OK,False
+CUST0001579,Male,1957-01-21,New York,Northeast,2020-12-23,,Blank,False
+CUST0001580,Female,1990-03-15,Miami,Southeast,2025-04-07,Bronze,OK,False
+CUST0001581,Female,,Orlando,Southeast,2021-10-12,Gold,OK,False
+CUST0001582,Female,1951-11-02,Los Angeles,West,2025-07-31,,OK,False
+CUST0001583,Female,1987-02-25,Houston,Southwest,2024-03-18,Bronze,OK,False
+CUST0001584,Female,,Dallas,Southwest,2021-06-14,Gold,OK,False
+CUST0001585,Female,1998-10-22,Detroit,Midwest,2024-08-16,Gold,OK,False
+CUST0001586,Male,1958-06-30,Phoenix,Southwest,2025-06-30,,OK,False
+CUST0001587,Male,1963-02-02,San Diego,West,2023-07-25,Bronze,OK,False
+CUST0001588,Female,1989-07-21,Nashville,Southeast,2022-05-21,,OK,False
+CUST0001589,Female,1981-09-08,Charlotte,Southeast,2025-09-12,,OK,False
+CUST0001590,Female,1951-05-07,Orlando,Southeast,2024-09-14,,OK,False
+CUST0001591,Male,2004-11-23,Houston,Southwest,2022-01-09,Bronze,Blank,False
+CUST0001592,Female,1989-05-17,Chicago,Midwest,2020-03-29,,OK,False
+CUST0001593,,1959-06-11,Phoenix,Southwest,2023-04-09,,OK,False
+CUST0001594,Female,2004-07-06,Houston,Southwest,2023-07-17,Bronze,OK,False
+CUST0001595,Male,1959-01-27,Portland,West,2021-09-02,,OK,False
+CUST0001596,Female,1982-04-01,Columbus,Midwest,2025-10-07,,OK,False
+CUST0001597,Male,1992-05-05,Houston,Southwest,2024-06-28,Silver,OK,False
+CUST0001598,Female,1997-08-02,New York,Northeast,2025-05-04,Bronze,OK,False
+CUST0001599,Female,1969-10-12,San Francisco,West,2024-01-27,,OK,False
+CUST0001600,Male,1966-09-20,Miami,Southeast,2024-11-03,Bronze,OK,False
+CUST0001601,Male,1994-11-24,Charlotte,Southeast,2023-06-13,,OK,False
+CUST0001602,Female,1968-09-28,Miami,Southeast,2020-09-16,,OK,False
+CUST0001603,Male,2000-10-30,Chicago,Midwest,2025-01-22,Silver,OK,False
+CUST0001604,Male,1969-06-20,San Francisco,West,2025-08-20,Bronze,OK,False
+CUST0001605,Female,1962-02-27,Chicago,Midwest,2025-02-12,,OK,False
+CUST0001606,,1965-10-12,Las Vegas,West,2025-02-05,Bronze,OK,False
+CUST0001607,,1983-08-08,Austin,Southwest,2025-06-30,Bronze,OK,False
+CUST0001608,Male,1955-05-25,Detroit,Midwest,2023-04-14,Gold,OK,False
+CUST0001609,Male,2004-01-06,Portland,West,2023-12-14,,OK,False
+CUST0001610,Male,1996-06-12,New York,Northeast,2024-10-13,Silver,OK,False
+CUST0001611,Female,1994-12-28,New York,Northeast,2021-11-12,,OK,False
+CUST0001612,Female,1987-05-19,Dallas,Southwest,2024-10-16,Platinum,OK,False
+CUST0001613,Male,1952-05-01,Phoenix,Southwest,2023-08-17,Bronze,OK,False
+CUST0001614,Male,2005-09-11,Las Vegas,West,2021-09-14,Bronze,OK,True
+CUST0001615,Female,1980-10-11,Charlotte,Southeast,2024-07-10,,OK,False
+CUST0001616,Female,1998-07-25,Hartford,Northeast,2025-05-02,Bronze,OK,False
+CUST0001617,Female,1977-01-15,Atlanta,Southeast,2023-09-22,Silver,OK,False
+CUST0001618,Female,1953-01-25,Hartford,Northeast,2024-12-02,,Blank,False
+CUST0001619,Female,2002-04-15,Denver,Southwest,2024-12-09,Silver,OK,False
+CUST0001620,Male,1975-04-22,Boston,Northeast,2025-02-26,,OK,False
+CUST0001621,Female,2001-10-10,Detroit,Midwest,2020-10-30,,OK,False
+CUST0001622,Female,1986-06-03,Tampa,Southeast,2025-10-10,Bronze,OK,False
+CUST0001623,Male,1957-05-25,Boston,Northeast,2023-12-03,,OK,False
+CUST0001624,Female,2003-11-07,Charlotte,Southeast,2021-11-05,Silver,OK,False
+CUST0001625,Female,1950-08-13,Philadelphia,Northeast,2021-05-03,Silver,OK,False
+CUST0001626,Male,1972-11-14,Seattle,West,2022-04-25,,OK,False
+CUST0001627,Female,2001-03-23,Seattle,West,2020-09-12,,OK,False
+CUST0001628,,1980-10-14,Phoenix,Southwest,2021-09-22,Bronze,OK,False
+CUST0001629,Male,1990-02-27,Chicago,Midwest,2025-09-08,,OK,False
+CUST0001630,Male,2000-11-06,San Francisco,West,2024-03-23,Silver,OK,False
+CUST0001631,Female,1983-01-17,Pittsburgh,Northeast,2025-04-23,,OK,False
+CUST0001632,Male,1980-12-01,San Francisco,West,2025-03-26,Bronze,OK,False
+CUST0001633,Male,,Seattle,West,2023-08-31,Bronze,OK,False
+CUST0001634,Female,,Atlanta,Southeast,2024-09-03,Bronze,OK,False
+CUST0001635,Male,1978-05-08,Chicago,Midwest,2023-10-27,Bronze,OK,False
+CUST0001636,Male,1956-12-13,Portland,West,2021-07-23,Bronze,OK,False
+CUST0001637,Female,1988-02-14,Portland,West,2022-08-13,Bronze,OK,False
+CUST0001638,Female,2005-09-21,Chicago,Midwest,2020-09-08,,Blank,False
+CUST0001639,Female,1955-02-25,Pittsburgh,Northeast,2020-11-24,,OK,False
+CUST0001640,Female,2001-07-22,Detroit,Midwest,2020-12-25,Gold,OK,False
+CUST0001641,Male,1953-02-24,Phoenix,Southwest,2025-08-30,,OK,False
+CUST0001642,Female,1967-08-12,Philadelphia,Northeast,2021-08-07,,Blank,False
+CUST0001643,Male,1996-09-26,Phoenix,Southwest,2025-07-24,Gold,OK,False
+CUST0001644,Female,1959-10-06,Houston,Southwest,2025-06-07,,Invalid,False
+CUST0001645,Male,1958-11-20,San Francisco,West,2021-11-02,Bronze,Blank,False
+CUST0001646,Female,1978-08-16,Chicago,Midwest,2023-12-24,,Blank,False
+CUST0001647,Male,1973-08-19,Chicago,Midwest,2025-06-07,,OK,False
+CUST0001648,Male,1997-04-22,Los Angeles,West,2023-12-28,,OK,False
+CUST0001649,Male,1972-01-03,San Diego,West,2025-01-08,Bronze,OK,False
+CUST0001650,Male,1960-08-22,Chicago,Midwest,2024-11-19,,OK,False
+CUST0001651,Female,2005-09-22,Seattle,West,2021-10-24,,OK,False
+CUST0001652,Female,1996-07-30,Boston,Northeast,2023-11-11,Silver,Blank,False
+CUST0001653,Female,2000-07-20,Miami,Southeast,2021-02-15,,OK,False
+CUST0001654,Male,1961-12-21,Newark,Northeast,2020-08-09,,Blank,False
+CUST0001655,Male,1965-01-08,Chicago,Midwest,2024-03-25,,OK,False
+CUST0001656,Male,2004-05-23,New York,Northeast,2024-11-02,Gold,OK,False
+CUST0001657,Female,1954-11-26,New York,Northeast,2023-05-23,Silver,OK,False
+CUST0001658,Female,1974-07-18,Houston,Southwest,2025-07-23,,OK,False
+CUST0001659,Male,1950-10-02,Phoenix,Southwest,2020-11-13,,OK,False
+CUST0001660,,2001-04-10,Los Angeles,West,2024-07-19,Bronze,OK,False
+CUST0001661,,1977-01-19,Columbus,Midwest,2024-03-02,,OK,False
+CUST0001662,Male,1982-10-19,San Diego,West,2024-09-08,Bronze,OK,False
+CUST0001663,Female,1959-07-16,San Diego,West,2025-06-02,Bronze,OK,False
+CUST0001664,Female,1964-07-24,Los Angeles,West,2024-05-01,Platinum,OK,False
+CUST0001665,Female,1951-01-14,Dallas,Southwest,2025-09-18,,OK,False
+CUST0001666,Female,1969-12-30,Los Angeles,West,2025-04-18,Bronze,OK,False
+CUST0001667,Male,1986-10-04,Columbus,Midwest,2025-04-01,Bronze,OK,False
+CUST0001668,Male,1955-03-26,Boston,Northeast,2024-12-11,,OK,False
+CUST0001669,Female,1954-07-09,Los Angeles,West,2023-02-07,Silver,OK,False
+CUST0001670,Male,1971-03-04,Chicago,Midwest,2023-04-13,,OK,False
+CUST0001671,Female,1983-05-18,Denver,Southwest,2023-04-19,Gold,OK,False
+CUST0001672,Female,1955-05-24,Los Angeles,West,2023-05-18,Bronze,OK,False
+CUST0001673,Male,1995-10-07,New York,Northeast,2021-01-02,Platinum,OK,False
+CUST0001674,Female,1978-01-12,Miami,Southeast,2024-05-12,,OK,False
+CUST0001675,Male,1977-02-09,Los Angeles,West,2025-03-25,,OK,False
+CUST0001676,Male,,Pittsburgh,Northeast,2020-11-02,,OK,False
+CUST0001677,Male,1997-01-26,Atlanta,Southeast,2025-03-21,,OK,False
+CUST0001678,Male,1977-12-12,San Diego,West,2023-12-29,Bronze,OK,False
+CUST0001679,Female,1963-11-06,Dallas,Southwest,2021-03-21,,OK,False
+CUST0001680,Male,1965-10-01,San Francisco,West,2025-01-27,,OK,False
+CUST0001681,Female,2004-04-20,Houston,Southwest,2024-02-05,,OK,False
+CUST0001682,Female,1979-12-02,Minneapolis,Midwest,2024-09-19,Bronze,OK,False
+CUST0001683,Female,1980-09-11,Orlando,Southeast,2024-05-26,Silver,OK,False
+CUST0001684,Female,1958-06-27,Los Angeles,West,2023-04-12,,OK,False
+CUST0001685,Female,1967-11-28,Houston,Southwest,2020-11-21,,OK,False
+CUST0001686,Female,1973-08-09,Chicago,Midwest,2021-03-21,Bronze,OK,False
+CUST0001687,Female,1979-03-10,Chicago,Midwest,2021-08-12,,OK,False
+CUST0001688,Male,1984-03-23,Atlanta,Southeast,2023-07-06,Bronze,OK,False
+CUST0001689,Female,1973-01-18,Pittsburgh,Northeast,2022-10-14,,OK,False
+CUST0001690,Female,1971-02-11,Detroit,Midwest,2022-09-08,Gold,OK,False
+CUST0001691,Female,1959-09-06,Atlanta,Southeast,2022-05-22,,OK,False
+CUST0001692,Female,2000-06-11,Los Angeles,West,2023-09-02,,OK,False
+CUST0001693,Female,2001-07-28,Austin,Southwest,2025-11-27,Silver,OK,False
+CUST0001694,Male,1988-12-31,New York,Northeast,2023-11-05,Bronze,OK,False
+CUST0001695,Male,1978-11-26,Seattle,West,2025-01-19,Bronze,OK,False
+CUST0001696,Female,1973-11-25,Los Angeles,West,2025-08-09,,Invalid,False
+CUST0001697,Male,1955-10-26,Houston,Southwest,2022-09-19,Bronze,OK,False
+CUST0001698,Female,1996-04-20,Phoenix,Southwest,2020-09-24,Silver,OK,False
+CUST0001699,Female,1957-08-25,Austin,Southwest,2024-09-23,,OK,False
+CUST0001700,Female,1999-08-31,Seattle,West,2025-08-11,,OK,False
+CUST0001701,Female,1984-05-26,Atlanta,Southeast,2024-03-19,,OK,False
+CUST0001702,Female,1996-09-26,Newark,Northeast,2024-12-20,Bronze,OK,False
+CUST0001703,Female,1962-12-13,San Francisco,West,2021-04-26,,OK,False
+CUST0001704,Female,1985-04-09,Boston,Northeast,2023-08-01,,OK,False
+CUST0001705,Female,1968-03-28,Phoenix,Southwest,2024-03-05,,OK,False
+CUST0001706,Female,1954-10-05,Detroit,Midwest,2023-10-26,Gold,OK,False
+CUST0001707,Female,1976-06-04,Austin,Southwest,2021-05-11,Gold,OK,False
+CUST0001708,Male,1986-11-09,Columbus,Midwest,2021-05-27,,OK,False
+CUST0001709,Female,,Miami,Southeast,2021-12-23,,OK,False
+CUST0001710,Female,,Pittsburgh,Northeast,2025-04-15,,OK,False
+CUST0001711,Female,1954-03-20,Chicago,Midwest,2024-08-11,,OK,False
+CUST0001712,Female,2001-11-20,Phoenix,Southwest,2020-01-14,,OK,False
+CUST0001713,Male,1968-03-04,Houston,Southwest,2025-04-30,,OK,False
+CUST0001714,Female,2001-01-24,Detroit,Midwest,2020-08-19,Bronze,OK,False
+CUST0001715,Female,1962-09-25,Orlando,Southeast,2025-10-09,,OK,False
+CUST0001716,Female,1987-12-16,St. Louis,Midwest,2025-07-15,,OK,False
+CUST0001717,Female,1971-11-27,Atlanta,Southeast,2024-04-10,,OK,False
+CUST0001718,Male,1983-11-18,Philadelphia,Northeast,2024-01-13,Bronze,OK,False
+CUST0001719,Male,2004-07-08,Minneapolis,Midwest,2022-03-11,,OK,False
+CUST0001720,Male,2005-04-17,Atlanta,Southeast,2025-03-22,,OK,False
+CUST0001721,Male,,Atlanta,Southeast,2024-12-30,,OK,False
+CUST0001722,Female,1996-12-23,Nashville,Southeast,2022-04-15,,OK,False
+CUST0001723,Female,1966-02-27,Philadelphia,Northeast,2020-06-05,,OK,False
+CUST0001724,Female,1993-03-23,Portland,West,2021-12-08,,OK,False
+CUST0001725,Female,1986-08-11,Boston,Northeast,2022-02-11,Bronze,OK,False
+CUST0001726,Male,1966-06-03,Philadelphia,Northeast,2025-07-07,,OK,False
+CUST0001727,Female,1993-08-06,Minneapolis,Midwest,2025-08-09,,OK,False
+CUST0001728,Male,1979-06-10,New York,Northeast,2022-12-22,,Invalid,False
+CUST0001729,Male,1983-07-30,Milwaukee,Midwest,2023-06-12,,OK,False
+CUST0001730,Female,1958-02-26,Milwaukee,Midwest,2025-01-22,Bronze,OK,False
+CUST0001731,Female,2002-02-13,Columbus,Midwest,2023-11-11,,OK,False
+CUST0001732,Female,1999-04-09,San Diego,West,2025-01-31,,Blank,False
+CUST0001733,Male,1994-05-27,Hartford,Northeast,2020-02-25,,OK,False
+CUST0001734,Male,2003-11-04,San Diego,West,2020-05-01,,Blank,False
+CUST0001735,Male,1957-11-29,Seattle,West,2024-10-26,,OK,False
+CUST0001736,Male,1988-12-24,Houston,Southwest,2022-11-10,,OK,False
+CUST0001737,Female,1998-10-16,Dallas,Southwest,2022-05-29,,OK,False
+CUST0001738,Female,1957-11-16,St. Louis,Midwest,2023-09-09,Bronze,OK,False
+CUST0001739,Female,1973-07-14,Austin,Southwest,2023-08-02,Bronze,OK,True
+CUST0001740,Male,2003-04-23,Columbus,Midwest,2023-10-28,,OK,False
+CUST0001741,,1990-08-22,Nashville,Southeast,2024-02-20,Gold,OK,False
+CUST0001742,Male,1982-06-06,Chicago,Midwest,2024-05-15,Silver,OK,False
+CUST0001743,Male,1968-09-26,Hartford,Northeast,2025-05-21,,OK,False
+CUST0001744,Female,1992-01-19,Seattle,West,2025-09-13,Gold,OK,False
+CUST0001745,Female,1969-07-09,Chicago,Midwest,2020-02-11,Platinum,OK,False
+CUST0001746,Male,1991-08-13,Charlotte,Southeast,2023-09-11,Silver,OK,False
+CUST0001747,Female,1969-07-24,St. Louis,Midwest,2024-12-20,,OK,False
+CUST0001748,Female,1983-07-17,Pittsburgh,Northeast,2022-10-16,,OK,False
+CUST0001749,Female,1996-02-22,Portland,West,2024-08-08,Gold,OK,False
+CUST0001750,Female,1972-11-11,San Diego,West,2021-04-24,,OK,False
+CUST0001751,Male,1954-02-20,Pittsburgh,Northeast,2025-03-26,,OK,False
+CUST0001752,Male,1963-12-08,Denver,Southwest,2022-04-30,,OK,False
+CUST0001753,Male,1982-11-24,Tampa,Southeast,2025-03-05,Silver,OK,False
+CUST0001754,Female,1982-01-14,San Francisco,West,2024-08-28,,OK,False
+CUST0001755,Male,1970-01-22,Newark,Northeast,2020-03-16,,OK,False
+CUST0001756,Female,1951-04-28,Orlando,Southeast,2024-02-28,Silver,Blank,False
+CUST0001757,Female,1999-05-22,Philadelphia,Northeast,2022-07-10,Gold,OK,False
+CUST0001758,Male,1968-07-20,Boston,Northeast,2025-02-25,Bronze,OK,False
+CUST0001759,Female,2001-02-09,Charlotte,Southeast,2020-12-28,,OK,False
+CUST0001760,Male,,Philadelphia,Northeast,2022-04-16,,OK,False
+CUST0001761,Female,,Charlotte,Southeast,2025-04-25,,OK,False
+CUST0001762,Male,1972-01-09,New York,Northeast,2024-11-02,Gold,OK,False
+CUST0001763,Male,1950-02-04,Chicago,Midwest,2020-04-07,Bronze,OK,False
+CUST0001764,Male,1977-10-06,Boston,Northeast,2020-01-03,Silver,OK,False
+CUST0001765,Female,1974-03-19,Boston,Northeast,2024-08-02,Platinum,OK,False
+CUST0001766,Male,1999-02-04,New York,Northeast,2022-06-27,Silver,OK,False
+CUST0001767,Female,1989-07-04,New York,Northeast,2023-11-25,Gold,OK,False
+CUST0001768,Male,2002-09-27,Detroit,Midwest,2024-10-16,Bronze,OK,False
+CUST0001769,Female,1987-08-02,Orlando,Southeast,2025-09-30,,Blank,False
+CUST0001770,Female,2001-03-16,Atlanta,Southeast,2023-11-15,,OK,False
+CUST0001771,Male,2005-05-27,Las Vegas,West,2025-05-15,Bronze,OK,False
+CUST0001772,Female,1973-04-24,San Francisco,West,2023-10-04,,OK,False
+CUST0001773,Female,1966-06-29,New York,Northeast,2025-07-30,,OK,False
+CUST0001774,Female,1963-10-14,New York,Northeast,2023-12-29,,OK,False
+CUST0001775,Female,1975-12-04,Atlanta,Southeast,2023-03-10,,OK,False
+CUST0001776,Female,1987-05-06,Atlanta,Southeast,2020-09-03,,OK,False
+CUST0001777,Female,1967-05-04,San Francisco,West,2023-12-17,Bronze,OK,False
+CUST0001778,Female,1998-08-17,Seattle,West,2021-03-05,,OK,False
+CUST0001779,Male,2004-08-18,Los Angeles,West,2024-09-12,Bronze,OK,False
+CUST0001780,Male,2000-05-16,New York,Northeast,2023-03-14,,OK,False
+CUST0001781,Male,1997-12-25,Tampa,Southeast,2023-06-28,,OK,False
+CUST0001782,Female,1951-04-21,Seattle,West,2025-10-20,,OK,False
+CUST0001783,Male,1988-06-27,Minneapolis,Midwest,2021-02-10,,OK,False
+CUST0001784,,1977-04-28,Seattle,West,2025-03-18,,OK,False
+CUST0001785,Male,1984-06-03,San Diego,West,2025-01-28,Bronze,OK,False
+CUST0001786,Male,1986-04-03,Milwaukee,Midwest,2022-04-04,,OK,False
+CUST0001787,,1959-09-28,Hartford,Northeast,2022-12-09,,OK,False
+CUST0001788,,1971-10-21,Miami,Southeast,2025-09-05,Silver,OK,False
+CUST0001789,Male,1964-03-25,Austin,Southwest,2025-08-23,,OK,False
+CUST0001790,Male,2001-07-15,Las Vegas,West,2022-07-23,,OK,True
+CUST0001791,Male,1986-03-08,Minneapolis,Midwest,2024-10-23,Gold,Blank,False
+CUST0001792,Male,1980-03-23,Columbus,Midwest,2025-08-16,Bronze,OK,False
+CUST0001793,Female,1988-08-12,Pittsburgh,Northeast,2024-07-28,,OK,False
+CUST0001794,Female,1962-06-20,Seattle,West,2025-01-10,,OK,False
+CUST0001795,,1956-12-10,Chicago,Midwest,2021-01-15,,OK,False
+CUST0001796,Male,1988-10-05,Philadelphia,Northeast,2023-10-16,,OK,False
+CUST0001797,,,San Francisco,West,2021-06-19,,OK,False
+CUST0001798,Female,1972-06-10,San Diego,West,2025-04-07,,OK,False
+CUST0001799,Female,1970-11-07,Tampa,Southeast,2022-01-12,,OK,False
+CUST0001800,Female,1989-01-09,Nashville,Southeast,2023-02-12,,OK,False
+CUST0001801,Female,1953-12-28,Philadelphia,Northeast,2020-07-21,,OK,False
+CUST0001802,Male,1978-06-10,Orlando,Southeast,2023-07-26,Gold,OK,False
+CUST0001803,Female,1982-02-07,Philadelphia,Northeast,2025-09-02,,OK,False
+CUST0001804,Female,1963-11-11,Detroit,Midwest,2024-04-12,,OK,False
+CUST0001805,Male,1964-06-13,Orlando,Southeast,2022-07-29,,OK,False
+CUST0001806,Male,1956-06-12,San Diego,West,2025-07-04,,OK,False
+CUST0001807,Male,1992-09-28,Philadelphia,Northeast,2025-05-15,Bronze,OK,False
+CUST0001808,Male,1963-01-13,Seattle,West,2022-02-03,,OK,False
+CUST0001809,Male,1999-08-25,Seattle,West,2020-03-07,,OK,False
+CUST0001810,Male,2005-12-12,Atlanta,Southeast,2022-04-13,Bronze,OK,False
+CUST0001811,Male,1961-04-28,Hartford,Northeast,2024-11-16,,OK,False
+CUST0001812,Male,2004-01-07,Detroit,Midwest,2024-12-20,,OK,False
+CUST0001813,Female,1957-07-25,Las Vegas,West,2020-07-29,,OK,False
+CUST0001814,Male,1994-02-09,San Diego,West,2020-01-27,Silver,OK,False
+CUST0001815,Female,1996-07-26,Boston,Northeast,2023-03-05,,OK,False
+CUST0001816,Female,1979-09-15,San Francisco,West,2021-01-12,,OK,False
+CUST0001817,Female,2002-08-31,Columbus,Midwest,2021-08-31,Gold,OK,False
+CUST0001818,Female,1992-12-17,Miami,Southeast,2021-05-16,Bronze,OK,False
+CUST0001819,Male,1976-12-03,Atlanta,Southeast,2025-10-17,,OK,False
+CUST0001820,Female,1963-10-25,Dallas,Southwest,2020-05-16,,OK,False
+CUST0001821,Female,2000-03-18,San Antonio,Southwest,2022-05-29,,OK,False
+CUST0001822,Male,1973-10-10,Seattle,West,2020-04-30,,OK,False
+CUST0001823,Female,,San Antonio,Southwest,2023-01-27,Gold,OK,False
+CUST0001824,Female,1962-07-17,Los Angeles,West,2025-06-01,Bronze,OK,False
+CUST0001825,Male,1994-03-24,Austin,Southwest,2025-01-30,,Blank,False
+CUST0001826,Female,1968-08-23,Austin,Southwest,2024-12-28,Gold,OK,False
+CUST0001827,,1966-05-12,Las Vegas,West,2022-07-14,,OK,True
+CUST0001828,Female,1968-09-14,Hartford,Northeast,2025-09-03,,OK,False
+CUST0001829,Female,1960-08-10,Dallas,Southwest,2024-04-13,,OK,False
+CUST0001830,Female,1997-11-25,Boston,Northeast,2024-08-11,,OK,False
+CUST0001831,Male,1976-03-04,Minneapolis,Midwest,2024-11-13,Bronze,OK,False
+CUST0001832,Male,1990-11-10,Chicago,Midwest,2024-07-08,Bronze,OK,False
+CUST0001833,Male,1957-04-15,Los Angeles,West,2022-10-06,,OK,False
+CUST0001834,Male,1996-06-15,Newark,Northeast,2025-03-26,,OK,False
+CUST0001835,Female,1986-02-24,Dallas,Southwest,2022-08-28,,OK,False
+CUST0001836,Female,1983-05-11,Portland,West,2020-09-12,Bronze,Blank,False
+CUST0001837,Male,2001-05-04,Charlotte,Southeast,2021-11-16,,OK,False
+CUST0001838,Female,1974-02-16,Minneapolis,Midwest,2021-06-04,Bronze,OK,False
+CUST0001839,Female,1988-11-24,St. Louis,Midwest,2024-05-10,Bronze,OK,False
+CUST0001840,Male,1993-12-23,New York,Northeast,2021-01-30,Silver,OK,False
+CUST0001841,Male,1995-02-25,Houston,Southwest,2021-05-02,,Blank,False
+CUST0001842,Male,1982-04-26,Boston,Northeast,2024-10-25,Silver,OK,False
+CUST0001843,Female,1978-01-26,New York,Northeast,2021-04-20,,OK,False
+CUST0001844,Female,1971-01-06,Charlotte,Southeast,2025-11-06,,OK,False
+CUST0001845,Female,2004-04-10,San Diego,West,2025-07-31,,OK,False
+CUST0001846,Male,1970-01-20,Seattle,West,2025-03-30,,OK,False
+CUST0001847,Male,1978-01-15,Miami,Southeast,2022-08-17,,Blank,False
+CUST0001848,Female,2001-04-29,St. Louis,Midwest,2021-03-02,,OK,False
+CUST0001849,Male,1980-02-18,Los Angeles,West,2020-07-12,Bronze,OK,False
+CUST0001850,,1986-11-09,Phoenix,Southwest,2025-05-04,Bronze,OK,False
+CUST0001851,Male,1951-05-19,Orlando,Southeast,2024-02-05,,Blank,False
+CUST0001852,Male,,Minneapolis,Midwest,2021-01-29,,OK,False
+CUST0001853,Male,1998-10-15,San Francisco,West,2021-05-25,,OK,False
+CUST0001854,Female,1972-04-02,Los Angeles,West,2024-11-29,,OK,False
+CUST0001855,Female,1972-10-19,Portland,West,2024-09-16,Bronze,OK,False
+CUST0001856,Female,1975-06-23,Dallas,Southwest,2025-08-05,,OK,False
+CUST0001857,Male,1958-05-13,Philadelphia,Northeast,2024-02-08,Silver,OK,False
+CUST0001858,Male,1954-09-11,Detroit,Midwest,2021-03-15,,OK,False
+CUST0001859,Male,1986-12-31,Las Vegas,West,2023-09-27,Platinum,OK,False
+CUST0001860,Female,1971-09-05,Atlanta,Southeast,2025-01-31,,OK,False
+CUST0001861,,1985-10-25,Orlando,Southeast,2020-07-23,,OK,False
+CUST0001862,Female,1996-01-29,Houston,Southwest,2021-11-06,Silver,OK,False
+CUST0001863,Female,1988-06-12,San Francisco,West,2025-05-21,,OK,False
+CUST0001864,Female,1998-12-22,Minneapolis,Midwest,2023-10-28,,OK,False
+CUST0001865,,1998-10-06,Boston,Northeast,2022-01-23,,OK,False
+CUST0001866,Male,1969-11-07,Minneapolis,Midwest,2025-10-08,,OK,False
+CUST0001867,Male,1980-12-21,Chicago,Midwest,2025-11-27,,OK,False
+CUST0001868,Male,1973-08-20,Los Angeles,West,2024-10-30,Gold,OK,False
+CUST0001869,Female,,Portland,West,2020-11-05,Gold,OK,False
+CUST0001870,Female,1986-05-05,San Francisco,West,2024-07-27,Bronze,OK,False
+CUST0001871,Male,1953-10-10,Chicago,Midwest,2020-11-27,Silver,OK,False
+CUST0001872,Female,2005-11-07,Houston,Southwest,2025-06-13,,Blank,False
+CUST0001873,Female,1983-12-12,Minneapolis,Midwest,2023-08-20,Silver,OK,False
+CUST0001874,Female,1966-07-29,Atlanta,Southeast,2021-11-01,Platinum,OK,False
+CUST0001875,Male,1977-04-13,Los Angeles,West,2023-08-23,,OK,False
+CUST0001876,Male,1967-06-29,Los Angeles,West,2024-03-17,,OK,False
+CUST0001877,Female,1969-10-04,Minneapolis,Midwest,2020-08-30,,OK,False
+CUST0001878,Male,1993-06-15,Phoenix,Southwest,2022-10-04,Silver,OK,False
+CUST0001879,Female,1956-07-30,Columbus,Midwest,2024-10-04,Silver,OK,False
+CUST0001880,Female,1998-01-09,New York,Northeast,2021-12-15,,OK,False
+CUST0001881,,1960-12-23,Chicago,Midwest,2025-11-04,Bronze,OK,False
+CUST0001882,Female,1950-03-08,Chicago,Midwest,2023-02-15,Bronze,OK,False
+CUST0001883,Female,1982-12-19,Philadelphia,Northeast,2023-12-16,Bronze,OK,False
+CUST0001884,Female,1971-07-25,San Antonio,Southwest,2025-07-18,,Blank,False
+CUST0001885,Male,1970-05-22,Dallas,Southwest,2020-11-16,Gold,OK,False
+CUST0001886,Female,1987-06-01,Dallas,Southwest,2023-04-12,,OK,False
+CUST0001887,Male,2003-07-24,Orlando,Southeast,2022-03-25,,OK,False
+CUST0001888,Female,,Miami,Southeast,2023-11-05,Gold,Blank,False
+CUST0001889,Male,2000-03-04,New York,Northeast,2021-04-18,,OK,False
+CUST0001890,Female,1991-01-28,Milwaukee,Midwest,2021-08-25,Silver,OK,False
+CUST0001891,Female,1959-05-05,New York,Northeast,2024-08-04,,OK,False
+CUST0001892,Female,1993-10-12,San Diego,West,2020-10-24,,OK,False
+CUST0001893,Female,1973-04-21,Nashville,Southeast,2025-01-15,,OK,False
+CUST0001894,Female,2003-04-27,Newark,Northeast,2025-05-21,Silver,Blank,False
+CUST0001895,,1987-10-10,Boston,Northeast,2025-11-08,,OK,False
+CUST0001896,Female,1983-10-31,Boston,Northeast,2024-01-28,,OK,False
+CUST0001897,Female,1983-05-02,Dallas,Southwest,2020-01-25,,OK,False
+CUST0001898,Male,1952-10-19,New York,Northeast,2020-09-13,Platinum,Blank,False
+CUST0001899,Female,1990-01-24,Phoenix,Southwest,2023-12-29,,OK,False
+CUST0001900,Female,1986-05-18,Seattle,West,2022-07-14,,OK,False
+CUST0001901,Female,2004-06-11,Miami,Southeast,2021-03-17,Bronze,OK,False
+CUST0001902,Male,1996-08-19,Houston,Southwest,2020-11-07,,Blank,False
+CUST0001903,Female,1974-03-21,Detroit,Midwest,2025-10-10,,OK,False
+CUST0001904,Female,1974-09-26,Phoenix,Southwest,2025-02-28,,OK,False
+CUST0001905,Female,1953-03-04,St. Louis,Midwest,2025-06-08,,OK,True
+CUST0001906,Male,1956-07-22,Hartford,Northeast,2022-11-07,Gold,Blank,False
+CUST0001907,Female,1972-12-27,Milwaukee,Midwest,2022-05-30,,OK,False
+CUST0001908,Female,1996-10-03,Houston,Southwest,2024-04-02,Silver,OK,False
+CUST0001909,Male,2004-08-13,Orlando,Southeast,2022-03-27,Silver,OK,False
+CUST0001910,Female,1985-07-05,Philadelphia,Northeast,2020-09-06,Gold,OK,False
+CUST0001911,Female,1967-08-08,Milwaukee,Midwest,2020-09-21,,OK,False
+CUST0001912,Female,1973-05-05,Detroit,Midwest,2025-11-11,Bronze,Blank,False
+CUST0001913,Female,1992-09-18,Atlanta,Southeast,2023-01-16,Silver,OK,False
+CUST0001914,Female,2005-04-22,Los Angeles,West,2020-11-17,,OK,False
+CUST0001915,Female,1989-04-04,San Diego,West,2025-09-29,Bronze,OK,False
+CUST0001916,Male,1988-03-29,St. Louis,Midwest,2025-08-07,,OK,False
+CUST0001917,Female,1959-06-12,Pittsburgh,Northeast,2024-11-23,,OK,False
+CUST0001918,Male,1972-03-29,Charlotte,Southeast,2020-05-06,,Blank,False
+CUST0001919,Male,1965-01-12,Las Vegas,West,2025-03-11,,Blank,False
+CUST0001920,Male,1991-11-08,St. Louis,Midwest,2024-04-24,Silver,OK,False
+CUST0001921,Male,1964-11-17,Phoenix,Southwest,2021-01-05,Silver,OK,True
+CUST0001922,Male,1982-03-09,New York,Northeast,2023-12-30,Bronze,OK,False
+CUST0001923,Female,1961-09-09,Detroit,Midwest,2023-11-28,Bronze,OK,False
+CUST0001924,Female,1999-11-24,Miami,Southeast,2024-03-31,Platinum,OK,False
+CUST0001925,Female,1971-01-23,San Diego,West,2024-03-06,,OK,False
+CUST0001926,Female,1952-10-10,Dallas,Southwest,2020-04-30,Silver,OK,False
+CUST0001927,Male,1959-03-17,Atlanta,Southeast,2021-03-26,,OK,False
+CUST0001928,Female,1962-07-05,Dallas,Southwest,2023-10-05,,OK,False
+CUST0001929,Male,1988-07-16,Los Angeles,West,2023-09-27,,OK,False
+CUST0001930,Female,2001-01-30,San Francisco,West,2021-01-11,Bronze,OK,False
+CUST0001931,Male,1956-08-06,Chicago,Midwest,2023-06-13,,OK,False
+CUST0001932,Female,1999-04-14,San Francisco,West,2023-12-28,Gold,OK,False
+CUST0001933,Female,1982-03-10,Los Angeles,West,2020-05-20,,OK,False
+CUST0001934,,1982-07-10,Philadelphia,Northeast,2024-01-30,,OK,False
+CUST0001935,Male,1959-07-17,Dallas,Southwest,2020-07-21,,Blank,False
+CUST0001936,Male,1997-10-06,Orlando,Southeast,2025-03-27,,OK,False
+CUST0001937,Male,2003-09-23,Chicago,Midwest,2023-01-03,,OK,False
+CUST0001938,Male,1988-03-06,Boston,Northeast,2023-04-26,Platinum,Blank,True
+CUST0001939,Male,1970-08-07,Miami,Southeast,2021-02-12,,OK,False
+CUST0001940,,1966-11-02,Chicago,Midwest,2024-11-15,Gold,OK,False
+CUST0001941,,1969-06-18,San Antonio,Southwest,2021-12-12,Bronze,OK,False
+CUST0001942,Female,1985-05-30,Milwaukee,Midwest,2022-03-21,Silver,OK,False
+CUST0001943,Male,1952-06-15,Miami,Southeast,2022-02-27,,OK,False
+CUST0001944,Male,1952-08-09,Tampa,Southeast,2025-02-27,,OK,False
+CUST0001945,,1953-02-20,Newark,Northeast,2025-11-26,Bronze,OK,False
+CUST0001946,Male,1990-01-23,San Francisco,West,2024-04-23,Bronze,OK,False
+CUST0001947,Male,1972-05-09,Los Angeles,West,2023-11-21,Bronze,OK,False
+CUST0001948,Female,1996-06-17,Chicago,Midwest,2025-03-24,,OK,False
+CUST0001949,Male,1973-11-26,Hartford,Northeast,2025-10-31,,Blank,False
+CUST0001950,Female,1967-12-16,St. Louis,Midwest,2025-10-15,,OK,False
+CUST0001951,Male,2002-01-15,San Diego,West,2025-11-08,,OK,False
+CUST0001952,Female,1982-02-22,Philadelphia,Northeast,2023-12-09,Silver,OK,False
+CUST0001953,Male,1993-10-20,Los Angeles,West,2021-04-15,,OK,False
+CUST0001954,Male,1970-09-09,Los Angeles,West,2024-05-24,Silver,OK,False
+CUST0001955,Male,2002-09-02,San Francisco,West,2024-04-04,,OK,False
+CUST0001956,Male,1978-06-22,New York,Northeast,2025-08-11,Silver,OK,False
+CUST0001957,Female,2003-12-04,Houston,Southwest,2024-11-05,,OK,False
+CUST0001958,Female,2000-01-14,Austin,Southwest,2025-01-29,Gold,OK,False
+CUST0001959,Male,1966-09-05,New York,Northeast,2023-09-14,,OK,False
+CUST0001960,Male,1985-06-26,Boston,Northeast,2024-12-30,Bronze,OK,False
+CUST0001961,Female,1975-06-15,Houston,Southwest,2025-02-20,Platinum,OK,False
+CUST0001962,Female,1994-04-12,Hartford,Northeast,2021-06-11,,Blank,False
+CUST0001963,Female,1990-08-01,Philadelphia,Northeast,2025-06-05,,OK,False
+CUST0001964,,1958-04-11,Atlanta,Southeast,2024-05-30,Gold,OK,False
+CUST0001965,Female,1954-09-05,New York,Northeast,2025-08-11,Silver,OK,False
+CUST0001966,Female,1967-06-11,Las Vegas,West,2021-10-20,,OK,False
+CUST0001967,Female,1970-12-25,San Francisco,West,2024-09-12,Bronze,OK,False
+CUST0001968,Female,1998-01-12,Phoenix,Southwest,2020-02-11,,OK,False
+CUST0001969,Male,1982-03-28,St. Louis,Midwest,2023-11-02,Silver,OK,False
+CUST0001970,Female,1975-10-29,Charlotte,Southeast,2024-12-03,,OK,False
+CUST0001971,Male,1966-03-10,Atlanta,Southeast,2025-01-01,,Invalid,False
+CUST0001972,Female,1998-01-20,Nashville,Southeast,2025-04-08,Bronze,OK,False
+CUST0001973,Male,1994-07-29,Columbus,Midwest,2022-08-11,Platinum,OK,False
+CUST0001974,Male,1959-11-17,Chicago,Midwest,2022-01-19,,OK,False
+CUST0001975,Male,1951-08-31,Phoenix,Southwest,2023-12-02,,OK,False
+CUST0001976,Male,2000-01-15,Minneapolis,Midwest,2024-01-08,Bronze,OK,False
+CUST0001977,Female,1952-11-03,Newark,Northeast,2023-11-13,Silver,OK,False
+CUST0001978,Female,1961-06-08,Columbus,Midwest,2024-08-17,Silver,OK,False
+CUST0001979,Female,1988-12-23,Los Angeles,West,2021-07-20,Gold,OK,False
+CUST0001980,Female,1998-09-17,Denver,Southwest,2021-03-06,,Invalid,False
+CUST0001981,Female,1956-06-24,Chicago,Midwest,2020-04-02,Platinum,OK,False
+CUST0001982,Female,1989-10-25,Los Angeles,West,2022-07-30,Silver,OK,False
+CUST0001983,Female,2003-10-09,San Francisco,West,2024-11-18,,OK,False
+CUST0001984,Female,2004-01-10,Pittsburgh,Northeast,2020-07-28,,OK,False
+CUST0001985,Male,1994-06-12,Milwaukee,Midwest,2024-05-14,,OK,False
+CUST0001986,Female,1988-07-12,Phoenix,Southwest,2023-12-29,,OK,False
+CUST0001987,Female,1997-09-26,San Francisco,West,2025-03-25,Gold,OK,True
+CUST0001988,Male,1969-12-23,Hartford,Northeast,2024-12-18,Gold,OK,True
+CUST0001989,Male,1971-04-21,Chicago,Midwest,2020-11-30,,OK,False
+CUST0001990,Female,1996-11-14,San Antonio,Southwest,2024-11-03,,OK,False
+CUST0001991,Male,1999-07-05,Atlanta,Southeast,2020-07-17,,OK,False
+CUST0001992,Female,1951-06-05,Philadelphia,Northeast,2025-10-13,,OK,False
+CUST0001993,Female,1972-01-26,Miami,Southeast,2024-04-15,,OK,False
+CUST0001994,Male,1981-05-29,Houston,Southwest,2020-05-16,,OK,False
+CUST0001995,Female,2002-07-21,Denver,Southwest,2024-07-19,Bronze,OK,False
+CUST0001996,Male,1956-03-02,San Antonio,Southwest,2025-10-09,,OK,False
+CUST0001997,Female,1966-12-03,San Diego,West,2021-12-02,,OK,False
+CUST0001998,Male,1959-08-22,Atlanta,Southeast,2020-02-18,,OK,False
+CUST0001999,Female,2004-03-19,Seattle,West,2024-08-06,Bronze,OK,False
+CUST0002000,Male,1984-10-28,New York,Northeast,2025-03-10,Silver,OK,False
+CUST0002001,Male,2004-08-21,Dallas,Southwest,2022-07-14,Platinum,OK,False
+CUST0002002,Female,1996-06-22,Philadelphia,Northeast,2023-09-28,Silver,OK,False
+CUST0002003,Male,1951-09-26,New York,Northeast,2022-01-07,Gold,OK,False
+CUST0002004,Female,1988-06-14,Charlotte,Southeast,2022-12-25,Bronze,OK,False
+CUST0002005,Female,1998-07-07,Houston,Southwest,2020-04-27,Platinum,OK,False
+CUST0002006,,1976-04-12,Las Vegas,West,2022-09-20,Bronze,OK,False
+CUST0002007,Female,1985-12-22,Newark,Northeast,2025-07-15,,OK,False
+CUST0002008,Female,1992-09-13,Boston,Northeast,2020-02-11,Gold,OK,False
+CUST0002009,Male,1962-01-14,Dallas,Southwest,2024-04-27,Silver,OK,False
+CUST0002010,Male,1960-02-14,San Francisco,West,2024-02-28,,OK,False
+CUST0002011,Female,2005-06-22,Orlando,Southeast,2025-07-15,,OK,False
+CUST0002012,Female,1953-10-18,Seattle,West,2022-01-06,,OK,False
+CUST0002013,Female,2004-02-05,Phoenix,Southwest,2021-12-31,,OK,False
+CUST0002014,Female,,Portland,West,2024-10-18,Bronze,OK,False
+CUST0002015,Female,2000-09-18,Charlotte,Southeast,2021-06-20,,OK,False
+CUST0002016,Male,1957-03-10,Philadelphia,Northeast,2023-07-11,,OK,False
+CUST0002017,Female,1966-11-15,New York,Northeast,2024-04-22,Bronze,OK,False
+CUST0002018,Female,1961-01-13,Boston,Northeast,2024-09-18,Bronze,OK,False
+CUST0002019,Male,1997-05-17,Houston,Southwest,2020-05-05,Silver,Blank,False
+CUST0002020,Male,1955-08-10,Miami,Southeast,2025-01-06,,OK,False
+CUST0002021,Female,1984-07-21,Los Angeles,West,2024-11-06,Bronze,OK,False
+CUST0002022,Female,1954-07-04,Atlanta,Southeast,2025-05-10,Bronze,OK,False
+CUST0002023,Female,,Pittsburgh,Northeast,2023-10-11,,OK,False
+CUST0002024,Female,1970-11-19,Portland,West,2024-11-19,,OK,False
+CUST0002025,Male,2002-04-16,Chicago,Midwest,2022-12-12,Gold,OK,False
+CUST0002026,Female,1997-10-14,Nashville,Southeast,2024-03-28,Bronze,OK,False
+CUST0002027,Female,1980-01-25,Tampa,Southeast,2025-10-26,,OK,False
+CUST0002028,Male,2000-12-25,Los Angeles,West,2024-08-17,Silver,OK,False
+CUST0002029,Female,1954-07-11,Portland,West,2022-12-20,,OK,False
+CUST0002030,Male,1964-05-08,Miami,Southeast,2021-11-17,,OK,False
+CUST0002031,Male,1967-05-12,Denver,Southwest,2025-04-14,,OK,False
+CUST0002032,Female,1971-05-05,Chicago,Midwest,2022-06-09,,OK,False
+CUST0002033,Female,1986-12-31,Denver,Southwest,2025-08-17,Bronze,OK,False
+CUST0002034,Female,1967-07-25,Portland,West,2020-10-22,Silver,OK,False
+CUST0002035,Female,1984-03-01,Philadelphia,Northeast,2025-08-10,Bronze,Blank,False
+CUST0002036,Female,1981-09-08,Atlanta,Southeast,2022-05-19,Silver,Invalid,False
+CUST0002037,Female,1954-01-18,Detroit,Midwest,2022-01-24,,OK,False
+CUST0002038,Male,1986-01-09,Miami,Southeast,2025-02-10,Silver,OK,False
+CUST0002039,Male,1991-08-25,Minneapolis,Midwest,2024-01-22,,OK,False
+CUST0002040,Female,1955-06-01,Boston,Northeast,2025-05-18,,Blank,False
+CUST0002041,Female,1954-12-08,Milwaukee,Midwest,2024-05-18,,OK,False
+CUST0002042,Male,1974-07-03,Los Angeles,West,2020-01-03,,OK,False
+CUST0002043,Female,1969-01-08,Denver,Southwest,2023-03-01,Bronze,OK,False
+CUST0002044,Male,2005-06-23,San Diego,West,2022-05-27,,OK,False
+CUST0002045,Male,1960-05-11,San Francisco,West,2020-03-31,,OK,False
+CUST0002046,,2005-08-05,Atlanta,Southeast,2022-04-29,,Blank,False
+CUST0002047,Female,1973-01-28,Columbus,Midwest,2024-08-05,,OK,False
+CUST0002048,Male,1993-04-07,Miami,Southeast,2025-01-21,,OK,False
+CUST0002049,Male,,Philadelphia,Northeast,2024-05-08,Silver,OK,False
+CUST0002050,Female,1953-04-14,San Francisco,West,2021-09-16,,OK,False
+CUST0002051,Male,1977-05-24,Denver,Southwest,2023-05-25,,OK,False
+CUST0002052,,2000-05-27,St. Louis,Midwest,2022-06-29,Bronze,OK,False
+CUST0002053,Female,1958-11-18,Los Angeles,West,2025-10-15,,OK,False
+CUST0002054,Male,1997-04-28,Boston,Northeast,2025-07-01,Silver,OK,False
+CUST0002055,,,St. Louis,Midwest,2023-12-23,,OK,False
+CUST0002056,,1970-01-08,Miami,Southeast,2021-12-07,,Blank,False
+CUST0002057,Male,,Detroit,Midwest,2023-07-06,Silver,OK,False
+CUST0002058,Male,1964-01-17,Austin,Southwest,2024-07-29,Bronze,OK,False
+CUST0002059,Female,2000-12-21,Miami,Southeast,2021-09-21,Platinum,Blank,False
+CUST0002060,Female,1995-06-03,Houston,Southwest,2024-11-04,Bronze,OK,False
+CUST0002061,Female,1997-06-25,Atlanta,Southeast,2025-01-13,Bronze,OK,False
+CUST0002062,Male,1964-12-15,Pittsburgh,Northeast,2020-10-03,Bronze,OK,False
+CUST0002063,Female,1967-05-09,Hartford,Northeast,2021-05-11,,Invalid,False
+CUST0002064,Male,1991-02-03,Portland,West,2024-08-10,,OK,False
+CUST0002065,Male,1956-01-08,Boston,Northeast,2024-10-19,,OK,False
+CUST0002066,Female,,San Diego,West,2025-07-09,,OK,False
+CUST0002067,Female,1983-09-07,Austin,Southwest,2021-06-16,,OK,False
+CUST0002068,Male,1989-12-09,Columbus,Midwest,2021-10-27,Gold,OK,False
+CUST0002069,Female,1961-07-30,Charlotte,Southeast,2021-11-20,Platinum,Blank,False
+CUST0002070,Male,1967-07-25,Portland,West,2020-08-27,,OK,False
+CUST0002071,Male,1982-11-06,Seattle,West,2024-02-29,,OK,False
+CUST0002072,Male,1965-12-23,Chicago,Midwest,2024-03-19,Silver,OK,False
+CUST0002073,Female,1991-05-11,San Francisco,West,2023-11-08,Gold,OK,False
+CUST0002074,Female,1977-10-23,Minneapolis,Midwest,2025-08-26,,Blank,False
+CUST0002075,Male,1995-11-25,Charlotte,Southeast,2020-09-30,Bronze,OK,False
+CUST0002076,Female,1992-12-17,Orlando,Southeast,2022-05-29,Bronze,OK,False
+CUST0002077,Male,2005-09-28,Detroit,Midwest,2025-01-13,,OK,False
+CUST0002078,Male,1991-05-18,Denver,Southwest,2024-01-07,Silver,OK,False
+CUST0002079,Male,,Portland,West,2025-05-22,,OK,False
+CUST0002080,Male,1984-04-22,Minneapolis,Midwest,2025-01-13,,OK,False
+CUST0002081,,1974-02-08,Newark,Northeast,2024-03-10,,OK,False
+CUST0002082,Female,1983-04-12,Los Angeles,West,2022-08-05,,Blank,False
+CUST0002083,Male,1970-01-20,Boston,Northeast,2021-09-24,,OK,False
+CUST0002084,Male,1954-12-21,Phoenix,Southwest,2022-04-29,,OK,False
+CUST0002085,Female,1980-03-14,Los Angeles,West,2022-04-12,Platinum,OK,False
+CUST0002086,Female,1954-04-16,Orlando,Southeast,2020-12-05,,Blank,False
+CUST0002087,,1980-07-11,Dallas,Southwest,2022-05-08,,OK,False
+CUST0002088,Male,,Chicago,Midwest,2022-02-11,Gold,OK,False
+CUST0002089,Male,1960-03-19,Phoenix,Southwest,2021-12-09,,OK,False
+CUST0002090,Male,1984-01-22,Portland,West,2025-07-27,,OK,False
+CUST0002091,Female,2001-03-28,Nashville,Southeast,2025-06-06,,OK,False
+CUST0002092,Male,1999-09-16,Boston,Northeast,2024-07-06,Platinum,OK,False
+CUST0002093,Female,1990-09-24,San Antonio,Southwest,2025-05-09,,OK,False
+CUST0002094,Male,1986-09-03,Pittsburgh,Northeast,2020-06-28,Platinum,OK,False
+CUST0002095,Male,2003-09-01,Newark,Northeast,2020-12-26,,OK,False
+CUST0002096,Female,1991-02-12,Phoenix,Southwest,2024-11-28,,OK,False
+CUST0002097,Female,1968-04-01,Los Angeles,West,2025-09-09,Bronze,OK,False
+CUST0002098,Male,1989-02-01,Chicago,Midwest,2023-05-09,Silver,OK,False
+CUST0002099,Female,1963-11-24,Los Angeles,West,2023-07-14,Gold,OK,False
+CUST0002100,Male,1965-03-14,Houston,Southwest,2020-02-10,Gold,OK,False
+CUST0002101,Female,1973-02-18,Dallas,Southwest,2024-10-09,,Blank,False
+CUST0002102,Male,1974-09-11,San Antonio,Southwest,2022-12-22,Platinum,OK,False
+CUST0002103,Male,1993-06-07,Austin,Southwest,2023-08-21,Bronze,OK,False
+CUST0002104,Female,1991-06-29,Chicago,Midwest,2020-01-30,,OK,False
+CUST0002105,Female,1968-07-13,Milwaukee,Midwest,2022-09-01,,OK,False
+CUST0002106,Female,1984-01-18,Portland,West,2024-08-05,,OK,False
+CUST0002107,Female,1967-02-08,Chicago,Midwest,2025-10-09,,OK,False
+CUST0002108,Male,1998-09-13,Boston,Northeast,2023-11-27,,OK,False
+CUST0002109,Female,1952-06-19,Chicago,Midwest,2021-01-15,,OK,False
+CUST0002110,Female,1992-01-24,San Francisco,West,2025-10-13,,OK,False
+CUST0002111,Male,1980-08-04,New York,Northeast,2023-03-26,Gold,OK,False
+CUST0002112,Female,1969-12-31,Chicago,Midwest,2023-12-17,,OK,False
+CUST0002113,Female,1991-01-21,Atlanta,Southeast,2021-09-03,,Blank,False
+CUST0002114,Male,1961-11-25,Houston,Southwest,2020-01-24,,OK,False
+CUST0002115,Male,1982-01-14,Detroit,Midwest,2024-08-21,,OK,False
+CUST0002116,Female,,Los Angeles,West,2020-01-17,,OK,False
+CUST0002117,Female,2001-09-30,New York,Northeast,2025-07-19,,OK,False
+CUST0002118,Male,1996-07-09,Philadelphia,Northeast,2023-04-21,Bronze,OK,False
+CUST0002119,Female,1962-02-27,Charlotte,Southeast,2023-06-28,,OK,False
+CUST0002120,Female,2004-10-20,Philadelphia,Northeast,2021-12-07,,OK,False
+CUST0002121,Male,1979-03-12,Phoenix,Southwest,2023-10-20,Silver,OK,False
+CUST0002122,Female,1960-06-01,Phoenix,Southwest,2024-09-03,,OK,False
+CUST0002123,Male,1952-10-03,Nashville,Southeast,2022-10-06,Bronze,OK,False
+CUST0002124,Female,1970-01-09,Pittsburgh,Northeast,2025-06-01,Silver,OK,False
+CUST0002125,,1956-11-29,Philadelphia,Northeast,2021-06-09,Platinum,OK,False
+CUST0002126,Female,1989-06-29,Miami,Southeast,2023-12-01,,OK,False
+CUST0002127,Male,1975-12-17,Seattle,West,2020-04-19,Silver,OK,False
+CUST0002128,Female,1968-07-28,Los Angeles,West,2023-09-06,Bronze,OK,False
+CUST0002129,Male,,Orlando,Southeast,2024-07-01,Gold,OK,False
+CUST0002130,Male,1957-06-25,Denver,Southwest,2025-06-03,Bronze,OK,False
+CUST0002131,Female,1996-04-29,Los Angeles,West,2021-11-22,Silver,OK,False
+CUST0002132,Female,1961-11-30,Atlanta,Southeast,2025-11-15,,OK,False
+CUST0002133,Male,1952-03-28,Minneapolis,Midwest,2024-10-11,Bronze,OK,True
+CUST0002134,Female,1980-01-22,Boston,Northeast,2025-10-05,Bronze,Blank,False
+CUST0002135,Male,1974-05-30,San Francisco,West,2022-01-21,Bronze,OK,False
+CUST0002136,Male,1954-07-08,Los Angeles,West,2023-02-01,Silver,OK,False
+CUST0002137,Male,1977-07-05,Chicago,Midwest,2021-08-02,,OK,False
+CUST0002138,Male,1972-09-16,Las Vegas,West,2021-04-15,,OK,False
+CUST0002139,Male,1952-11-19,Charlotte,Southeast,2024-04-05,,OK,False
+CUST0002140,Female,1986-08-11,Nashville,Southeast,2022-04-23,,OK,False
+CUST0002141,Male,,Las Vegas,West,2022-04-17,,OK,False
+CUST0002142,Male,1975-04-18,Los Angeles,West,2024-03-23,Bronze,OK,False
+CUST0002143,,2004-05-04,Boston,Northeast,2022-12-18,,OK,False
+CUST0002144,Female,2001-07-23,Orlando,Southeast,2024-09-11,,OK,False
+CUST0002145,Female,1980-09-26,San Francisco,West,2025-07-06,,OK,False
+CUST0002146,Male,1975-05-05,Charlotte,Southeast,2024-11-27,Gold,OK,False
+CUST0002147,Female,2000-07-12,Houston,Southwest,2023-05-07,Gold,OK,False
+CUST0002148,Female,1975-01-21,Portland,West,2020-11-18,,OK,False
+CUST0002149,,1955-11-03,Philadelphia,Northeast,2020-01-15,Gold,OK,False
+CUST0002150,Male,,Las Vegas,West,2024-08-15,Silver,OK,False
+CUST0002151,Male,2004-01-23,Boston,Northeast,2021-06-07,Bronze,OK,False
+CUST0002152,Female,1970-01-30,Pittsburgh,Northeast,2020-11-23,,OK,False
+CUST0002153,Male,1981-01-28,Los Angeles,West,2024-04-19,Silver,OK,False
+CUST0002154,,1986-04-20,Philadelphia,Northeast,2020-07-14,,OK,False
+CUST0002155,Male,1988-07-15,New York,Northeast,2025-02-25,Silver,OK,False
+CUST0002156,Female,1970-10-22,San Antonio,Southwest,2025-03-31,,OK,False
+CUST0002157,Female,1991-09-06,San Francisco,West,2022-08-04,Gold,OK,False
+CUST0002158,Female,,Orlando,Southeast,2021-04-01,,OK,False
+CUST0002159,Female,1994-03-24,Chicago,Midwest,2021-08-23,,OK,False
+CUST0002160,Female,1959-10-31,Pittsburgh,Northeast,2025-05-17,Bronze,OK,False
+CUST0002161,Male,1978-05-08,Boston,Northeast,2022-02-10,Gold,OK,False
+CUST0002162,Male,1978-01-07,Miami,Southeast,2023-09-28,Bronze,OK,False
+CUST0002163,Male,1973-03-20,Boston,Northeast,2024-08-09,,OK,False
+CUST0002164,Male,1972-01-18,Dallas,Southwest,2021-06-14,,OK,False
+CUST0002165,Male,1985-04-21,Orlando,Southeast,2025-11-16,,OK,False
+CUST0002166,Female,1990-12-16,Philadelphia,Northeast,2024-03-17,Bronze,OK,False
+CUST0002167,Female,1986-05-28,Tampa,Southeast,2021-01-08,Silver,Blank,False
+CUST0002168,,1985-12-16,Boston,Northeast,2025-01-03,,OK,False
+CUST0002169,Female,1997-02-05,Los Angeles,West,2025-09-21,Bronze,OK,False
+CUST0002170,Male,1984-07-19,Los Angeles,West,2023-10-08,Bronze,OK,False
+CUST0002171,Female,,San Antonio,Southwest,2025-03-29,,OK,False
+CUST0002172,Female,,Los Angeles,West,2020-06-06,,OK,False
+CUST0002173,Male,1985-05-03,Hartford,Northeast,2024-11-21,,OK,False
+CUST0002174,Female,1964-05-04,Chicago,Midwest,2023-11-20,Bronze,OK,False
+CUST0002175,Female,1995-08-18,Denver,Southwest,2025-11-12,,OK,False
+CUST0002176,Female,2002-05-13,Philadelphia,Northeast,2023-08-20,Bronze,OK,False
+CUST0002177,Female,1961-11-12,Austin,Southwest,2021-07-15,Bronze,OK,False
+CUST0002178,Female,1971-01-12,Chicago,Midwest,2022-12-08,,OK,False
+CUST0002179,Male,2005-09-10,Boston,Northeast,2024-05-26,,OK,False
+CUST0002180,,1960-04-10,Los Angeles,West,2023-05-23,Platinum,OK,False
+CUST0002181,Female,,Phoenix,Southwest,2025-06-17,,OK,False
+CUST0002182,Female,1991-02-17,Atlanta,Southeast,2025-02-06,,OK,False
+CUST0002183,Male,1956-12-11,Dallas,Southwest,2024-02-22,,OK,False
+CUST0002184,Female,1973-09-24,Chicago,Midwest,2023-02-04,,OK,False
+CUST0002185,Female,1995-01-21,Los Angeles,West,2022-04-08,Silver,OK,False
+CUST0002186,Female,1974-08-04,Nashville,Southeast,2025-07-23,,OK,False
+CUST0002187,Female,1982-02-28,Hartford,Northeast,2025-08-26,Bronze,Blank,False
+CUST0002188,Female,1984-07-10,Houston,Southwest,2024-05-27,Silver,OK,False
+CUST0002189,Female,1968-11-19,Milwaukee,Midwest,2024-10-02,,OK,False
+CUST0002190,Female,1986-08-16,Los Angeles,West,2021-09-03,,OK,False
+CUST0002191,Female,1957-09-21,New York,Northeast,2021-12-01,,OK,False
+CUST0002192,Female,1998-12-26,Miami,Southeast,2024-06-07,,OK,False
+CUST0002193,Male,1989-08-10,Miami,Southeast,2023-09-04,,OK,False
+CUST0002194,Female,2001-12-04,Chicago,Midwest,2024-09-14,Gold,OK,False
+CUST0002195,Female,1979-06-09,Denver,Southwest,2023-05-16,,OK,False
+CUST0002196,Male,1982-09-27,San Antonio,Southwest,2025-05-20,,OK,False
+CUST0002197,Female,1979-05-26,Philadelphia,Northeast,2023-04-30,,OK,False
+CUST0002198,Male,1971-09-21,Boston,Northeast,2021-02-18,Bronze,Blank,False
+CUST0002199,Male,1971-03-03,New York,Northeast,2023-05-11,Silver,OK,False
+CUST0002200,Male,1950-08-29,Los Angeles,West,2021-01-11,,OK,False
+CUST0002201,Male,1955-04-24,Newark,Northeast,2024-07-31,,OK,False
+CUST0002202,Female,1985-07-09,Las Vegas,West,2024-11-19,Silver,OK,False
+CUST0002203,,,Seattle,West,2020-05-19,Silver,OK,False
+CUST0002204,Male,2003-08-27,New York,Northeast,2024-10-04,Silver,OK,False
+CUST0002205,Male,1974-07-27,Phoenix,Southwest,2025-01-30,,OK,False
+CUST0002206,Female,1986-04-20,San Antonio,Southwest,2020-11-19,Bronze,OK,False
+CUST0002207,Female,1965-12-17,Minneapolis,Midwest,2020-01-01,,OK,False
+CUST0002208,Female,1976-06-11,Chicago,Midwest,2021-05-06,Gold,OK,False
+CUST0002209,Female,1999-05-28,Houston,Southwest,2022-11-11,Bronze,OK,False
+CUST0002210,Male,1963-12-28,Columbus,Midwest,2024-12-01,Bronze,OK,False
+CUST0002211,Female,1973-07-06,Charlotte,Southeast,2025-05-10,Gold,OK,False
+CUST0002212,Male,1998-11-01,Chicago,Midwest,2022-05-23,,OK,False
+CUST0002213,Female,1976-10-14,Houston,Southwest,2020-11-01,Silver,OK,False
+CUST0002214,Female,1984-06-12,St. Louis,Midwest,2022-02-15,,OK,False
+CUST0002215,Female,1994-09-08,Seattle,West,2023-12-29,Bronze,OK,False
+CUST0002216,Female,2004-12-20,Chicago,Midwest,2024-03-08,Gold,OK,False
+CUST0002217,Female,1961-07-07,Orlando,Southeast,2025-08-14,Silver,OK,False
+CUST0002218,Female,1952-04-18,Columbus,Midwest,2022-06-15,Silver,Blank,False
+CUST0002219,Female,1990-01-13,Portland,West,2022-12-13,,OK,False
+CUST0002220,Male,1984-12-22,Detroit,Midwest,2020-05-27,,OK,False
+CUST0002221,Female,,Austin,Southwest,2022-12-14,,OK,False
+CUST0002222,Male,1974-06-01,Chicago,Midwest,2023-02-07,Gold,OK,False
+CUST0002223,Female,1958-08-29,Detroit,Midwest,2021-07-25,,OK,False
+CUST0002224,Female,1955-07-11,San Francisco,West,2023-11-10,Gold,OK,False
+CUST0002225,Female,1972-09-10,Dallas,Southwest,2023-08-10,,OK,False
+CUST0002226,,1994-11-19,San Francisco,West,2024-04-10,Gold,OK,False
+CUST0002227,Male,1996-02-15,Hartford,Northeast,2024-10-10,,OK,False
+CUST0002228,Female,,Los Angeles,West,2022-01-11,,OK,False
+CUST0002229,Male,1985-07-17,Portland,West,2024-03-25,Bronze,Blank,False
+CUST0002230,Male,1952-04-01,San Francisco,West,2024-02-20,Silver,Blank,False
+CUST0002231,Female,1961-02-04,San Diego,West,2023-05-09,,OK,False
+CUST0002232,Female,1990-01-07,Orlando,Southeast,2023-12-04,,OK,False
+CUST0002233,Female,2005-07-31,Dallas,Southwest,2020-08-01,,OK,False
+CUST0002234,Male,1991-08-20,Minneapolis,Midwest,2021-06-28,,OK,False
+CUST0002235,Male,1975-09-21,Los Angeles,West,2024-06-28,Silver,OK,False
+CUST0002236,Female,1958-12-11,Chicago,Midwest,2024-01-01,Silver,OK,False
+CUST0002237,Female,2004-07-20,Charlotte,Southeast,2025-08-23,Bronze,Blank,False
+CUST0002238,Female,1967-04-05,New York,Northeast,2020-08-10,,OK,False
+CUST0002239,Male,1982-01-31,Boston,Northeast,2021-05-10,Platinum,OK,False
+CUST0002240,Female,1996-06-19,San Francisco,West,2023-09-26,,OK,False
+CUST0002241,Male,,Chicago,Midwest,2020-04-13,,OK,False
+CUST0002242,Female,2004-07-27,Miami,Southeast,2022-10-02,Gold,OK,False
+CUST0002243,Male,1978-01-01,Columbus,Midwest,2024-12-19,Bronze,OK,False
+CUST0002244,Female,1974-04-29,Los Angeles,West,2025-08-07,Bronze,OK,False
+CUST0002245,,1959-01-06,Pittsburgh,Northeast,2025-01-15,Gold,OK,False
+CUST0002246,Female,1981-10-06,Philadelphia,Northeast,2023-06-24,Gold,OK,False
+CUST0002247,Female,1974-05-03,Los Angeles,West,2021-09-21,Bronze,OK,False
+CUST0002248,Male,1978-11-20,Atlanta,Southeast,2025-07-22,,Blank,False
+CUST0002249,Female,1983-02-27,Phoenix,Southwest,2024-05-21,,OK,False
+CUST0002250,Female,1965-05-26,Charlotte,Southeast,2023-11-26,,OK,False
+CUST0002251,Male,,St. Louis,Midwest,2025-01-01,Gold,OK,False
+CUST0002252,Male,1997-02-16,San Antonio,Southwest,2024-08-30,Silver,Blank,False
+CUST0002253,Female,1979-01-03,Denver,Southwest,2023-02-24,,OK,False
+CUST0002254,Female,1983-09-18,Chicago,Midwest,2023-11-17,Bronze,OK,False
+CUST0002255,Female,1995-05-18,Orlando,Southeast,2025-03-02,Bronze,OK,False
+CUST0002256,Female,1957-08-03,Orlando,Southeast,2025-03-09,Silver,OK,False
+CUST0002257,Male,1995-05-11,Detroit,Midwest,2024-04-03,Silver,OK,False
+CUST0002258,Male,1956-04-05,Columbus,Midwest,2025-07-04,,OK,False
+CUST0002259,Female,1994-05-09,San Francisco,West,2024-05-13,Gold,OK,False
+CUST0002260,Female,1992-09-24,Las Vegas,West,2025-10-28,,OK,False
+CUST0002261,Female,1997-05-17,San Francisco,West,2024-03-20,Silver,OK,False
+CUST0002262,Female,1972-12-25,Nashville,Southeast,2024-12-22,,OK,False
+CUST0002263,Female,2002-11-07,Tampa,Southeast,2021-10-27,,OK,False
+CUST0002264,Male,1972-12-09,Phoenix,Southwest,2025-10-14,,OK,False
+CUST0002265,Male,1985-08-21,Portland,West,2024-08-25,,OK,False
+CUST0002266,Female,1955-08-10,Tampa,Southeast,2025-04-06,Silver,OK,False
+CUST0002267,Male,1963-09-12,San Francisco,West,2023-04-30,Silver,OK,False
+CUST0002268,Male,1993-08-12,Charlotte,Southeast,2021-09-30,,OK,False
+CUST0002269,Female,1952-01-31,Philadelphia,Northeast,2024-05-01,Bronze,OK,False
+CUST0002270,Female,1987-03-24,Atlanta,Southeast,2022-12-07,Silver,OK,False
+CUST0002271,Female,1993-06-19,Charlotte,Southeast,2023-08-10,,OK,False
+CUST0002272,Female,1972-04-02,Detroit,Midwest,2021-09-09,,OK,False
+CUST0002273,Female,1982-10-18,New York,Northeast,2023-10-23,,Blank,False
+CUST0002274,Male,1958-10-01,San Diego,West,2025-11-13,,OK,False
+CUST0002275,Male,1989-05-05,Phoenix,Southwest,2025-06-17,,Blank,False
+CUST0002276,Female,1958-02-21,Minneapolis,Midwest,2022-06-30,,OK,False
+CUST0002277,Male,1971-05-05,New York,Northeast,2020-09-12,Gold,OK,False
+CUST0002278,Female,1959-07-26,Newark,Northeast,2024-02-23,,OK,False
+CUST0002279,Female,1975-08-10,Miami,Southeast,2024-01-19,Bronze,OK,False
+CUST0002280,Male,1963-11-07,Tampa,Southeast,2024-10-19,Gold,OK,False
+CUST0002281,Male,1983-10-19,Pittsburgh,Northeast,2025-07-29,Bronze,OK,False
+CUST0002282,Female,1958-10-11,Dallas,Southwest,2024-03-03,,OK,False
+CUST0002283,Male,1991-12-29,Minneapolis,Midwest,2024-08-01,Silver,OK,False
+CUST0002284,Male,1986-05-26,Orlando,Southeast,2023-07-27,Gold,OK,False
+CUST0002285,Male,1967-09-06,Atlanta,Southeast,2020-02-14,Silver,OK,False
+CUST0002286,Female,1967-12-14,Atlanta,Southeast,2023-05-31,,OK,False
+CUST0002287,Female,1998-02-01,Nashville,Southeast,2025-04-07,Bronze,OK,False
+CUST0002288,Male,1976-07-18,Chicago,Midwest,2024-10-14,,OK,False
+CUST0002289,Male,1963-06-23,Philadelphia,Northeast,2022-07-22,,Blank,False
+CUST0002290,Female,1964-01-04,Miami,Southeast,2024-12-08,,OK,False
+CUST0002291,,1998-09-25,Phoenix,Southwest,2025-07-01,Bronze,OK,False
+CUST0002292,Female,1959-07-20,Pittsburgh,Northeast,2022-02-22,,OK,False
+CUST0002293,Male,1981-05-20,Seattle,West,2021-01-09,,OK,False
+CUST0002294,Male,1974-01-02,Atlanta,Southeast,2024-06-12,,OK,False
+CUST0002295,Male,1965-09-07,Phoenix,Southwest,2025-09-06,Silver,OK,False
+CUST0002296,Female,1951-05-12,St. Louis,Midwest,2021-11-30,,OK,False
+CUST0002297,Female,1994-08-11,Detroit,Midwest,2024-07-01,Bronze,OK,False
+CUST0002298,Female,1988-09-23,Dallas,Southwest,2024-09-07,,OK,False
+CUST0002299,Male,1981-11-30,Dallas,Southwest,2024-09-25,Bronze,OK,False
+CUST0002300,Female,1999-06-11,Atlanta,Southeast,2023-08-05,Platinum,OK,False
+CUST0002301,Female,,Atlanta,Southeast,2023-12-22,,OK,False
+CUST0002302,Female,1965-07-31,Charlotte,Southeast,2024-07-25,Bronze,OK,False
+CUST0002303,Male,1985-08-26,Los Angeles,West,2022-07-25,,OK,False
+CUST0002304,Female,1987-04-09,Dallas,Southwest,2024-09-12,,OK,False
+CUST0002305,Male,1992-07-15,Atlanta,Southeast,2022-08-04,,OK,False
+CUST0002306,Male,,Houston,Southwest,2020-03-16,,Invalid,False
+CUST0002307,Female,1964-02-13,Seattle,West,2025-08-30,Silver,OK,False
+CUST0002308,Male,1966-08-04,Miami,Southeast,2025-05-06,,OK,False
+CUST0002309,Male,1964-06-21,Philadelphia,Northeast,2023-10-03,,OK,False
+CUST0002310,Female,1980-12-30,Tampa,Southeast,2023-06-29,,OK,False
+CUST0002311,Male,1986-01-02,Milwaukee,Midwest,2022-05-14,,Blank,False
+CUST0002312,Male,1998-03-18,Philadelphia,Northeast,2023-02-22,Silver,OK,False
+CUST0002313,Male,1981-11-02,Miami,Southeast,2022-08-31,Platinum,OK,False
+CUST0002314,Female,1960-02-11,Detroit,Midwest,2025-11-13,Bronze,OK,False
+CUST0002315,Male,1977-02-03,Orlando,Southeast,2024-11-29,,OK,False
+CUST0002316,Male,1973-09-24,Chicago,Midwest,2024-10-11,,OK,False
+CUST0002317,Female,2000-08-10,St. Louis,Midwest,2023-03-20,Silver,Blank,False
+CUST0002318,Female,1956-08-05,Chicago,Midwest,2020-11-08,Gold,OK,False
+CUST0002319,Female,2005-04-09,Atlanta,Southeast,2025-01-11,Bronze,OK,False
+CUST0002320,Female,1998-10-12,Charlotte,Southeast,2022-08-20,Bronze,OK,False
+CUST0002321,Female,1989-10-22,Atlanta,Southeast,2024-11-18,,OK,False
+CUST0002322,Male,2001-11-12,Newark,Northeast,2024-04-18,Platinum,OK,False
+CUST0002323,Female,1983-02-06,Seattle,West,2024-01-19,Silver,OK,False
+CUST0002324,Male,1964-01-28,Columbus,Midwest,2024-07-27,Bronze,OK,False
+CUST0002325,Female,1958-12-30,Seattle,West,2023-02-12,,OK,False
+CUST0002326,Female,1987-03-19,Los Angeles,West,2025-06-14,,OK,False
+CUST0002327,Male,1989-12-05,Detroit,Midwest,2024-07-28,Silver,Blank,False
+CUST0002328,Female,1987-09-05,Philadelphia,Northeast,2025-02-15,,OK,False
+CUST0002329,Female,1964-06-22,New York,Northeast,2025-04-26,,OK,False
+CUST0002330,Female,1957-08-22,Milwaukee,Midwest,2022-01-01,,OK,False
+CUST0002331,Male,1976-05-12,Miami,Southeast,2022-05-18,Gold,OK,False
+CUST0002332,Male,1969-09-08,San Francisco,West,2025-03-27,,OK,False
+CUST0002333,Female,1993-08-18,Detroit,Midwest,2023-03-05,,OK,False
+CUST0002334,Female,1951-08-10,Milwaukee,Midwest,2020-05-31,,OK,False
+CUST0002335,Male,1954-02-09,Detroit,Midwest,2022-11-28,,OK,False
+CUST0002336,Female,1967-05-13,Pittsburgh,Northeast,2021-08-25,,OK,False
+CUST0002337,Female,1987-01-14,Los Angeles,West,2024-02-29,,OK,False
+CUST0002338,Female,1980-11-01,Miami,Southeast,2020-10-23,,OK,False
+CUST0002339,Female,1974-07-18,Las Vegas,West,2025-11-15,Silver,OK,False
+CUST0002340,Male,1987-01-31,Houston,Southwest,2025-04-21,Bronze,OK,False
+CUST0002341,Female,1972-12-04,San Antonio,Southwest,2022-01-03,,OK,False
+CUST0002342,Male,1963-12-30,Charlotte,Southeast,2024-04-16,Bronze,OK,False
+CUST0002343,Male,1997-11-23,Detroit,Midwest,2024-06-06,Gold,OK,False
+CUST0002344,Female,1972-01-21,Columbus,Midwest,2023-03-20,,OK,False
+CUST0002345,Female,2001-04-18,Philadelphia,Northeast,2024-02-11,Bronze,OK,False
+CUST0002346,Male,1990-11-25,Phoenix,Southwest,2025-03-26,,OK,False
+CUST0002347,Male,2002-05-17,Milwaukee,Midwest,2025-05-20,,Blank,False
+CUST0002348,Female,1950-05-17,Minneapolis,Midwest,2024-11-07,Gold,OK,False
+CUST0002349,Female,,Columbus,Midwest,2025-06-24,,OK,False
+CUST0002350,Male,1994-11-03,Philadelphia,Northeast,2025-08-30,,OK,False
+CUST0002351,Male,1995-02-10,San Antonio,Southwest,2021-12-25,,OK,False
+CUST0002352,Female,2001-08-26,Seattle,West,2025-08-22,,OK,False
+CUST0002353,Female,1975-01-05,Boston,Northeast,2025-09-03,Bronze,OK,False
+CUST0002354,Male,1970-07-14,Orlando,Southeast,2020-04-15,Bronze,Blank,False
+CUST0002355,Male,1982-01-24,Columbus,Midwest,2025-02-16,Silver,OK,False
+CUST0002356,Female,1978-04-02,Detroit,Midwest,2025-06-02,Silver,Blank,False
+CUST0002357,Male,1977-10-12,Nashville,Southeast,2020-02-14,,Blank,False
+CUST0002358,Male,1966-02-23,Atlanta,Southeast,2024-11-19,Silver,OK,False
+CUST0002359,Female,1956-08-13,San Diego,West,2024-04-24,,OK,False
+CUST0002360,Male,1999-05-20,Orlando,Southeast,2024-01-17,Platinum,OK,False
+CUST0002361,Female,2001-07-11,Chicago,Midwest,2025-09-22,,Blank,False
+CUST0002362,Male,1960-04-21,Newark,Northeast,2025-02-18,Bronze,OK,False
+CUST0002363,Female,1951-09-18,Austin,Southwest,2022-03-16,,Blank,False
+CUST0002364,Female,1969-09-18,Las Vegas,West,2025-09-18,Bronze,OK,False
+CUST0002365,Male,1968-01-29,Detroit,Midwest,2023-09-21,,OK,False
+CUST0002366,Female,1978-12-17,New York,Northeast,2022-11-06,Platinum,OK,False
+CUST0002367,Male,1988-02-20,San Diego,West,2025-09-12,,OK,False
+CUST0002368,Male,1956-04-18,Houston,Southwest,2022-06-06,,OK,False
+CUST0002369,Male,1968-12-07,Los Angeles,West,2024-03-04,,OK,False
+CUST0002370,Male,1972-03-25,Atlanta,Southeast,2023-04-13,,OK,False
+CUST0002371,Male,2004-09-30,Seattle,West,2020-05-06,,OK,False
+CUST0002372,Male,1968-11-08,Seattle,West,2024-07-03,Gold,OK,False
+CUST0002373,Female,1973-09-04,St. Louis,Midwest,2023-11-11,,OK,False
+CUST0002374,Female,1970-03-21,Pittsburgh,Northeast,2021-03-02,Silver,OK,False
+CUST0002375,Male,1955-06-25,Phoenix,Southwest,2025-09-10,Bronze,OK,False
+CUST0002376,Female,1987-01-16,San Francisco,West,2020-12-11,,OK,False
+CUST0002377,Female,1950-04-06,Newark,Northeast,2025-07-02,,Invalid,False
+CUST0002378,Female,1986-07-13,Philadelphia,Northeast,2025-03-27,,OK,False
+CUST0002379,Female,1957-11-24,New York,Northeast,2023-09-01,Bronze,OK,False
+CUST0002380,Male,1952-07-29,Las Vegas,West,2023-11-21,Bronze,OK,False
+CUST0002381,Male,,New York,Northeast,2022-07-23,Gold,OK,False
+CUST0002382,Male,1990-11-21,Phoenix,Southwest,2025-10-12,,OK,False
+CUST0002383,Male,1981-01-28,San Francisco,West,2025-09-25,Bronze,OK,False
+CUST0002384,Male,1975-07-06,Los Angeles,West,2024-01-12,Silver,OK,False
+CUST0002385,Male,1993-12-19,Columbus,Midwest,2020-09-28,,OK,False
+CUST0002386,Female,1993-11-28,Chicago,Midwest,2023-05-31,,OK,False
+CUST0002387,Female,1968-08-11,Minneapolis,Midwest,2025-05-09,,OK,False
+CUST0002388,Male,1997-03-08,Los Angeles,West,2024-08-24,Silver,OK,False
+CUST0002389,Male,1963-10-18,Seattle,West,2022-06-19,Platinum,OK,False
+CUST0002390,Female,1977-07-30,Hartford,Northeast,2023-09-12,Bronze,OK,False
+CUST0002391,Male,1971-03-26,Boston,Northeast,2022-10-16,,OK,False
+CUST0002392,Female,2000-06-05,Chicago,Midwest,2024-11-17,,OK,False
+CUST0002393,Female,1950-07-25,Dallas,Southwest,2021-09-29,,OK,False
+CUST0002394,Male,1951-03-02,Denver,Southwest,2021-01-20,,Blank,False
+CUST0002395,Female,1956-07-19,Milwaukee,Midwest,2024-03-03,Platinum,OK,False
+CUST0002396,Female,1999-11-23,Detroit,Midwest,2025-05-29,,OK,False
+CUST0002397,Male,1988-02-14,New York,Northeast,2020-10-07,,OK,False
+CUST0002398,Female,1997-05-12,Miami,Southeast,2025-07-18,,OK,False
+CUST0002399,Male,2002-08-27,Boston,Northeast,2025-11-16,,OK,False
+CUST0002400,Male,1990-01-20,Chicago,Midwest,2023-04-11,,OK,False
+CUST0002401,,2000-09-09,New York,Northeast,2025-08-28,Bronze,OK,False
+CUST0002402,Male,1967-07-28,Charlotte,Southeast,2020-04-11,Gold,OK,False
+CUST0002403,Male,1951-06-03,San Francisco,West,2021-05-20,,OK,False
+CUST0002404,Female,1986-03-04,San Francisco,West,2020-11-08,,OK,False
+CUST0002405,Male,1971-09-03,San Antonio,Southwest,2024-06-13,Bronze,OK,False
+CUST0002406,Male,1976-11-25,Portland,West,2024-08-07,Bronze,OK,False
+CUST0002407,Male,1978-05-28,Hartford,Northeast,2021-11-07,Platinum,OK,False
+CUST0002408,Female,1955-03-23,San Diego,West,2025-11-26,,OK,False
+CUST0002409,Male,1978-01-20,Los Angeles,West,2022-04-04,Bronze,OK,False
+CUST0002410,Female,1979-09-14,Columbus,Midwest,2025-10-05,,Blank,False
+CUST0002411,Male,1951-07-09,Philadelphia,Northeast,2025-10-06,Bronze,OK,False
+CUST0002412,Female,1986-05-07,Houston,Southwest,2023-08-31,Platinum,OK,False
+CUST0002413,Male,1974-05-31,Pittsburgh,Northeast,2024-08-28,Bronze,OK,False
+CUST0002414,Female,1988-05-23,Orlando,Southeast,2024-04-30,,OK,False
+CUST0002415,Male,1971-08-10,Boston,Northeast,2020-09-13,Gold,OK,False
+CUST0002416,Male,1991-08-03,Phoenix,Southwest,2025-01-13,Bronze,OK,False
+CUST0002417,Male,1966-03-12,Boston,Northeast,2023-01-14,Platinum,OK,False
+CUST0002418,Male,1998-12-01,New York,Northeast,2024-09-06,Gold,OK,True
+CUST0002419,Female,,Chicago,Midwest,2025-01-13,Gold,OK,False
+CUST0002420,Female,1965-08-01,Minneapolis,Midwest,2024-12-25,Bronze,OK,False
+CUST0002421,Female,1961-11-28,Las Vegas,West,2022-06-09,,OK,False
+CUST0002422,Female,1986-06-17,Columbus,Midwest,2023-01-25,Platinum,OK,False
+CUST0002423,Male,2000-10-03,Chicago,Midwest,2023-07-11,,OK,False
+CUST0002424,Male,1953-02-19,New York,Northeast,2021-02-03,,Blank,False
+CUST0002425,Male,2003-11-09,New York,Northeast,2024-07-20,,OK,False
+CUST0002426,Male,1950-05-09,Seattle,West,2025-04-15,Silver,OK,False
+CUST0002427,Female,1988-04-30,Atlanta,Southeast,2025-10-28,,OK,False
+CUST0002428,Male,1965-06-03,Detroit,Midwest,2024-09-01,Bronze,OK,False
+CUST0002429,Female,1985-05-29,Phoenix,Southwest,2025-06-25,,OK,False
+CUST0002430,Male,1965-07-29,Chicago,Midwest,2024-08-29,Bronze,OK,False
+CUST0002431,Male,1996-04-13,Seattle,West,2021-09-21,,OK,False
+CUST0002432,Male,1979-10-10,San Antonio,Southwest,2024-01-28,,OK,False
+CUST0002433,Female,1991-11-26,Seattle,West,2025-01-29,,OK,False
+CUST0002434,Female,1974-07-13,Houston,Southwest,2025-07-11,Bronze,OK,False
+CUST0002435,Female,1984-07-26,Newark,Northeast,2025-10-01,,OK,False
+CUST0002436,Male,1958-08-28,Boston,Northeast,2024-01-24,Silver,OK,False
+CUST0002437,Female,1966-09-29,Pittsburgh,Northeast,2025-10-04,,OK,False
+CUST0002438,Female,1961-03-20,Chicago,Midwest,2023-07-16,Gold,OK,False
+CUST0002439,Male,1953-07-30,Phoenix,Southwest,2023-06-07,,OK,False
+CUST0002440,Female,1967-08-09,Boston,Northeast,2024-09-15,Silver,Blank,False
+CUST0002441,Female,1995-08-29,Houston,Southwest,2021-03-25,Silver,OK,False
+CUST0002442,Female,1956-05-13,San Francisco,West,2022-05-15,Silver,OK,False
+CUST0002443,Female,2000-10-25,Chicago,Midwest,2023-01-23,Platinum,OK,False
+CUST0002444,Female,1995-12-12,Columbus,Midwest,2020-02-25,,OK,False
+CUST0002445,Female,2000-12-02,San Diego,West,2021-02-03,,OK,False
+CUST0002446,Male,1957-08-12,Phoenix,Southwest,2021-10-14,,OK,False
+CUST0002447,Male,1970-09-14,Atlanta,Southeast,2025-07-28,,OK,False
+CUST0002448,Female,1953-12-19,Houston,Southwest,2021-08-16,,OK,False
+CUST0002449,Male,1991-09-04,Philadelphia,Northeast,2023-05-17,Platinum,OK,False
+CUST0002450,Male,1951-08-18,Milwaukee,Midwest,2024-01-08,,OK,False
+CUST0002451,Female,1977-11-10,Minneapolis,Midwest,2020-03-13,Bronze,OK,False
+CUST0002452,Female,1996-09-11,Austin,Southwest,2025-08-27,,OK,False
+CUST0002453,Male,1963-10-02,San Francisco,West,2023-03-21,Gold,OK,False
+CUST0002454,Female,1963-12-23,San Francisco,West,2025-05-15,,OK,False
+CUST0002455,Female,1968-07-17,Newark,Northeast,2025-11-27,,OK,False
+CUST0002456,Female,1964-06-03,Houston,Southwest,2023-01-13,Bronze,OK,False
+CUST0002457,Male,1964-11-29,San Francisco,West,2020-02-25,,OK,False
+CUST0002458,Female,1977-03-02,Atlanta,Southeast,2021-05-22,,OK,False
+CUST0002459,Male,1995-08-27,Tampa,Southeast,2022-12-26,Silver,Blank,False
+CUST0002460,Female,2002-05-19,Tampa,Southeast,2025-06-13,Bronze,OK,False
+CUST0002461,Male,1996-05-28,New York,Northeast,2023-07-28,Gold,OK,False
+CUST0002462,Female,1994-11-02,Houston,Southwest,2024-08-01,,OK,False
+CUST0002463,Female,1998-03-19,Tampa,Southeast,2024-12-02,,OK,False
+CUST0002464,,1955-11-15,Dallas,Southwest,2025-06-19,,OK,False
+CUST0002465,Male,1983-08-14,Detroit,Midwest,2020-07-14,Platinum,OK,False
+CUST0002466,Male,1951-06-28,Boston,Northeast,2025-09-14,Bronze,OK,False
+CUST0002467,Female,1970-10-10,St. Louis,Midwest,2025-02-03,Bronze,OK,False
+CUST0002468,Male,1980-07-29,Phoenix,Southwest,2025-07-21,,OK,False
+CUST0002469,Female,1959-06-02,Boston,Northeast,2025-06-12,,OK,False
+CUST0002470,Male,1955-02-14,Philadelphia,Northeast,2021-10-22,,OK,False
+CUST0002471,Male,2000-05-11,Seattle,West,2020-01-14,,OK,False
+CUST0002472,Female,1985-04-23,Minneapolis,Midwest,2021-06-30,Gold,OK,False
+CUST0002473,Female,2004-04-24,Miami,Southeast,2020-11-16,,OK,False
+CUST0002474,Male,1950-06-01,Dallas,Southwest,2024-04-24,Bronze,OK,False
+CUST0002475,Male,1959-07-30,Atlanta,Southeast,2022-12-02,,Invalid,False
+CUST0002476,Female,1973-05-23,San Antonio,Southwest,2024-07-05,Platinum,Blank,False
+CUST0002477,Male,1976-05-02,Boston,Northeast,2023-11-25,Gold,OK,False
+CUST0002478,Male,1954-11-07,Miami,Southeast,2025-10-17,,OK,False
+CUST0002479,Female,1953-01-17,Las Vegas,West,2023-04-02,Gold,OK,False
+CUST0002480,Female,1963-09-04,Pittsburgh,Northeast,2023-03-03,Gold,OK,False
+CUST0002481,Male,1987-03-05,Charlotte,Southeast,2024-09-05,,OK,False
+CUST0002482,Female,1958-08-03,Dallas,Southwest,2023-01-06,Bronze,OK,False
+CUST0002483,Male,1972-05-07,Las Vegas,West,2022-10-13,Gold,OK,False
+CUST0002484,Female,1994-05-14,Chicago,Midwest,2024-10-19,Bronze,OK,False
+CUST0002485,Female,2005-03-07,Miami,Southeast,2022-04-10,Bronze,OK,False
+CUST0002486,Female,2000-07-28,Los Angeles,West,2024-08-03,,OK,False
+CUST0002487,Female,1996-01-10,Minneapolis,Midwest,2021-06-24,,OK,False
+CUST0002488,Male,,Los Angeles,West,2025-01-12,,OK,False
+CUST0002489,Male,2004-10-31,Philadelphia,Northeast,2023-07-05,Bronze,OK,False
+CUST0002490,Female,1974-02-03,Boston,Northeast,2021-12-04,Gold,Blank,False
+CUST0002491,Female,1956-11-16,Philadelphia,Northeast,2021-01-29,,OK,False
+CUST0002492,Male,2004-11-06,Columbus,Midwest,2022-03-09,Silver,OK,False
+CUST0002493,Male,1987-09-23,Philadelphia,Northeast,2022-11-10,Gold,Blank,False
+CUST0002494,Female,1968-02-27,New York,Northeast,2020-10-28,,OK,False
+CUST0002495,Male,1998-05-08,Los Angeles,West,2021-04-28,,OK,False
+CUST0002496,Male,1991-08-02,Detroit,Midwest,2025-06-05,Bronze,OK,False
+CUST0002497,Female,2003-05-16,New York,Northeast,2023-05-02,,OK,False
+CUST0002498,Male,1975-04-03,Minneapolis,Midwest,2024-06-05,,OK,False
+CUST0002499,Female,1981-04-26,San Francisco,West,2023-01-06,,Invalid,False
+CUST0002500,,2001-05-16,Dallas,Southwest,2021-05-12,,OK,False
+CUST0002501,Male,2001-10-23,San Francisco,West,2025-10-08,,OK,True
+CUST0002502,Female,1950-05-19,Houston,Southwest,2025-09-18,,Blank,True
+CUST0002503,Male,1994-08-02,Phoenix,Southwest,2025-09-14,,Blank,True
+CUST0002504,Male,2003-04-01,Los Angeles,West,2025-01-16,,Blank,True
+CUST0002505,Male,,Philadelphia,Northeast,2025-04-08,,OK,False
+CUST0002506,Female,1975-04-25,Denver,Southwest,2024-11-12,,Blank,True
+CUST0002507,Female,1957-07-29,Austin,Southwest,2024-09-08,,Blank,True
+CUST0002508,Male,1965-07-07,Boston,Northeast,2024-08-12,,OK,True
+CUST0002509,Female,1973-07-14,Austin,Southwest,2023-09-18,,Blank,True
+CUST0002510,Female,1994-11-15,Austin,Southwest,2024-11-23,,Blank,True
+CUST0002511,Male,2005-09-11,Las Vegas,West,2024-04-01,,OK,True
+CUST0002512,Female,1978-07-02,Philadelphia,Northeast,2024-11-30,,OK,True
+CUST0002513,Male,1975-02-07,Columbus,Midwest,2023-11-20,,Blank,True
+CUST0002514,Female,1953-03-04,St. Louis,Midwest,2025-12-04,,Blank,True
+CUST0002515,Female,1977-03-18,Los Angeles,West,2024-12-01,,Blank,True
+CUST0002516,Female,1999-04-27,Orlando,Southeast,2024-10-04,,Blank,True
+CUST0002517,Female,1998-04-06,Philadelphia,Northeast,2024-02-11,,OK,True
+CUST0002518,Male,1971-05-05,Seattle,West,2024-07-10,,OK,True
+CUST0002519,Female,1966-12-23,Los Angeles,West,2024-12-19,,OK,True
+CUST0002520,,1966-05-12,Las Vegas,West,2024-06-22,,Blank,True
+CUST0002521,,1993-09-08,Pittsburgh,Northeast,2024-06-29,,Blank,True
+CUST0002522,Female,1996-12-08,Minneapolis,Midwest,2024-11-30,,OK,True
+CUST0002523,Female,1977-12-05,Houston,Southwest,2025-06-23,,OK,True
+CUST0002524,Female,1997-12-11,San Francisco,West,2024-11-05,,Blank,True
+CUST0002525,Male,1952-03-28,Minneapolis,Midwest,2025-09-07,,Blank,True
+CUST0002526,Female,1979-07-01,Houston,Southwest,2025-11-04,,OK,True
+CUST0002527,Male,1969-12-23,Hartford,Northeast,2025-02-23,,Blank,True
+CUST0002528,Male,1993-03-26,New York,Northeast,2023-11-18,,Blank,True
+CUST0002529,Male,1982-09-06,Dallas,Southwest,2024-06-02,,Blank,True
+CUST0002530,Male,1964-11-17,Phoenix,Southwest,2024-09-11,,Blank,True
+CUST0002531,Male,2001-07-15,Las Vegas,West,2023-11-02,,Blank,True
+CUST0002532,Male,1988-03-06,Boston,Northeast,2024-02-14,,Blank,True
+CUST0002533,Male,1998-12-01,New York,Northeast,2024-10-03,,OK,True
+CUST0002534,Female,1997-09-26,San Francisco,West,2025-07-15,,Blank,True
+CUST0002535,Female,1963-12-23,Milwaukee,Midwest,2023-05-20,,Blank,True
+CUST0002536,Male,1969-02-08,Philadelphia,Northeast,2023-12-17,,Blank,True
+CUST0002537,Male,1997-10-22,Atlanta,Southeast,2024-04-07,,Blank,True
+CUST0002538,,1984-06-01,Columbus,Midwest,2024-11-17,,OK,True
+GUEST,,,Guest,n/a,,,,

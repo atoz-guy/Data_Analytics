@@ -1,0 +1,598 @@
+sku,product_name,brand,category_name,department,list_price
+SKU-101500,Maren Row Slim Skinny Jeans,Maren Row,Women's Apparel,Apparel,48.99
+SKU-102208,Fernwood Premium Side Table,Fernwood,Furniture,Home,235.99
+SKU-102783,Solene Classic Lip Balm,Solene,Beauty,Health & Beauty,16.99
+SKU-100502,Zentrix Pro Headphones,Zentrix,Consumer Electronics,Electronics,62.99
+SKU-100810,Harbor Lane Ultra Midi Dress,Harbor Lane,Women's Apparel,Apparel,41.99
+SKU-101113,Grayson & Reed Premium Polo Shirt,Grayson & Reed,Men's Apparel,Apparel,31.99
+SKU-101488,Maren Row Essential Blazer,Maren Row,Women's Apparel,Apparel,46.99
+SKU-102635,Zentrix Pro USB Hub,Zentrix,Computers & Accessories,Electronics,58.99
+SKU-103211,Oakhaven Compact Stand Mixer,Oakhaven,Home Appliances,Home,269.99
+SKU-100933,Tinker Bay Essential Plush Toy,Tinker Bay,Toys & Games,Leisure,26.99
+SKU-102041,Grayson & Reed Everyday Chinos,Grayson & Reed,Men's Apparel,Apparel,30.99
+SKU-102088,Solene Slim Sunscreen,Solene,Beauty,Health & Beauty,29.99
+SKU-102222,Tinker Bay Deluxe Building Set,Tinker Bay,Toys & Games,Leisure,7.99
+SKU-102606,Larkware Signature Cutting Board,Larkware,Kitchenware,Home,36.99
+SKU-102953,Larkware Slim Skillet,Larkware,Kitchenware,Home,19.99
+SKU-102528,Grayson & Reed Ultra Chinos,Grayson & Reed,Men's Apparel,Apparel,53.99
+SKU-103991,Dewberry Ultra Face Mask,Dewberry,Beauty,Health & Beauty,79.99
+SKU-102455,Bytely Pro Wireless Mouse,Bytely,Computers & Accessories,Electronics,23.99
+SKU-103931,Wobblekin Pro Board Game,Wobblekin,Toys & Games,Leisure,38.99
+SKU-100681,Lumio Everyday Webcam,Lumio,Consumer Electronics,Electronics,91.99
+SKU-101128,Solene Signature Blazer,Solene,Women's Apparel,Apparel,44.99
+SKU-101865,Portwell Deluxe Laptop Sleeve,Portwell,Computers & Accessories,Electronics,88.99
+SKU-102138,Maren Row Ultra Blazer,Maren Row,Women's Apparel,Apparel,45.99
+SKU-100162,Essential USB Hub,,Computers & Accessories,Electronics,30.99
+SKU-102565,Cobblestone Ultra Running Shoes,Cobblestone,Footwear,Apparel,74.99
+SKU-104025,Cleanfield Deluxe Shampoo,Cleanfield,Personal Care,Health & Beauty,9.99
+SKU-100223,Slim Dumbbell Set,,Sporting Goods,Leisure,28.99
+SKU-101509,Trailmark Premium Bike Helmet,Trailmark,Sporting Goods,Leisure,45.99
+SKU-102862,Velura Slim Serum,Velura,Beauty,Health & Beauty,21.99
+SKU-104149,Deluxe TV Stand,,Furniture,Home,160.99
+SKU-103724,Tinker Bay Deluxe Building Set,Tinker Bay,Toys & Games,Leisure,25.99
+SKU-103214,Velura Compact Lip Balm,Velura,Beauty,Health & Beauty,32.99
+SKU-103353,Solene Slim Lip Balm,Solene,Beauty,Health & Beauty,28.99
+SKU-101181,Tallgrass Signature Loafers,Tallgrass,Footwear,Apparel,60.99
+SKU-100301,Kelvane Premium Toaster Oven,Kelvane,Home Appliances,Home,112.99
+SKU-101618,Cobblestone Compact Sneakers,Cobblestone,Footwear,Apparel,57.99
+SKU-101632,Stridewell Slim Bike Helmet,Stridewell,Sporting Goods,Leisure,24.99
+SKU-100755,Fernwood Essential Bookshelf,Fernwood,Furniture,Home,313.99
+SKU-100655,Larkware Premium Knife Set,Larkware,Kitchenware,Home,15.99
+SKU-102271,Copperleigh Premium Skillet,Copperleigh,Kitchenware,Home,71.99
+SKU-102515,Velura Signature Moisturizer,Velura,Beauty,Health & Beauty,34.99
+SKU-103555,Cleanfield Classic Body Wash,Cleanfield,Personal Care,Health & Beauty,29.99
+SKU-100767,Kelvane Ultra Vacuum,Kelvane,Home Appliances,Home,147.99
+SKU-100893,Dewberry Everyday Lip Balm,Dewberry,Beauty,Health & Beauty,32.99
+SKU-101333,Essential Loafers,,Footwear,Apparel,64.99
+SKU-103464,Dewberry Pro Sunscreen,Dewberry,Beauty,Health & Beauty,16.99
+SKU-101556,Puremint Premium Deodorant,Puremint,Personal Care,Health & Beauty,11.99
+SKU-102336,Portwell Classic Monitor Stand,Portwell,Computers & Accessories,Electronics,76.99
+SKU-103449,Summit Ridge Classic Dumbbell Set,Summit Ridge,Sporting Goods,Leisure,80.99
+SKU-100983,Hearthly Slim Vacuum,Hearthly,Home Appliances,Home,226.99
+SKU-100717,Zentrix Slim Streaming Stick,Zentrix,Consumer Electronics,Electronics,766.99
+SKU-102238,Solene Everyday Leggings,Solene,Women's Apparel,Apparel,34.99
+SKU-102422,Zentrix Ultra Streaming Stick,Zentrix,Consumer Electronics,Electronics,160.99
+SKU-103658,Portwell Everyday Monitor Stand,Portwell,Computers & Accessories,Electronics,63.99
+SKU-102579,Solene Slim Blouse,Solene,Women's Apparel,Apparel,51.99
+SKU-104059,Solene Everyday Serum,Solene,Beauty,Health & Beauty,16.99
+SKU-101927,Copperleigh Classic Skillet,Copperleigh,Kitchenware,Home,42.99
+SKU-102165,Lumio Deluxe Webcam,Lumio,Consumer Electronics,Electronics,214.99
+SKU-100412,Cleanfield Pro Body Wash,Cleanfield,Personal Care,Health & Beauty,9.99
+SKU-103748,Slim Blazer,,Women's Apparel,Apparel,62.99
+SKU-102104,Zentrix Classic Webcam,Zentrix,Consumer Electronics,Electronics,89.99
+SKU-103124,Puremint Slim Toothbrush,Puremint,Personal Care,Health & Beauty,12.99
+SKU-102366,Cleanfield Compact Toothbrush,Cleanfield,Personal Care,Health & Beauty,10.99
+SKU-100462,Wobblekin Deluxe Puzzle,Wobblekin,Toys & Games,Leisure,17.99
+SKU-100000,Wobblekin Pro Building Set,Wobblekin,Toys & Games,Leisure,49.99
+SKU-102134,Audora Signature Bluetooth Speaker,Audora,Consumer Electronics,Electronics,136.99
+SKU-102794,Cleanfield Signature Body Wash,Cleanfield,Personal Care,Health & Beauty,19.99
+SKU-100077,Hearthly Classic Vacuum,Hearthly,Home Appliances,Home,145.99
+SKU-101472,Elmcraft Slim Dresser,Elmcraft,Furniture,Home,254.99
+SKU-102847,Puremint Premium Toothbrush,Puremint,Personal Care,Health & Beauty,25.99
+SKU-103662,Stridewell Essential Sneakers,Stridewell,Footwear,Apparel,143.99
+SKU-100523,Trailmark Everyday Hiking Pack,Trailmark,Sporting Goods,Leisure,197.99
+SKU-101054,Velura Premium Eye Cream,Velura,Beauty,Health & Beauty,32.99
+SKU-103778,Kelvane Slim Space Heater,Kelvane,Home Appliances,Home,145.99
+SKU-101889,Deluxe Dumbbell Set,,Sporting Goods,Leisure,52.99
+SKU-102121,Velura Ultra Serum,Velura,Beauty,Health & Beauty,58.99
+SKU-100904,Audora Essential Webcam,Audora,Consumer Electronics,Electronics,94.99
+SKU-101374,Portwell Deluxe Wireless Mouse,Portwell,Computers & Accessories,Electronics,62.99
+SKU-104135,Brisko Ultra Blender,Brisko,Home Appliances,Home,51.99
+SKU-100421,Signature Serum,,Beauty,Health & Beauty,9.99
+SKU-103290,Dewberry Deluxe Body Wash,Dewberry,Personal Care,Health & Beauty,15.99
+SKU-100577,Audora Slim Bluetooth Speaker,Audora,Consumer Electronics,Electronics,77.99
+SKU-100880,Compact Shampoo,,Personal Care,Health & Beauty,5.99
+SKU-100142,Velura Ultra Sunscreen,Velura,Beauty,Health & Beauty,26.99
+SKU-103471,Velura Premium Face Mask,Velura,Beauty,Health & Beauty,20.99
+SKU-103150,Velura Premium Moisturizer,Velura,Beauty,Health & Beauty,12.99
+SKU-100756,Tinker Bay Signature Plush Toy,Tinker Bay,Toys & Games,Leisure,18.99
+SKU-101923,Tallgrass Pro Oxford Shirt,Tallgrass,Men's Apparel,Apparel,29.99
+SKU-100850,Copperleigh Everyday Skillet,Copperleigh,Kitchenware,Home,30.99
+SKU-103113,Elmcraft Everyday Side Table,Elmcraft,Furniture,Home,279.99
+SKU-103700,Zentrix Compact Keyboard,Zentrix,Computers & Accessories,Electronics,68.99
+SKU-102009,Dewberry Classic Electric Razor,Dewberry,Personal Care,Health & Beauty,5.99
+SKU-101078,Everyday Air Fryer,,Home Appliances,Home,95.99
+SKU-103310,Wobblekin Compact Puzzle,Wobblekin,Toys & Games,Leisure,45.99
+SKU-101969,Cleanfield Essential Electric Razor,Cleanfield,Personal Care,Health & Beauty,15.99
+SKU-101461,Dewberry Premium Serum,Dewberry,Beauty,Health & Beauty,29.99
+SKU-101481,Zentrix Everyday Headphones,Zentrix,Consumer Electronics,Electronics,77.99
+SKU-102823,Harbor Lane Signature Hoodie,Harbor Lane,Men's Apparel,Apparel,50.99
+SKU-102495,Brisko Premium Coffee Maker,Brisko,Home Appliances,Home,123.99
+SKU-103416,Deluxe Shampoo,,Personal Care,Health & Beauty,11.99
+SKU-100871,Larkware Premium Knife Set,Larkware,Kitchenware,Home,35.99
+SKU-101651,Slim Shampoo,,Personal Care,Health & Beauty,16.99
+SKU-103443,Tallgrass Signature Chinos,Tallgrass,Men's Apparel,Apparel,17.99
+SKU-102913,Summit Ridge Everyday Dumbbell Set,Summit Ridge,Sporting Goods,Leisure,65.99
+SKU-100359,Puremint Classic Toothbrush,Puremint,Personal Care,Health & Beauty,14.99
+SKU-102714,Harbor Lane Pro Blazer,Harbor Lane,Women's Apparel,Apparel,25.99
+SKU-103769,Bytely Compact Monitor Stand,Bytely,Computers & Accessories,Electronics,33.99
+SKU-100038,Harbor Lane Essential Joggers,Harbor Lane,Men's Apparel,Apparel,32.99
+SKU-102196,Summit Ridge Pro Water Bottle,Summit Ridge,Sporting Goods,Leisure,39.99
+SKU-102668,Cobblestone Everyday Boots,Cobblestone,Footwear,Apparel,51.99
+SKU-103537,Tinker Bay Pro Building Set,Tinker Bay,Toys & Games,Leisure,23.99
+SKU-104083,Harbor Lane Deluxe Oxford Shirt,Harbor Lane,Men's Apparel,Apparel,44.99
+SKU-103734,Essential Polo Shirt,,Men's Apparel,Apparel,66.99
+SKU-101610,Tallgrass Slim Polo Shirt,Tallgrass,Men's Apparel,Apparel,11.99
+SKU-103062,Solene Essential Skinny Jeans,Solene,Women's Apparel,Apparel,35.99
+SKU-101935,Zentrix Premium Laptop Sleeve,Zentrix,Computers & Accessories,Electronics,70.99
+SKU-100048,Stridewell Deluxe Sandals,Stridewell,Footwear,Apparel,71.99
+SKU-101161,Bytely Signature Laptop Sleeve,Bytely,Computers & Accessories,Electronics,53.99
+SKU-102279,Solene Everyday Serum,Solene,Beauty,Health & Beauty,58.99
+SKU-100662,Audora Signature Bluetooth Speaker,Audora,Consumer Electronics,Electronics,169.99
+SKU-103055,Cobblestone Compact Loafers,Cobblestone,Footwear,Apparel,219.99
+SKU-101892,Dewberry Premium Deodorant,Dewberry,Personal Care,Health & Beauty,8.99
+SKU-101064,Compact Air Fryer,,Home Appliances,Home,137.99
+SKU-102984,Solene Deluxe Sunscreen,Solene,Beauty,Health & Beauty,25.99
+SKU-101785,Stridewell Ultra Running Shoes,Stridewell,Footwear,Apparel,48.99
+SKU-103873,Dewberry Slim Shampoo,Dewberry,Personal Care,Health & Beauty,21.99
+SKU-100668,Portwell Slim Laptop Sleeve,Portwell,Computers & Accessories,Electronics,72.99
+SKU-101542,Larkware Slim Dutch Oven,Larkware,Kitchenware,Home,33.99
+SKU-100691,Stridewell Compact Sandals,Stridewell,Footwear,Apparel,29.99
+SKU-102202,Copperleigh Classic Bakeware Set,Copperleigh,Kitchenware,Home,19.99
+SKU-100865,Velura Essential Eye Cream,Velura,Beauty,Health & Beauty,29.99
+SKU-102261,Kelvane Compact Space Heater,Kelvane,Home Appliances,Home,138.99
+SKU-103803,Cobblestone Essential Sandals,Cobblestone,Footwear,Apparel,134.99
+SKU-103797,Wobblekin Premium Board Game,Wobblekin,Toys & Games,Leisure,57.99
+SKU-102119,Zentrix Compact USB Hub,Zentrix,Computers & Accessories,Electronics,54.99
+SKU-103326,Solene Everyday Blazer,Solene,Women's Apparel,Apparel,35.99
+SKU-100648,Trailmark Deluxe Camping Tent,Trailmark,Sporting Goods,Leisure,61.99
+SKU-101816,Wobblekin Pro Board Game,Wobblekin,Toys & Games,Leisure,18.99
+SKU-100942,Tallgrass Compact Sandals,Tallgrass,Footwear,Apparel,51.99
+SKU-100239,Wobblekin Premium Building Set,Wobblekin,Toys & Games,Leisure,47.99
+SKU-102034,Zentrix Compact Keyboard,Zentrix,Computers & Accessories,Electronics,56.99
+SKU-101077,Harbor Lane Compact Blouse,Harbor Lane,Women's Apparel,Apparel,20.99
+SKU-100377,Lumio Everyday Bluetooth Speaker,Lumio,Consumer Electronics,Electronics,51.99
+SKU-101033,Audora Ultra Webcam,Audora,Consumer Electronics,Electronics,238.99
+SKU-103788,Zentrix Everyday USB Hub,Zentrix,Computers & Accessories,Electronics,119.99
+SKU-104114,Wobblekin Premium Action Figure,Wobblekin,Toys & Games,Leisure,29.99
+SKU-102190,Cleanfield Signature Body Wash,Cleanfield,Personal Care,Health & Beauty,9.99
+SKU-101357,Lumio Everyday Bluetooth Speaker,Lumio,Consumer Electronics,Electronics,96.99
+SKU-103908,Cobblestone Ultra Running Shoes,Cobblestone,Footwear,Apparel,78.99
+SKU-100348,Solene Essential Moisturizer,Solene,Beauty,Health & Beauty,32.99
+SKU-102968,Classic Toothbrush,,Personal Care,Health & Beauty,17.99
+SKU-103201,Dewberry Ultra Lip Balm,Dewberry,Beauty,Health & Beauty,39.99
+SKU-100674,Zentrix Compact Bluetooth Speaker,Zentrix,Consumer Electronics,Electronics,136.99
+SKU-103243,Tallgrass Ultra Boots,Tallgrass,Footwear,Apparel,79.99
+SKU-101800,Harbor Lane Compact Leggings,Harbor Lane,Women's Apparel,Apparel,38.99
+SKU-102053,Fernwood Classic Side Table,Fernwood,Furniture,Home,198.99
+SKU-101409,Tallgrass Slim Boots,Tallgrass,Footwear,Apparel,77.99
+SKU-101463,Dewberry Ultra Deodorant,Dewberry,Personal Care,Health & Beauty,6.99
+SKU-102066,Northbend Essential Bookshelf,Northbend,Furniture,Home,202.99
+SKU-100633,Audora Compact Smart Watch,Audora,Consumer Electronics,Electronics,126.99
+SKU-101023,Harbor Lane Signature Blouse,Harbor Lane,Women's Apparel,Apparel,85.99
+SKU-101835,Lumio Everyday Soundbar,Lumio,Consumer Electronics,Electronics,161.99
+SKU-103881,Portwell Signature Wireless Mouse,Portwell,Computers & Accessories,Electronics,121.99
+SKU-100419,Trailmark Ultra Dumbbell Set,Trailmark,Sporting Goods,Leisure,95.99
+SKU-103389,Copperleigh Signature Dutch Oven,Copperleigh,Kitchenware,Home,40.99
+SKU-103840,Harbor Lane Signature Oxford Shirt,Harbor Lane,Men's Apparel,Apparel,22.99
+SKU-102772,Elmcraft Classic TV Stand,Elmcraft,Furniture,Home,241.99
+SKU-102897,Fernwood Slim Bookshelf,Fernwood,Furniture,Home,213.99
+SKU-100722,Summit Ridge Everyday Bike Helmet,Summit Ridge,Sporting Goods,Leisure,36.99
+SKU-102306,Trailmark Everyday Hiking Pack,Trailmark,Sporting Goods,Leisure,51.99
+SKU-102766,Zentrix Compact Headphones,Zentrix,Consumer Electronics,Electronics,214.99
+SKU-103010,Harbor Lane Deluxe Blazer,Harbor Lane,Women's Apparel,Apparel,47.99
+SKU-103180,Brisko Compact Blender,Brisko,Home Appliances,Home,127.99
+SKU-100456,Elmcraft Signature Dresser,Elmcraft,Furniture,Home,451.99
+SKU-102289,Wobblekin Deluxe Puzzle,Wobblekin,Toys & Games,Leisure,13.99
+SKU-102932,Kelvane Ultra Space Heater,Kelvane,Home Appliances,Home,415.99
+SKU-100975,Harbor Lane Premium Leggings,Harbor Lane,Women's Apparel,Apparel,30.99
+SKU-102539,Zentrix Ultra USB Hub,Zentrix,Computers & Accessories,Electronics,23.99
+SKU-103507,Tinker Bay Ultra Plush Toy,Tinker Bay,Toys & Games,Leisure,56.99
+SKU-103080,Larkware Deluxe Dutch Oven,Larkware,Kitchenware,Home,54.99
+SKU-100620,Puremint Slim Electric Razor,Puremint,Personal Care,Health & Beauty,13.99
+SKU-103481,Solene Classic Blazer,Solene,Women's Apparel,Apparel,15.99
+SKU-102488,Hearthly Compact Vacuum,Hearthly,Home Appliances,Home,218.99
+SKU-100121,Tinker Bay Slim Board Game,Tinker Bay,Toys & Games,Leisure,40.99
+SKU-100209,Solene Premium Leggings,Solene,Women's Apparel,Apparel,44.99
+SKU-102075,Wobblekin Ultra Building Set,Wobblekin,Toys & Games,Leisure,59.99
+SKU-101737,Maren Row Pro Leggings,Maren Row,Women's Apparel,Apparel,21.99
+SKU-102738,Stridewell Slim Loafers,Stridewell,Footwear,Apparel,49.99
+SKU-102685,Larkware Compact Knife Set,Larkware,Kitchenware,Home,32.99
+SKU-101594,Tallgrass Slim Chinos,Tallgrass,Men's Apparel,Apparel,76.99
+SKU-101714,Tinsmith & Co Signature Knife Set,Tinsmith & Co,Kitchenware,Home,84.99
+SKU-103194,Tallgrass Signature Chinos,Tallgrass,Men's Apparel,Apparel,42.99
+SKU-100478,Solene Essential Blazer,Solene,Women's Apparel,Apparel,47.99
+SKU-100919,Brisko Deluxe Air Fryer,Brisko,Home Appliances,Home,156.99
+SKU-101597,Portwell Essential Keyboard,Portwell,Computers & Accessories,Electronics,51.99
+SKU-100736,Harbor Lane Signature Oxford Shirt,Harbor Lane,Men's Apparel,Apparel,16.99
+SKU-101208,Portwell Classic Monitor Stand,Portwell,Computers & Accessories,Electronics,54.99
+SKU-102660,Cleanfield Essential Body Wash,Cleanfield,Personal Care,Health & Beauty,11.99
+SKU-102850,Tinker Bay Classic Board Game,Tinker Bay,Toys & Games,Leisure,18.99
+SKU-100995,Larkware Essential Dutch Oven,Larkware,Kitchenware,Home,28.99
+SKU-102381,Cleanfield Ultra Electric Razor,Cleanfield,Personal Care,Health & Beauty,17.99
+SKU-101676,Dewberry Everyday Lip Balm,Dewberry,Beauty,Health & Beauty,27.99
+SKU-104164,Dewberry Slim Shampoo,Dewberry,Personal Care,Health & Beauty,14.99
+SKU-101699,Cleanfield Pro Toothbrush,Cleanfield,Personal Care,Health & Beauty,7.99
+SKU-100558,Oakhaven Compact Air Fryer,Oakhaven,Home Appliances,Home,302.99
+SKU-100846,Slim Body Wash,,Personal Care,Health & Beauty,4.99
+SKU-100355,Larkware Classic Bakeware Set,Larkware,Kitchenware,Home,38.99
+SKU-101277,Ultra Air Fryer,,Home Appliances,Home,84.99
+SKU-104156,Larkware Signature Mixing Bowls,Larkware,Kitchenware,Home,78.99
+SKU-102704,Elmcraft Everyday Dresser,Elmcraft,Furniture,Home,337.99
+SKU-101399,Cobblestone Everyday Sneakers,Cobblestone,Footwear,Apparel,147.99
+SKU-100443,Elmcraft Pro Dresser,Elmcraft,Furniture,Home,492.99
+SKU-102925,Tallgrass Essential Sneakers,Tallgrass,Footwear,Apparel,107.99
+SKU-103234,Tinker Bay Pro Building Set,Tinker Bay,Toys & Games,Leisure,11.99
+SKU-100138,Zentrix Classic Streaming Stick,Zentrix,Consumer Electronics,Electronics,54.99
+SKU-101735,Bytely Ultra USB Hub,Bytely,Computers & Accessories,Electronics,70.99
+SKU-101320,Kelvane Everyday Coffee Maker,Kelvane,Home Appliances,Home,113.99
+SKU-102473,Lumio Deluxe Streaming Stick,Lumio,Consumer Electronics,Electronics,196.99
+SKU-103786,Dewberry Deluxe Electric Razor,Dewberry,Personal Care,Health & Beauty,7.99
+SKU-101845,Copperleigh Essential Bakeware Set,Copperleigh,Kitchenware,Home,9.99
+SKU-101552,Grayson & Reed Premium Denim Jacket,Grayson & Reed,Men's Apparel,Apparel,17.99
+SKU-102867,Harbor Lane Signature Joggers,Harbor Lane,Men's Apparel,Apparel,28.99
+SKU-103542,Audora Essential Bluetooth Speaker,Audora,Consumer Electronics,Electronics,155.99
+SKU-102558,Stridewell Signature Sneakers,Stridewell,Footwear,Apparel,45.99
+SKU-100096,Brisko Everyday Blender,Brisko,Home Appliances,Home,67.99
+SKU-103632,Copperleigh Compact Mixing Bowls,Copperleigh,Kitchenware,Home,93.99
+SKU-101315,Deluxe Toothbrush,,Personal Care,Health & Beauty,8.99
+SKU-100780,Cobblestone Essential Slip-Ons,Cobblestone,Footwear,Apparel,93.99
+SKU-101718,Solene Deluxe Serum,Solene,Beauty,Health & Beauty,25.99
+SKU-102110,Tallgrass Everyday Chinos,Tallgrass,Men's Apparel,Apparel,61.99
+SKU-100055,Larkware Essential Dutch Oven,Larkware,Kitchenware,Home,32.99
+SKU-103917,Dewberry Deluxe Shampoo,Dewberry,Personal Care,Health & Beauty,9.99
+SKU-102213,Copperleigh Slim Mixing Bowls,Copperleigh,Kitchenware,Home,36.99
+SKU-104172,Grayson & Reed Classic Hoodie,Grayson & Reed,Men's Apparel,Apparel,38.99
+SKU-103146,Larkware Classic Dutch Oven,Larkware,Kitchenware,Home,43.99
+SKU-100059,Tallgrass Premium Oxford Shirt,Tallgrass,Men's Apparel,Apparel,45.99
+SKU-100231,Brisko Ultra Coffee Maker,Brisko,Home Appliances,Home,66.99
+SKU-101344,Stridewell Slim Sandals,Stridewell,Footwear,Apparel,68.99
+SKU-101912,Summit Ridge Signature Camping Tent,Summit Ridge,Sporting Goods,Leisure,29.99
+SKU-102095,Lumio Deluxe Bluetooth Speaker,Lumio,Consumer Electronics,Electronics,221.99
+SKU-100267,Solene Slim Leggings,Solene,Women's Apparel,Apparel,55.99
+SKU-100802,Zentrix Premium Monitor Stand,Zentrix,Computers & Accessories,Electronics,251.99
+SKU-102317,Tinker Bay Signature RC Car,Tinker Bay,Toys & Games,Leisure,19.99
+SKU-103299,Summit Ridge Classic Bike Helmet,Summit Ridge,Sporting Goods,Leisure,102.99
+SKU-102908,Portwell Ultra Laptop Sleeve,Portwell,Computers & Accessories,Electronics,113.99
+SKU-103937,Dewberry Compact Sunscreen,Dewberry,Beauty,Health & Beauty,15.99
+SKU-100156,Lumio Ultra Headphones,Lumio,Consumer Electronics,Electronics,32.99
+SKU-100789,Oakhaven Deluxe Stand Mixer,Oakhaven,Home Appliances,Home,136.99
+SKU-102418,Dewberry Everyday Deodorant,Dewberry,Personal Care,Health & Beauty,22.99
+SKU-101535,Zentrix Signature Bluetooth Speaker,Zentrix,Consumer Electronics,Electronics,139.99
+SKU-102612,Solene Deluxe Midi Dress,Solene,Women's Apparel,Apparel,56.99
+SKU-103036,Trailmark Ultra Camping Tent,Trailmark,Sporting Goods,Leisure,78.99
+SKU-102689,Larkware Premium Bakeware Set,Larkware,Kitchenware,Home,40.99
+SKU-100009,Solene Premium Lip Balm,Solene,Beauty,Health & Beauty,40.99
+SKU-103832,Dewberry Classic Deodorant,Dewberry,Personal Care,Health & Beauty,15.99
+SKU-100772,Oakhaven Deluxe Toaster Oven,Oakhaven,Home Appliances,Home,192.99
+SKU-103453,Cobblestone Compact Sneakers,Cobblestone,Footwear,Apparel,48.99
+SKU-103620,Fernwood Everyday Dresser,Fernwood,Furniture,Home,120.99
+SKU-103265,Maren Row Deluxe Cardigan,Maren Row,Women's Apparel,Apparel,54.99
+SKU-100592,Larkware Ultra Bakeware Set,Larkware,Kitchenware,Home,21.99
+SKU-100926,Trailmark Deluxe Camping Tent,Trailmark,Sporting Goods,Leisure,46.99
+SKU-103975,Summit Ridge Slim Camping Tent,Summit Ridge,Sporting Goods,Leisure,57.99
+SKU-101722,Zentrix Compact USB Hub,Zentrix,Computers & Accessories,Electronics,178.99
+SKU-103278,Cobblestone Deluxe Loafers,Cobblestone,Footwear,Apparel,122.99
+SKU-103523,Velura Compact Lip Balm,Velura,Beauty,Health & Beauty,19.99
+SKU-104140,Cleanfield Essential Toothbrush,Cleanfield,Personal Care,Health & Beauty,12.99
+SKU-102243,Lumio Slim Smart Watch,Lumio,Consumer Electronics,Electronics,76.99
+SKU-102676,Tallgrass Slim Denim Jacket,Tallgrass,Men's Apparel,Apparel,14.99
+SKU-101037,Deluxe Blender,,Home Appliances,Home,78.99
+SKU-104117,Premium TV Stand,,Furniture,Home,242.99
+SKU-103957,Tinsmith & Co Compact Dutch Oven,Tinsmith & Co,Kitchenware,Home,16.99
+SKU-101438,Harbor Lane Compact Midi Dress,Harbor Lane,Women's Apparel,Apparel,24.99
+SKU-102696,Grayson & Reed Classic Oxford Shirt,Grayson & Reed,Men's Apparel,Apparel,72.99
+SKU-101688,Grayson & Reed Signature Hoodie,Grayson & Reed,Men's Apparel,Apparel,88.99
+SKU-102286,Brisko Essential Air Fryer,Brisko,Home Appliances,Home,145.99
+SKU-100534,Bytely Classic Monitor Stand,Bytely,Computers & Accessories,Electronics,119.99
+SKU-103528,Kelvane Essential Space Heater,Kelvane,Home Appliances,Home,128.99
+SKU-100549,Pro Knife Set,,Kitchenware,Home,37.99
+SKU-101370,Ultra Bakeware Set,,Kitchenware,Home,48.99
+SKU-100504,Velura Slim Lip Balm,Velura,Beauty,Health & Beauty,28.99
+SKU-102373,Audora Premium Webcam,Audora,Consumer Electronics,Electronics,53.99
+SKU-102755,Tinker Bay Ultra Building Set,Tinker Bay,Toys & Games,Leisure,16.99
+SKU-100948,Tinker Bay Deluxe Puzzle,Tinker Bay,Toys & Games,Leisure,22.99
+SKU-104061,Grayson & Reed Signature Hoodie,Grayson & Reed,Men's Apparel,Apparel,21.99
+SKU-100625,Portwell Slim Wireless Mouse,Portwell,Computers & Accessories,Electronics,76.99
+SKU-100152,Solene Signature Sunscreen,Solene,Beauty,Health & Beauty,25.99
+SKU-102345,Brisko Signature Space Heater,Brisko,Home Appliances,Home,205.99
+SKU-101257,Wobblekin Ultra Board Game,Wobblekin,Toys & Games,Leisure,29.99
+SKU-102357,Dewberry Ultra Lip Balm,Dewberry,Beauty,Health & Beauty,30.99
+SKU-102393,Brisko Signature Air Fryer,Brisko,Home Appliances,Home,68.99
+SKU-103597,Tinsmith & Co Deluxe Mixing Bowls,Tinsmith & Co,Kitchenware,Home,40.99
+SKU-103637,Solene Premium Blazer,Solene,Women's Apparel,Apparel,64.99
+SKU-100610,Cleanfield Everyday Deodorant,Cleanfield,Personal Care,Health & Beauty,35.99
+SKU-102623,Wobblekin Slim Action Figure,Wobblekin,Toys & Games,Leisure,20.99
+SKU-103275,Harbor Lane Deluxe Blouse,Harbor Lane,Women's Apparel,Apparel,51.99
+SKU-102724,Harbor Lane Compact Leggings,Harbor Lane,Women's Apparel,Apparel,25.99
+SKU-100110,Elmcraft Slim Accent Chair,Elmcraft,Furniture,Home,1100.99
+SKU-103135,Hearthly Signature Coffee Maker,Hearthly,Home Appliances,Home,180.99
+SKU-101058,Grayson & Reed Deluxe Oxford Shirt,Grayson & Reed,Men's Apparel,Apparel,29.99
+SKU-101199,Velura Pro Face Mask,Velura,Beauty,Health & Beauty,20.99
+SKU-101662,Maren Row Everyday Leggings,Maren Row,Women's Apparel,Apparel,93.99
+SKU-100257,Copperleigh Pro Bakeware Set,Copperleigh,Kitchenware,Home,66.99
+SKU-103563,Zentrix Essential Bluetooth Speaker,Zentrix,Consumer Electronics,Electronics,129.99
+SKU-103028,Harbor Lane Premium Skinny Jeans,Harbor Lane,Women's Apparel,Apparel,41.99
+SKU-103323,Solene Signature Blazer,Solene,Women's Apparel,Apparel,102.99
+SKU-101272,Tinker Bay Ultra Building Set,Tinker Bay,Toys & Games,Leisure,30.99
+SKU-102478,Wobblekin Signature Action Figure,Wobblekin,Toys & Games,Leisure,13.99
+SKU-100184,Puremint Ultra Electric Razor,Puremint,Personal Care,Health & Beauty,7.99
+SKU-101628,Grayson & Reed Slim Chinos,Grayson & Reed,Men's Apparel,Apparel,123.99
+SKU-103229,Deluxe Skinny Jeans,,Women's Apparel,Apparel,39.99
+SKU-104191,Brisko Deluxe Blender,Brisko,Home Appliances,Home,371.99
+SKU-103617,Maren Row Slim Cardigan,Maren Row,Women's Apparel,Apparel,54.99
+SKU-100026,Solene Ultra Eye Cream,Solene,Beauty,Health & Beauty,18.99
+SKU-103520,Stridewell Premium Sandals,Stridewell,Footwear,Apparel,91.99
+SKU-101988,Maren Row Pro Leggings,Maren Row,Women's Apparel,Apparel,15.99
+SKU-101183,Tinsmith & Co Compact Cutting Board,Tinsmith & Co,Kitchenware,Home,25.99
+SKU-102649,Solene Compact Skinny Jeans,Solene,Women's Apparel,Apparel,146.99
+SKU-102590,Tallgrass Ultra Boots,Tallgrass,Footwear,Apparel,114.99
+SKU-103500,Tallgrass Ultra Hoodie,Tallgrass,Men's Apparel,Apparel,41.99
+SKU-104009,Stridewell Compact Yoga Mat,Stridewell,Sporting Goods,Leisure,104.99
+SKU-102878,Copperleigh Signature Cutting Board,Copperleigh,Kitchenware,Home,11.99
+SKU-103641,Cleanfield Everyday Shampoo,Cleanfield,Personal Care,Health & Beauty,18.99
+SKU-101420,Brisko Compact Coffee Maker,Brisko,Home Appliances,Home,117.99
+SKU-101952,Tinsmith & Co Premium Bakeware Set,Tinsmith & Co,Kitchenware,Home,11.99
+SKU-103952,Trailmark Compact Bike Helmet,Trailmark,Sporting Goods,Leisure,27.99
+SKU-101141,Harbor Lane Classic Oxford Shirt,Harbor Lane,Men's Apparel,Apparel,27.99
+SKU-102084,Bytely Classic Wireless Mouse,Bytely,Computers & Accessories,Electronics,161.99
+SKU-102584,Puremint Compact Deodorant,Puremint,Personal Care,Health & Beauty,8.99
+SKU-102720,Copperleigh Compact Dutch Oven,Copperleigh,Kitchenware,Home,84.99
+SKU-101110,Dewberry Premium Serum,Dewberry,Beauty,Health & Beauty,21.99
+SKU-102526,Oakhaven Premium Vacuum,Oakhaven,Home Appliances,Home,166.99
+SKU-102511,Harbor Lane Compact Blouse,Harbor Lane,Women's Apparel,Apparel,76.99
+SKU-100882,Solene Signature Lip Balm,Solene,Beauty,Health & Beauty,26.99
+SKU-101235,Velura Compact Serum,Velura,Beauty,Health & Beauty,69.99
+SKU-100581,Wobblekin Premium Building Set,Wobblekin,Toys & Games,Leisure,21.99
+SKU-101854,Zentrix Ultra Laptop Sleeve,Zentrix,Computers & Accessories,Electronics,71.99
+SKU-103488,Solene Pro Moisturizer,Solene,Beauty,Health & Beauty,17.99
+SKU-101707,Elmcraft Premium Accent Chair,Elmcraft,Furniture,Home,465.99
+SKU-101940,Stridewell Compact Dumbbell Set,Stridewell,Sporting Goods,Leisure,87.99
+SKU-100835,Tallgrass Slim Running Shoes,Tallgrass,Footwear,Apparel,77.99
+SKU-103159,Tinker Bay Essential Building Set,Tinker Bay,Toys & Games,Leisure,35.99
+SKU-101423,Harbor Lane Premium Oxford Shirt,Harbor Lane,Men's Apparel,Apparel,14.99
+SKU-101006,Cobblestone Ultra Slip-Ons,Cobblestone,Footwear,Apparel,23.99
+SKU-102160,Hearthly Pro Stand Mixer,Hearthly,Home Appliances,Home,67.99
+SKU-100325,Cobblestone Essential Sandals,Cobblestone,Footwear,Apparel,112.99
+SKU-103689,Dewberry Pro Lip Balm,Dewberry,Beauty,Health & Beauty,14.99
+SKU-103982,Oakhaven Deluxe Space Heater,Oakhaven,Home Appliances,Home,125.99
+SKU-103608,Bytely Essential USB Hub,Bytely,Computers & Accessories,Electronics,30.99
+SKU-100198,Lumio Deluxe Webcam,Lumio,Consumer Electronics,Electronics,142.99
+SKU-103258,Tallgrass Compact Chinos,Tallgrass,Men's Apparel,Apparel,54.989999999999995
+SKU-101531,Tallgrass Everyday Oxford Shirt,Tallgrass,Men's Apparel,Apparel,38.99
+SKU-100279,Solene Essential Cardigan,Solene,Women's Apparel,Apparel,49.99
+SKU-102996,Summit Ridge Slim Hiking Pack,Summit Ridge,Sporting Goods,Leisure,33.99
+SKU-104049,Larkware Compact Skillet,Larkware,Kitchenware,Home,15.99
+SKU-103558,Solene Deluxe Face Mask,Solene,Beauty,Health & Beauty,12.99
+SKU-103678,Northbend Pro TV Stand,Northbend,Furniture,Home,194.99
+SKU-102833,Deluxe Vacuum,,Home Appliances,Home,54.99
+SKU-103765,Oakhaven Compact Stand Mixer,Oakhaven,Home Appliances,Home,573.99
+SKU-103431,Copperleigh Slim Mixing Bowls,Copperleigh,Kitchenware,Home,35.99
+SKU-101165,Cleanfield Premium Electric Razor,Cleanfield,Personal Care,Health & Beauty,34.99
+SKU-100832,Tallgrass Premium Denim Jacket,Tallgrass,Men's Apparel,Apparel,20.99
+SKU-102152,Tallgrass Essential Chinos,Tallgrass,Men's Apparel,Apparel,70.99
+SKU-102248,Dewberry Classic Shampoo,Dewberry,Personal Care,Health & Beauty,14.99
+SKU-103361,Elmcraft Deluxe Dresser,Elmcraft,Furniture,Home,132.99
+SKU-103094,Cobblestone Essential Running Shoes,Cobblestone,Footwear,Apparel,45.99
+SKU-102935,Audora Ultra Webcam,Audora,Consumer Electronics,Electronics,171.99
+SKU-101329,Hearthly Ultra Space Heater,Hearthly,Home Appliances,Home,202.99
+SKU-101588,Audora Everyday Soundbar,Audora,Consumer Electronics,Electronics,113.99
+SKU-103225,Tinsmith & Co Premium Bakeware Set,Tinsmith & Co,Kitchenware,Home,31.99
+SKU-101171,Solene Pro Eye Cream,Solene,Beauty,Health & Beauty,26.99
+SKU-103472,Audora Classic Webcam,Audora,Consumer Electronics,Electronics,93.99
+SKU-100180,Bytely Ultra USB Hub,Bytely,Computers & Accessories,Electronics,62.99
+SKU-103682,Puremint Pro Deodorant,Puremint,Personal Care,Health & Beauty,12.99
+SKU-102980,Dewberry Classic Body Wash,Dewberry,Personal Care,Health & Beauty,4.99
+SKU-100397,Stridewell Deluxe Hiking Pack,Stridewell,Sporting Goods,Leisure,141.99
+SKU-101121,Cobblestone Slim Boots,Cobblestone,Footwear,Apparel,115.99
+SKU-100730,Brisko Essential Toaster Oven,Brisko,Home Appliances,Home,33.99
+SKU-100228,Tinsmith & Co Premium Knife Set,Tinsmith & Co,Kitchenware,Home,21.99
+SKU-101286,Wobblekin Classic Board Game,Wobblekin,Toys & Games,Leisure,38.99
+SKU-101245,Solene Classic Moisturizer,Solene,Beauty,Health & Beauty,22.99
+SKU-101154,Zentrix Deluxe Bluetooth Speaker,Zentrix,Consumer Electronics,Electronics,157.99
+SKU-102362,Cleanfield Ultra Toothbrush,Cleanfield,Personal Care,Health & Beauty,14.99
+SKU-102991,Harbor Lane Everyday Chinos,Harbor Lane,Men's Apparel,Apparel,74.99
+SKU-100215,Grayson & Reed Essential Denim Jacket,Grayson & Reed,Men's Apparel,Apparel,48.99
+SKU-100018,Wobblekin Slim Action Figure,Wobblekin,Toys & Games,Leisure,17.99
+SKU-103007,Copperleigh Classic Mixing Bowls,Copperleigh,Kitchenware,Home,44.99
+SKU-100952,Copperleigh Premium Dutch Oven,Copperleigh,Kitchenware,Home,32.99
+SKU-101795,Summit Ridge Classic Water Bottle,Summit Ridge,Sporting Goods,Leisure,34.99
+SKU-100089,Dewberry Essential Body Wash,Dewberry,Personal Care,Health & Beauty,9.99
+SKU-103285,Tallgrass Deluxe Chinos,Tallgrass,Men's Apparel,Apparel,39.99
+SKU-101225,Trailmark Ultra Water Bottle,Trailmark,Sporting Goods,Leisure,61.99
+SKU-103897,Puremint Pro Electric Razor,Puremint,Personal Care,Health & Beauty,11.99
+SKU-100902,Velura Slim Serum,Velura,Beauty,Health & Beauty,11.99
+SKU-101762,Summit Ridge Slim Camping Tent,Summit Ridge,Sporting Goods,Leisure,63.99
+SKU-102541,Bytely Classic Wireless Mouse,Bytely,Computers & Accessories,Electronics,20.99
+SKU-100818,Grayson & Reed Essential Chinos,Grayson & Reed,Men's Apparel,Apparel,60.99
+SKU-100194,Portwell Ultra Monitor Stand,Portwell,Computers & Accessories,Electronics,59.99
+SKU-100431,Solene Compact Blazer,Solene,Women's Apparel,Apparel,44.99
+SKU-103997,Zentrix Compact Smart Watch,Zentrix,Consumer Electronics,Electronics,168.99
+SKU-103311,Wobblekin Slim Puzzle,Wobblekin,Toys & Games,Leisure,37.99
+SKU-102746,Solene Premium Serum,Solene,Beauty,Health & Beauty,16.99
+SKU-101566,Tinker Bay Ultra Action Figure,Tinker Bay,Toys & Games,Leisure,15.99
+SKU-101139,Grayson & Reed Deluxe Chinos,Grayson & Reed,Men's Apparel,Apparel,52.99
+SKU-103822,Bytely Ultra USB Hub,Bytely,Computers & Accessories,Electronics,25.99
+SKU-103740,Harbor Lane Everyday Joggers,Harbor Lane,Men's Apparel,Apparel,41.99
+SKU-103177,Audora Ultra Smart Watch,Audora,Consumer Electronics,Electronics,139.99
+SKU-104126,Zentrix Everyday Streaming Stick,Zentrix,Consumer Electronics,Electronics,53.99
+SKU-104069,Bytely Ultra Keyboard,Bytely,Computers & Accessories,Electronics,43.99
+SKU-103712,Zentrix Pro Streaming Stick,Zentrix,Consumer Electronics,Electronics,62.99
+SKU-100129,Bytely Pro Monitor Stand,Bytely,Computers & Accessories,Electronics,59.99
+SKU-102736,Stridewell Classic Boots,Stridewell,Footwear,Apparel,46.99
+SKU-103498,Wobblekin Classic Board Game,Wobblekin,Toys & Games,Leisure,15.99
+SKU-103374,Maren Row Pro Cardigan,Maren Row,Women's Apparel,Apparel,86.99
+SKU-101304,Northbend Ultra Accent Chair,Northbend,Furniture,Home,282.99
+SKU-103091,Hearthly Everyday Coffee Maker,Hearthly,Home Appliances,Home,192.99
+SKU-103870,Harbor Lane Everyday Denim Jacket,Harbor Lane,Men's Apparel,Apparel,28.99
+SKU-103920,Wobblekin Everyday Puzzle,Wobblekin,Toys & Games,Leisure,33.99
+SKU-101196,Tallgrass Premium Sneakers,Tallgrass,Footwear,Apparel,27.99
+SKU-103335,Stridewell Classic Running Shoes,Stridewell,Footwear,Apparel,144.99
+SKU-102344,Copperleigh Everyday Dutch Oven,Copperleigh,Kitchenware,Home,13.99
+SKU-101388,Tallgrass Pro Hoodie,Tallgrass,Men's Apparel,Apparel,72.99
+SKU-104198,Maren Row Deluxe Midi Dress,Maren Row,Women's Apparel,Apparel,29.99
+SKU-103891,Harbor Lane Classic Joggers,Harbor Lane,Men's Apparel,Apparel,13.99
+SKU-100489,Solene Classic Blouse,Solene,Women's Apparel,Apparel,38.99
+SKU-100526,Harbor Lane Essential Leggings,Harbor Lane,Women's Apparel,Apparel,79.99
+SKU-104184,Summit Ridge Signature Hiking Pack,Summit Ridge,Sporting Goods,Leisure,54.99
+SKU-103583,Maren Row Signature Blouse,Maren Row,Women's Apparel,Apparel,41.99
+SKU-104093,Harbor Lane Everyday Blouse,Harbor Lane,Women's Apparel,Apparel,21.99
+SKU-102943,Harbor Lane Classic Hoodie,Harbor Lane,Men's Apparel,Apparel,62.99
+SKU-103672,Northbend Slim Dresser,Northbend,Furniture,Home,192.99
+SKU-101045,Lumio Slim Soundbar,Lumio,Consumer Electronics,Electronics,81.99
+SKU-101643,Elmcraft Deluxe Dresser,Elmcraft,Furniture,Home,175.99
+SKU-101881,Tinsmith & Co Ultra Mixing Bowls,Tinsmith & Co,Kitchenware,Home,21.99
+SKU-100245,Trailmark Everyday Hiking Pack,Trailmark,Sporting Goods,Leisure,41.99
+SKU-102410,Dewberry Pro Eye Cream,Dewberry,Beauty,Health & Beauty,28.99
+SKU-103051,Brisko Ultra Vacuum,Brisko,Home Appliances,Home,141.99
+SKU-103367,Portwell Premium Monitor Stand,Portwell,Computers & Accessories,Electronics,51.99
+SKU-101575,Larkware Classic Dutch Oven,Larkware,Kitchenware,Home,16.99
+SKU-101266,Harbor Lane Compact Skinny Jeans,Harbor Lane,Women's Apparel,Apparel,51.99
+SKU-101297,Compact Toaster Oven,,Home Appliances,Home,106.99
+SKU-103102,Audora Essential Bluetooth Speaker,Audora,Consumer Electronics,Electronics,199.99
+SKU-103424,Puremint Compact Toothbrush,Puremint,Personal Care,Health & Beauty,3.99
+SKU-102327,Trailmark Signature Bike Helmet,Trailmark,Sporting Goods,Leisure,41.99
+SKU-101859,Compact Face Mask,,Beauty,Health & Beauty,28.99
+SKU-102890,Dewberry Deluxe Eye Cream,Dewberry,Beauty,Health & Beauty,27.99
+SKU-104035,Harbor Lane Classic Skinny Jeans,Harbor Lane,Women's Apparel,Apparel,43.99
+SKU-102229,Trailmark Ultra Yoga Mat,Trailmark,Sporting Goods,Leisure,34.99
+SKU-101382,Cobblestone Essential Sneakers,Cobblestone,Footwear,Apparel,108.99
+SKU-102181,Lumio Premium Smart Watch,Lumio,Consumer Electronics,Electronics,141.99
+SKU-100332,Ultra Leggings,,Women's Apparel,Apparel,43.99
+SKU-100603,Ultra Desk,,Furniture,Home,148.99
+SKU-102314,Summit Ridge Ultra Camping Tent,Summit Ridge,Sporting Goods,Leisure,23.99
+SKU-100384,Harbor Lane Compact Oxford Shirt,Harbor Lane,Men's Apparel,Apparel,46.99
+SKU-101685,Everyday Mixing Bowls,,Kitchenware,Home,6.99
+SKU-102644,Stridewell Classic Sneakers,Stridewell,Footwear,Apparel,65.99
+SKU-100402,Trailmark Pro Hiking Pack,Trailmark,Sporting Goods,Leisure,45.99
+SKU-100389,Copperleigh Deluxe Mixing Bowls,Copperleigh,Kitchenware,Home,72.99
+SKU-100299,Solene Everyday Skinny Jeans,Solene,Women's Apparel,Apparel,21.99
+SKU-101746,Cleanfield Slim Deodorant,Cleanfield,Personal Care,Health & Beauty,22.99
+SKU-102499,Velura Signature Sunscreen,Velura,Beauty,Health & Beauty,18.99
+SKU-102468,Portwell Slim Keyboard,Portwell,Computers & Accessories,Electronics,70.99
+SKU-104095,Hearthly Compact Air Fryer,Hearthly,Home Appliances,Home,81.99
+SKU-102759,Brisko Slim Toaster Oven,Brisko,Home Appliances,Home,219.99
+SKU-102436,Kelvane Premium Air Fryer,Kelvane,Home Appliances,Home,92.99
+SKU-100287,Dewberry Deluxe Body Wash,Dewberry,Personal Care,Health & Beauty,17.99
+SKU-101953,Hearthly Signature Air Fryer,Hearthly,Home Appliances,Home,142.99
+SKU-101091,Bytely Signature Monitor Stand,Bytely,Computers & Accessories,Electronics,96.99
+SKU-103707,Velura Everyday Moisturizer,Velura,Beauty,Health & Beauty,31.99
+SKU-102792,Tallgrass Everyday Polo Shirt,Tallgrass,Men's Apparel,Apparel,48.99
+SKU-101776,Oakhaven Signature Toaster Oven,Oakhaven,Home Appliances,Home,129.99
+SKU-103844,Copperleigh Compact Dutch Oven,Copperleigh,Kitchenware,Home,134.99
+SKU-100540,Portwell Essential USB Hub,Portwell,Computers & Accessories,Electronics,248.99
+SKU-102434,Bytely Slim Laptop Sleeve,Bytely,Computers & Accessories,Electronics,48.99
+SKU-103042,Grayson & Reed Classic Chinos,Grayson & Reed,Men's Apparel,Apparel,20.99
+SKU-101986,Larkware Everyday Mixing Bowls,Larkware,Kitchenware,Home,14.99
+SKU-102802,Harbor Lane Premium Chinos,Harbor Lane,Men's Apparel,Apparel,36.99
+SKU-102172,Maren Row Everyday Leggings,Maren Row,Women's Apparel,Apparel,58.99
+SKU-102548,Solene Pro Lip Balm,Solene,Beauty,Health & Beauty,47.99
+SKU-103404,Puremint Pro Deodorant,Puremint,Personal Care,Health & Beauty,9.99
+SKU-102256,Harbor Lane Deluxe Denim Jacket,Harbor Lane,Men's Apparel,Apparel,58.99
+SKU-100452,Tallgrass Premium Running Shoes,Tallgrass,Footwear,Apparel,34.99
+SKU-102956,Cleanfield Pro Shampoo,Cleanfield,Personal Care,Health & Beauty,32.99
+SKU-100310,Stridewell Signature Sandals,Stridewell,Footwear,Apparel,76.99
+SKU-101655,Bytely Essential Wireless Mouse,Bytely,Computers & Accessories,Electronics,39.99
+SKU-100794,Dewberry Classic Electric Razor,Dewberry,Personal Care,Health & Beauty,25.99
+SKU-103167,Maren Row Premium Cardigan,Maren Row,Women's Apparel,Apparel,122.99
+SKU-101753,Kelvane Everyday Air Fryer,Kelvane,Home Appliances,Home,82.99
+SKU-101105,Audora Pro Webcam,Audora,Consumer Electronics,Electronics,147.99
+SKU-102964,Solene Deluxe Skinny Jeans,Solene,Women's Apparel,Apparel,76.99
+SKU-102296,Tallgrass Deluxe Joggers,Tallgrass,Men's Apparel,Apparel,27.99
+SKU-102835,Harbor Lane Compact Cardigan,Harbor Lane,Women's Apparel,Apparel,29.99
+SKU-100567,Solene Classic Midi Dress,Solene,Women's Apparel,Apparel,22.99
+SKU-103859,Grayson & Reed Everyday Denim Jacket,Grayson & Reed,Men's Apparel,Apparel,39.99
+SKU-102629,Hearthly Signature Vacuum,Hearthly,Home Appliances,Home,66.99
+SKU-103381,Everyday Midi Dress,,Women's Apparel,Apparel,58.99
+SKU-101829,Compact Dresser,,Furniture,Home,249.99
+SKU-100438,Audora Deluxe Smart Watch,Audora,Consumer Electronics,Electronics,92.99
+SKU-100701,Lumio Classic Webcam,Lumio,Consumer Electronics,Electronics,373.99
+SKU-103399,Tallgrass Classic Denim Jacket,Tallgrass,Men's Apparel,Apparel,15.99
+SKU-104014,Maren Row Premium Blazer,Maren Row,Women's Apparel,Apparel,21.99
+SKU-101900,Solene Classic Moisturizer,Solene,Beauty,Health & Beauty,21.99
+SKU-100748,Zentrix Signature External Drive,Zentrix,Computers & Accessories,Electronics,65.99
+SKU-101444,Dewberry Everyday Body Wash,Dewberry,Personal Care,Health & Beauty,33.99
+SKU-100112,Zentrix Ultra External Drive,Zentrix,Computers & Accessories,Electronics,60.99
+SKU-100259,Velura Essential Lip Balm,Velura,Beauty,Health & Beauty,25.99
+SKU-100515,Fernwood Premium Desk,Fernwood,Furniture,Home,435.99
+SKU-100912,Puremint Signature Toothbrush,Puremint,Personal Care,Health & Beauty,22.99
+SKU-102571,Brisko Signature Space Heater,Brisko,Home Appliances,Home,258.99
+SKU-103989,Cobblestone Compact Sandals,Cobblestone,Footwear,Apparel,87.99
+SKU-100369,Elmcraft Ultra Desk,Elmcraft,Furniture,Home,463.99
+SKU-103570,Wobblekin Essential Action Figure,Wobblekin,Toys & Games,Leisure,50.99
+SKU-103341,Pro Oxford Shirt,,Men's Apparel,Apparel,25.99
+SKU-103753,Tallgrass Everyday Sandals,Tallgrass,Footwear,Apparel,67.99
+SKU-101339,Tallgrass Slim Loafers,Tallgrass,Footwear,Apparel,40.99
+SKU-101015,Velura Deluxe Sunscreen,Velura,Beauty,Health & Beauty,23.99
+SKU-103072,Solene Premium Skinny Jeans,Solene,Women's Apparel,Apparel,28.99
+SKU-101812,Velura Ultra Serum,Velura,Beauty,Health & Beauty,11.99
+SKU-101670,Brisko Ultra Coffee Maker,Brisko,Home Appliances,Home,112.99
+SKU-103904,Tinker Bay Slim RC Car,Tinker Bay,Toys & Games,Leisure,36.99
+SKU-100698,Dewberry Signature Moisturizer,Dewberry,Beauty,Health & Beauty,24.99
+SKU-100490,Puremint Compact Toothbrush,Puremint,Personal Care,Health & Beauty,28.99
+SKU-103248,Zentrix Slim Streaming Stick,Zentrix,Consumer Electronics,Electronics,190.99
+SKU-100064,Copperleigh Compact Cutting Board,Copperleigh,Kitchenware,Home,32.99
+SKU-101450,Stridewell Everyday Running Shoes,Stridewell,Footwear,Apparel,48.99
+SKU-100992,Zentrix Pro Smart Watch,Zentrix,Consumer Electronics,Electronics,135.99
+SKU-101432,Brisko Everyday Space Heater,Brisko,Home Appliances,Home,284.99
+SKU-104018,Bytely Compact Monitor Stand,Bytely,Computers & Accessories,Electronics,98.99
+SKU-102405,Northbend Ultra Dresser,Northbend,Furniture,Home,158.99
+SKU-100962,Oakhaven Essential Toaster Oven,Oakhaven,Home Appliances,Home,114.99
+SKU-103074,Grayson & Reed Essential Hoodie,Grayson & Reed,Men's Apparel,Apparel,86.99
+SKU-102046,Tinker Bay Ultra Plush Toy,Tinker Bay,Toys & Games,Leisure,21.99
+SKU-102143,Zentrix Signature Streaming Stick,Zentrix,Consumer Electronics,Electronics,101.99
+SKU-104105,Bytely Pro Keyboard,Bytely,Computers & Accessories,Electronics,123.99
+SKU-101523,Harbor Lane Slim Polo Shirt,Harbor Lane,Men's Apparel,Apparel,22.99
+SKU-103719,Premium Webcam,,Consumer Electronics,Electronics,120.99
+SKU-103812,Larkware Ultra Dutch Oven,Larkware,Kitchenware,Home,35.99
+SKU-101826,Maren Row Deluxe Cardigan,Maren Row,Women's Apparel,Apparel,42.99
+SKU-103850,Trailmark Classic Camping Tent,Trailmark,Sporting Goods,Leisure,52.99
+SKU-102018,Trailmark Deluxe Yoga Mat,Trailmark,Sporting Goods,Leisure,62.99
+SKU-101571,Summit Ridge Deluxe Hiking Pack,Summit Ridge,Sporting Goods,Leisure,75.99
+SKU-100856,Portwell Premium Wireless Mouse,Portwell,Computers & Accessories,Electronics,49.99
+SKU-102816,Classic Laptop Sleeve,,Computers & Accessories,Electronics,88.99
+SKU-102810,Solene Essential Cardigan,Solene,Women's Apparel,Apparel,60.99
+SKU-102601,Hearthly Essential Stand Mixer,Hearthly,Home Appliances,Home,119.99
+SKU-103818,Fernwood Signature Desk,Fernwood,Furniture,Home,165.99
+SKU-103121,Tallgrass Deluxe Hoodie,Tallgrass,Men's Apparel,Apparel,30.99
+SKU-101767,Maren Row Pro Midi Dress,Maren Row,Women's Apparel,Apparel,48.99
+SKU-100709,Tallgrass Essential Oxford Shirt,Tallgrass,Men's Apparel,Apparel,31.99
+SKU-100320,Solene Everyday Blouse,Solene,Women's Apparel,Apparel,21.99
+SKU-104171,Tinker Bay Slim Puzzle,Tinker Bay,Toys & Games,Leisure,39.99
+SKU-102873,Tallgrass Premium Joggers,Tallgrass,Men's Apparel,Apparel,57.99
+SKU-101291,Zentrix Pro Wireless Mouse,Zentrix,Computers & Accessories,Electronics,52.99
+SKU-101406,Zentrix Essential Soundbar,Zentrix,Consumer Electronics,Electronics,224.99
+SKU-101009,Cleanfield Signature Deodorant,Cleanfield,Personal Care,Health & Beauty,6.99
+SKU-102898,Cleanfield Premium Deodorant,Cleanfield,Personal Care,Health & Beauty,22.99
+SKU-103603,Maren Row Everyday Blazer,Maren Row,Women's Apparel,Apparel,58.99
+SKU-100966,Copperleigh Ultra Skillet,Copperleigh,Kitchenware,Home,22.99
+SKU-103347,Tallgrass Slim Hoodie,Tallgrass,Men's Apparel,Apparel,37.99
+SKU-101096,Dewberry Classic Shampoo,Dewberry,Personal Care,Health & Beauty,17.99
+SKU-100338,Dewberry Deluxe Serum,Dewberry,Beauty,Health & Beauty,38.99
+SKU-101964,Hearthly Classic Vacuum,Hearthly,Home Appliances,Home,270.99
+SKU-100284,Hearthly Essential Blender,Hearthly,Home Appliances,Home,175.99
+SKU-101363,Zentrix Slim Bluetooth Speaker,Zentrix,Consumer Electronics,Electronics,252.99
+SKU-101608,Slim Knife Set,,Kitchenware,Home,23.99
+SKU-102657,Lumio Deluxe Webcam,Lumio,Consumer Electronics,Electronics,55.99
+SKU-101784,Zentrix Premium USB Hub,Zentrix,Computers & Accessories,Electronics,39.99
+SKU-102003,Trailmark Essential Bike Helmet,Trailmark,Sporting Goods,Leisure,43.99
+SKU-100640,Oakhaven Ultra Stand Mixer,Oakhaven,Home Appliances,Home,55.99
+SKU-102029,Zentrix Slim Keyboard,Zentrix,Computers & Accessories,Electronics,194.99
+SKU-101905,Solene Premium Moisturizer,Solene,Beauty,Health & Beauty,24.99
+SKU-101215,Lumio Everyday Smart Watch,Lumio,Consumer Electronics,Electronics,102.99
+SKU-103590,Wobblekin Classic Board Game,Wobblekin,Toys & Games,Leisure,34.99
+SKU-100098,Dewberry Ultra Shampoo,Dewberry,Personal Care,Health & Beauty,9.99
+SKU-103142,Larkware Signature Knife Set,Larkware,Kitchenware,Home,73.99
+SKU-100601,Harbor Lane Everyday Denim Jacket,Harbor Lane,Men's Apparel,Apparel,41.99
+SKU-100472,Puremint Premium Body Wash,Puremint,Personal Care,Health & Beauty,6.99
+SKU-100822,Solene Compact Face Mask,Solene,Beauty,Health & Beauty,35.99
+SKU-101496,Larkware Deluxe Cutting Board,Larkware,Kitchenware,Home,29.99
+SKU-102061,Larkware Essential Knife Set,Larkware,Kitchenware,Home,58.99
+SKU-103022,Dewberry Deluxe Face Mask,Dewberry,Beauty,Health & Beauty,26.99
+SKU-102443,Stridewell Essential Camping Tent,Stridewell,Sporting Goods,Leisure,45.99
+SKU-103411,Harbor Lane Slim Cardigan,Harbor Lane,Women's Apparel,Apparel,50.99
+SKU-101976,Tinker Bay Deluxe Board Game,Tinker Bay,Toys & Games,Leisure,34.99
+SKU-101251,Zentrix Signature Smart Watch,Zentrix,Consumer Electronics,Electronics,44.99
+SKU-100034,Larkware Ultra Bakeware Set,Larkware,Kitchenware,Home,30.99
+SKU-100173,Audora Everyday Bluetooth Speaker,Audora,Consumer Electronics,Electronics,121.99
+SKU-103653,Tinker Bay Everyday RC Car,Tinker Bay,Toys & Games,Leisure,44.99
+SKU-101220,Tinker Bay Slim Plush Toy,Tinker Bay,Toys & Games,Leisure,42.99
+SKU-100564,Solene Slim Moisturizer,Solene,Beauty,Health & Beauty,29.99
+SKU-104039,Compact Vacuum,,Home Appliances,Home,83.99
+SKU-104075,Zentrix Signature Soundbar,Zentrix,Consumer Electronics,Electronics,119.99
+SKU-101514,Cleanfield Classic Shampoo,Cleanfield,Personal Care,Health & Beauty,12.99
+SKU-101998,Hearthly Slim Toaster Oven,Hearthly,Home Appliances,Home,312.99
+SKU-100070,Trailmark Premium Yoga Mat,Trailmark,Sporting Goods,Leisure,59.99
+SKU-103967,Larkware Compact Cutting Board,Larkware,Kitchenware,Home,48.99
+SKU-102396,Grayson & Reed Ultra Denim Jacket,Grayson & Reed,Men's Apparel,Apparel,21.99
+SKU-103943,Harbor Lane Slim Cardigan,Harbor Lane,Women's Apparel,Apparel,24.99

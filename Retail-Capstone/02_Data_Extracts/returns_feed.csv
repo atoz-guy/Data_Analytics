@@ -1,0 +1,864 @@
+﻿return_ref,order_number_text,sku_text,return_date_text,quantity_text,return_reason,refund_amount_text,processed_by
+RET-000537,ORD0008707,SKU-103113,2025-05-08,1,Found cheaper elsewhere,237.99,Tyler Cook
+RET-000159,"ORD-0003042 ",sku-100835,Dec 2 2023,1,wrong color,$51.32,Tyler Cook
+RET-000753,"ORD-0011325 ",SKU-102984,12/04/2025,1.0,not as described,$25.99,Tyler Cook
+RET-000447," ORD-0007725","SKU-101181 ",2025-01-21,1 unit,Arrived too late,60.99,Andrew Johnson
+RET-000744,"ORD-0011264 ",SKU102061,2025-11-30,3.0,Gift return,176.97,Jeremy Brown
+RET-000088,ord-0001938,SKU-100674,2023-08-16,1,Wrong size ordered,109.45,Benjamin Kim
+RET-000141,ord-0002654,"SKU-102833 ",2023-11-01,1,wrong size,$43.93,Benjamin Kim
+RET-000639,ORD0009963,SKU102306,08/24/2025,1 unit,not as described,51.99,Patricia Ford
+RET-000781,ORD0011579,"SKU-102629 ",2025-12-19,1.0,No longer needed,$66.99,John Jenkins
+RET-000702," ORD-0010677","SKU-100301 ",10/20/2025,1,Ordered by mistake,USD 112.99,Hiroshi Stone
+RET-000389," ORD-0006750",sku-101800,2024-11-18,1.0,Gift return,35.93,Jeremy Brown
+RET-000700,ORD-0010758,SKU100736,Oct 18 2025,1,Defective,11.89,Patricia Ford
+RET-000506,"ORD-0008339 ","SKU-102261 ",Mar 29 2025,1 unit,Defective,N/A,Tyler Cook
+RET-000270,ORD-0004816,SKU-102606,2024-05-28,1 unit,does not turn on,32.29,Malik Harris
+RET-000473," ORD-0008026","SKU-101618 ",2025-02-23,1,Found cheaper elsewhere,$49.29,Priya Mitchell
+RET-000090,ORD0001959,"SKU-100736 ",8/17/23,1 unit,Found cheaper elsewhere,USD 14.37,Janet Sanders
+RET-000147,ORD-0002792,"SKU-102515 ",2023-11-10,1.0,stopped workng,26.31,John Jenkins
+RET-000372,ORD-0006502,SKU-103310,10/26/2024,3.0,Ordered by mistake,133.83,Tyler Cook
+RET-900001,ORD-9000001,sku-101181,Dec 30 2024,4,not as described,236.64,Priya Mitchell
+RET-000501,"ORD-0008238 ",SKU-102041,03/23/2025,1 unit,Changed my mind,30.99,Andre Clark
+RET-000496,ORD-0008119,"SKU-100301 ",03/17/2025,1,poor qualty,$112.99,John Jenkins
+RET-000646,ORD0010078,"SKU-100301 ",8/31/25,1,does not turn on,$112.99,Andre Clark
+RET-000267,ORD-0004830,SKU-101461,2024-05-23,1,No longer needed,USD 27.64,Andrew Johnson
+RET-900008,ORD-9000008,SKU-100301,2025-12-22,1,Defective,$90.39,Benjamin Kim
+,,,,,,,
+RET-000735," ORD-0011307",SKU100320,11/25/2025,1,Changed my mind,18.69,Andre Clark
+RET-000579,ORD-0009279,SKU103310,06/22/2025,1 unit,wrong color,$34.49,Benjamin Kim
+RET-000738,ORD0011281,sku-101488,Nov 28 2025,1 unit,Changed my mind,$46.99,John Jenkins
+RET-000638,ORD0009646,sku-100301,2025-08-24,2 unit,Poor Quality,$169.49,Jeremy Brown
+RET-000685,ord-0010633,sku-100850,10/6/25,1.0,Gift return,30.99,Andrew Johnson
+RET-000494,ORD-0008255,SKU-103991,Mar 16 2025,1.0,Arrived too late,USD 79.99,Patricia Ford
+RET-000739,ORD0011070,sku-101594,2025-11-29,1,No longer needed,69.29,Hiroshi Stone
+RET-000176,ord-0003424,SKU-101472,12/26/23,1.0,Stopped working,USD 239.69,Andrew Johnson
+RET-000181,ORD-0003450,SKU101304,01/01/2024,2,wrong size,USD 452.22,Andre Clark
+RET-000112,"ORD-0002278 ","SKU-100162 ",09/13/2023,1.0,wrong size,USD 29.13,Jason Carter
+RET-000183,ORD-0003296,"SKU-100810 ",01/03/2024,1 unit,wrong size,31.58,Malik Harris
+RET-000552," ORD-0008897",SKU101753,5/20/25,1,stopped working,82.99,Andrew Johnson
+RET-000771,ORD-0011569,"SKU-102635 ",Dec 13 2025,2,Ordered by mistake,$117.98,Janet Sanders
+RET-000476," ORD-0008015","SKU-100577 ",02/25/2025,1,Poor Quality,77.99,Patricia Ford
+RET-000764," ORD-0011336",sku-103991,12/11/2025,1,No longer needed,$79.99,Hiroshi Stone
+RET-000696,ORD0010664,sku-100502,Oct 13 2025,1,Arrived too late,62.99,John Jenkins
+RET-000283,ORD-0005025,"SKU-100748 ",06/16/2024,1,Arrived too late,64.01,Patricia Ford
+RET-000605,ORD-0009686,SKU-101461,7/26/25,1 unit,No longer needed,25.49,Jeremy Brown
+RET-000266,ord-0004509,SKU101952,May 22 2024,1 unit,Gift return,$10.47,Patricia Ford
+RET-000347,ORD0006043,sku-103881,2024-10-01,1,does not turn on,118.33,Benjamin Kim
+RET-000288,"ORD-0005184 ",sku-102823,06/22/2024,4 unit,Wrong size ordered,178.06,John Jenkins
+RET-000324,"ORD-0005738 ","SKU-100456 ",08/15/2024,4,wrong color,"1,490.66",Jason Carter
+RET-000399,ORD-0006801,"SKU-102816 ",11/27/2024,1 unit,Arrived too late,86.32,Janet Sanders
+RET-000278,ORD-0004971,SKU-103975,06/05/2024,1 unit,wrong size,USD 56.25,Andre Clark
+RET-000424,ORD-0007361,SKU102104,Dec 25 2024,1.0,Ordered by mistake,87.29,Jeremy Brown
+RET-000367,ord-0006470,SKU102009,10/22/2024,3.0,No longer needed,USD 15.69,Malik Harris
+RET-000356,ORD-0006332,"SKU-103113 ",Oct 9 2024,1 unit,Changed my mind,$217.27,Patricia Ford
+RET-000195,"ORD-0003682 ",SKU103353,Jan 28 2024,2,Found cheaper elsewhere,47.80,Benjamin Kim
+RET-000757,ORD0011398,SKU-100767,12/05/2025,1,stoped working,147.99,Janet Sanders
+RET-000215,"ORD-0004110 ",SKU-100983,3/18/24,1.0,Gift return,$220.18,Tyler Cook
+RET-000038,"ORD-0000636 ",SKU102138,Apr 12 2023,1 unit,Changed my mind,$36.75,Jason Carter
+RET-000212,ORD-0004027,SKU-102362,03/02/2024,1,Wrong size ordered,14.54,Andrew Johnson
+RET-000353,ORD0006306,SKU100026,10/05/2024,2,No longer needed,USD 33.16,Benjamin Kim
+RET-000440,ord-0007683,sku-101746,2025-01-14,1,No longer needed,USD 20.69,Jeremy Brown
+RET-000784,ORD-0011528,"SKU-101753 ",Dec 22 2025,1,defective,82.99,Hiroshi Stone
+RET-000365,"ORD-0006207 ",SKU103091,Oct 21 2024,2,Arrived too late,374.40,John Jenkins
+RET-000018,ORD-0000176,SKU-100983,2/14/23,1,wrong color,N/A,Tyler Cook
+RET-000659,"ORD-0010238 ",sku-100301,2025-09-08,1,wrong color,$112.99,Benjamin Kim
+RET-000760,ORD-0011415,sku-101618,12/8/25,2 unit,No longer needed,$104.38,Andrew Johnson
+RET-000479,ORD-0008055,"SKU-103778 ",2/28/25,1,wrong size,USD 131.39,Benjamin Kim
+RET-000423,ord-0007188,SKU101033,12/24/24,1,Stopped working,USD 220.23,Malik Harris
+RET-900000,ORD-9000000,SKU-101795,5/4/24,1,Ordered by mistake,USD 32.24,Janet Sanders
+RET-000226,ORD0004230,SKU-101753,3/31/24,1 unit,Found cheaper elsewhere,80.50,Janet Sanders
+RET-000672,ORD0010531,SKU-102261,9/26/25,1.0,defectve,USD 118.14,Hiroshi Stone
+RET-000495,"ORD-0008260 ","SKU-102104 ",Mar 16 2025,2.0,poor quality,USD 152.98,John Jenkins
+RET-000282,ORD-0005081,SKU-100502,Jun 15 2024,1,Found cheaper elsewhere,61.10,Janet Sanders
+RET-000208,ORD-0003896,SKU102436,02/24/2024,1 unit,wrong size,90.20,Jeremy Brown
+RET-000600,ORD-0009465,sku-100502,07/20/2025,2.0,Ordered by mistake,$125.98,Patricia Ford
+RET-000113,ORD-0002194,"SKU-100983 ",9/14/23,1,Arrived too late,USD 170.70,Malik Harris
+RET-000235,ORD-0004454,SKU102862,Apr 15 2024,1.0,Ordered by mistake,$21.33,Tyler Cook
+RET-000192,ORD-0003706,sku-101865,1/22/24,1.0,wrong size,$86.32,Jason Carter
+RET-000444,ord-0007747,"SKU-101105 ",1/17/25,1 unit,Arrived too late,147.99,Jason Carter
+RET-000571,ORD-0009193,SKU102104,06/14/2025,1.0,Found cheaper elsewhere,89.99,Malik Harris
+RET-000214,ORD-0004086,SKU-102134,2024-03-18,1.0,Gift return,USD 119.59,Hiroshi Stone
+RET-000048,"ORD-0000977 ",sku-100077,05/03/2023,1 unit,Gift return,137.23,John Jenkins
+RET-000148,ORD0002797,"SKU-104025 ",2023-11-14,1 unit,Changed my mind,USD 9.39,Andre Clark
+RET-000437," ORD-0007660",SKU-102738,Jan 10 2025,1.0,Ordered by mistake,39.99,Hiroshi Stone
+RET-000510,ORD0008401,SKU-100526,Mar 31 2025,1,wrong size,79.99,John Jenkins
+RET-000633,ORD-0010013,"SKU-103769 ",2025-08-18,1,Changed my mind,28.89,Patricia Ford
+RET-000404,ORD-0006857,"SKU-102629 ",12/6/24,1,No longer needed,USD 64.98,Benjamin Kim
+,,,,,,,
+RET-000768,"ORD-0011503 ",SKU100320,12/12/25,2,Ordered by mistake,USD 28.59,Patricia Ford
+RET-000772,ord-0011478,SKU-102271,Dec 14 2025,1.0,Gift return,USD 53.99,Andre Clark
+RET-000114,ord-0002268,sku-100184,Sep 15 2023,1 unit,wrong color,$7.51,Andre Clark
+RET-000474,ORD-0008055,SKU100301,02/23/2025,1,Poor Quality,$101.69,Patricia Ford
+RET-000035," ORD-0000652",SKU102138,4/4/23,1,Gift return,USD 34.58,Patricia Ford
+RET-000006,ord-0000025,sku-100893,2023-01-20,1,not as described,27.91,Jeremy Brown
+RET-000606,ORD0009705,SKU-100301,2025-07-26,1,defective,USD 112.99,Malik Harris
+RET-000657,ord-0009879,sku-100320,2025-09-08,1 unit,wrong color,21.99,Andre Clark
+RET-000490,ORD-0008167,SKU102134,3/10/25,2,wrong color,273.98,Priya Mitchell
+RET-000021,"ORD-0000327 ",SKU102138,Feb 19 2023,1.0,wrong size,34.58,Jeremy Brown
+RET-000634,ORD-0010019,SKU102261,2025-08-20,3 unit,Found cheaper elsewhere,354.42,Janet Sanders
+RET-000715,ORD0011035,SKU-102515,11/9/25,1,Wrong size ordered,USD 29.74,Patricia Ford
+RET-000166,ORD-0003095,sku-102286,Dec 13 2023,1,Ordered by mistake,$137.23,Priya Mitchell
+RET-000104,ORD0002077,SKU102635,2023-09-04,2.0,Arrived too late,110.90,Tyler Cook
+RET-000093,ORD0001902,SKU101500,8/20/23,2,defective unit,92.10,Patricia Ford
+RET-000732,ORD-0011062,SKU-102629,11/25/2025,1.0,Arrived too late,$46.89,Priya Mitchell
+RET-000371," ORD-0006491",SKU101618,10/26/2024,1,Wrong size ordered,47.81,Andre Clark
+RET-000727,ORD-0011241,SKU-104172,Nov 22 2025,1,Ordered by mistake,37.04,Priya Mitchell
+RET-000188,"ORD-0003492 ",SKU102138,Jan 9 2024,1.0,Arrived too late,USD 43.23,John Jenkins
+RET-000762," ORD-0011373",SKU-100871,12/09/2025,1.0,wrong color,25.19,Andrew Johnson
+RET-000302,"ORD-0005356 ",SKU102629,2024-07-13,3.0,Arrived too late,165.70,Priya Mitchell
+RET-000767,ord-0010940,SKU103353,12/12/2025,1 unit,Wrong size ordered,USD 26.09,Priya Mitchell
+RET-000795,ORD0011855,"SKU-102847 ",12/28/25,1,Gift return,$24.69,Tyler Cook
+RET-000548," ORD-0008893",SKU101685,5/15/25,1.0,Changed my mind,$6.29,Hiroshi Stone
+RET-000167,ORD-0003132,"SKU-101344 ",Dec 17 2023,2.0,Wrong size ordered,129.70,Patricia Ford
+RET-000472,ORD-0008012,SKU100129,Feb 21 2025,2,Wrong size ordered,119.98,Malik Harris
+RET-000313,ord-0005462,SKU-103113,08/03/2024,1,Gift return,271.59,Tyler Cook
+RET-000210,ORD-0003997,sku-102953,02/28/2024,1,wrong color,19.39,Malik Harris
+RET-000750,"ORD-0011322 ",SKU-100026,12/02/2025,3.0,Gift return,USD 56.97,Priya Mitchell
+RET-000420,ORD-0007133,SKU-101078,Dec 19 2024,1.0,stopped workng,93.11,Andrew Johnson
+RET-000622,ORD0009861,"SKU-103113 ",2025-08-05,1.0,wrong size,279.99,Andre Clark
+RET-000614," ORD-0009776",sku-100359,2025-07-31,1 unit,Ordered by mistake,$11.24,Malik Harris
+RET-000741,ORD-0011186,SKU103201,11/30/2025,1 unit,Changed my mind,39.99,Janet Sanders
+RET-000168," ORD-0002760",SKU-100904,12/19/23,1 unit,Changed my mind,89.29,Patricia Ford
+RET-000257,ORD-0004638,SKU-100648,May 10 2024,1.0,Ordered by mistake,$60.13,Andrew Johnson
+RET-000375,ORD0006493,SKU-101450,10/30/24,1.0,defective,47.52,Jason Carter
+RET-000583,ORD-0009382,"SKU-100767 ",7/1/25,1,does not turn on,USD 110.99,Jeremy Brown
+RET-000514,ORD0008218,SKU-100904,2025-04-04,1.0,Ordered by mistake,$75.99,Jason Carter
+RET-000319,ORD-0005652,SKU-102495,08/10/2024,3,wrong size,USD 306.69,Malik Harris
+RET-000679,ORD-0010397,SKU-101113,10/2/25,1,not as described,USD 22.39,Hiroshi Stone
+RET-000642,ORD-0010080,"SKU-102629 ",2025-08-25,1,wrong color,56.94,Hiroshi Stone
+RET-000080,ORD0001717,sku-102165,2023-07-24,2,Found cheaper elsewhere,$323.34,Jeremy Brown
+RET-000155,ord-0003014,SKU-101399,11/29/2023,1,stopped working,$139.11,Jeremy Brown
+RET-000663,ORD0010351,sku-101552,2025-09-16,1.0,Gift return,$14.39,Priya Mitchell
+RET-000017,ORD0000252,"SKU-101816 ",Feb 12 2023,1,Found cheaper elsewhere,17.85,Andre Clark
+RET-000425,ORD-0007467,SKU-100502,12/26/24,1.0,No longer needed,$61.10,Benjamin Kim
+RET-000179,ord-0003485,"SKU-103449 ",12/28/2023,2,Changed my mind,$152.26,Janet Sanders
+RET-000521,ord-0008470,"SKU-101113 ",04/10/2025,2,wrong size,$60.78,Jason Carter
+RET-000330,ord-0005830,"SKU-102261 ",Sep 1 2024,2 unit,not as described,269.64,Malik Harris
+RET-000615," ORD-0009789","SKU-100257 ",08/02/2025,2,defective,120.58,Benjamin Kim
+RET-000354,"ORD-0006235 ",SKU-103389,10/7/24,1.0,not as described,USD 39.76,John Jenkins
+RET-000403,ORD0006967,SKU103028,12/5/24,2,not as described,57.02,Patricia Ford
+RET-000164,ORD-0003137,SKU-103010,Dec 10 2023,1.0,Ordered by mistake,$36.09,Malik Harris
+RET-000218," ORD-0004172",sku-100301,2024-03-25,1,Wrong size ordered,USD 104.12,Malik Harris
+RET-000172,ord-0003302,sku-101542,Dec 24 2023,3,Ordered by mistake,95.85,Janet Sanders
+RET-000305,ord-0005439,SKU101952,Jul 22 2024,1,stoped working,USD 11.63,Janet Sanders
+RET-000170,ord-0003208,sku-101078,12/20/2023,2,Found cheaper elsewhere,USD 180.46,Jeremy Brown
+RET-000203,ORD-0003813,SKU-103326,2024-02-09,1.0,does not turn on,USD 34.91,Jason Carter
+RET-000345,ORD0006166,"SKU-101113 ",Sep 25 2024,1,No longer needed,$29.48,Janet Sanders
+RET-000417,ord-0006741,"SKU-100767 ",12/17/2024,1,wrong color,143.55,Andre Clark
+RET-000483,"ORD-0008075 ",SKU101753,3/5/25,1 unit,Arrived too late,82.99,Janet Sanders
+RET-000567,"ORD-0009191 ",SKU-102104,Jun 10 2025,1.0,wrong color,USD 67.49,Malik Harris
+RET-000656,ORD-0010265,"SKU-100301 ",Sep 7 2025,1,defective,$90.39,Patricia Ford
+RET-000070," ORD-0001414",SKU100059,6/27/23,1,poor quality,43.23,Tyler Cook
+RET-000336,ORD-0005868,SKU-100301,Sep 10 2024,2.0,Changed my mind,$186.32,Benjamin Kim
+RET-000539,"ORD-0008834 ",SKU103822,May 10 2025,3 unit,Changed my mind,USD 77.97,Andrew Johnson
+RET-000123,"ORD-0002369 ","SKU-103265 ",Sep 28 2023,1,Arrived too late,51.69,Jeremy Brown
+RET-000242,ord-0004527,sku-102890,04/21/2024,1 unit,Found cheaper elsewhere,$24.44,Janet Sanders
+RET-000105,ORD-0002097,SKU-101472,Sep 4 2023,1 unit,wrong size,$227.71,Andrew Johnson
+RET-000644,ORD-0010096,SKU-102629,8/27/25,2,Ordered by mistake,$107.18,Janet Sanders
+RET-000295," ORD-0005202",SKU-103449,6/30/24,3,Wrong size ordered,USD 235.68,Hiroshi Stone
+RET-000385,ORD-0006677,SKU-102548,11/14/24,1.0,Wrong size ordered,46.55,Janet Sanders
+RET-000332,"ORD-0005846 ",SKU-103753,09/05/2024,1 unit,Found cheaper elsewhere,65.95,Malik Harris
+RET-000337,ORD-0005949,sku-103310,Sep 10 2024,2.0,Changed my mind,89.22,John Jenkins
+RET-000002,ORD-0000010,SKU101128,01/10/2023,1,Arrived too late,42.29,Tyler Cook
+RET-000132,ORD-0002476,SKU-102526,10/08/2023,2.0,Changed my mind,298.24,Hiroshi Stone
+RET-000430,ORD-0007470,SKU-101344,Jan 1 2025,1,No longer needed,USD 66.92,Tyler Cook
+RET-000227,ORD0004079,"SKU-104025 ",04/02/2024,1,Wrong size ordered,$9.69,Priya Mitchell
+RET-000429,"ORD-0007454 ","SKU-103850 ",12/31/24,1 unit,wrong color,41.12,John Jenkins
+RET-000121,ord-0002304,SKU103091,09/25/2023,1,Gift return,$181.41,Malik Harris
+RET-000038,"ORD-0000636 ",SKU102138,Apr 12 2023,1 unit,Changed my mind,$36.75,Jason Carter
+RET-000211,ord-0003987,SKU-102548,2024-03-02,1.0,Changed my mind,USD 46.55,Priya Mitchell
+RET-000730,"ORD-0011207 ",SKU101481,Nov 24 2025,1,wrong color,62.39,Hiroshi Stone
+RET-000756,ORD-0011378,sku-102261,2025-12-05,1,stopped working,$97.29,Malik Harris
+RET-000383,ORD-0006631,SKU101952,11/8/24,1,not as described,USD 11.05,Patricia Ford
+RET-000585,ORD-0009437,sku-100301,Jul 2 2025,1.0,defective,USD 112.99,Andre Clark
+RET-000727,ord-0011241,SKU-104172,2025-11-22,1,Ordered by mistake,37.04,Priya Mitchell
+RET-000066,ORD0001334,SKU-100301,6/20/23,1,Ordered by mistake,USD 106.21,Tyler Cook
+RET-000530," ORD-0008741",SKU102953,04/28/2025,1 unit,Arrived too late,15.99,Patricia Ford
+RET-000099," ORD-0002079",SKU-101181,2023-08-27,1,Arrived too late,51.60,Tyler Cook
+RET-000051,ord-0000960,SKU-103310,05/13/2023,1,Gift return,43.23,John Jenkins
+RET-000621,"ORD-0009798 ",SKU-100767,Aug 5 2025,1,Found cheaper elsewhere,110.99,Priya Mitchell
+RET-000504,ORD-0008317,SKU100301,2025-03-25,2.0,defective,225.98,Jason Carter
+RET-000118,ORD0002364,SKU-101181,2023-09-22,1,wrong color,$57.33,Hiroshi Stone
+RET-000191,"ORD-0003656 ",SKU102660,Jan 22 2024,1,Changed my mind,11.63,Janet Sanders
+RET-000555,ord-0009101,"SKU-100301 ",2025-05-28,1 unit,Ordered by mistake,$112.99,Priya Mitchell
+RET-000681,ORD-0010594,SKU102635,2025-10-04,1.0,Wrong size ordered,$50.14,Benjamin Kim
+RET-000591,ord-0009442,SKU-101064,07/06/2025,1,Wrong size ordered,137.99,Tyler Cook
+RET-000759," ORD-0011380",SKU101409,2025-12-08,1.0,Changed my mind,USD 54.59,Tyler Cook
+RET-000304,ORD-0005368,SKU-100933,07/19/2024,1,stopped working,USD 22.25,Priya Mitchell
+RET-000452,ORD-0007735,sku-102165,Jan 24 2025,1 unit,Wrong size ordered,USD 214.99,Patricia Ford
+RET-000481,ord-0007804,SKU100320,Mar 5 2025,1,wrong color,21.99,Malik Harris
+RET-000758,ORD-0011403,SKU-102041,Dec 7 2025,1.0,Arrived too late,24.79,Hiroshi Stone
+RET-000344,ord-0006124,sku-103700,2024-09-24,1,No longer needed,66.92,Benjamin Kim
+RET-000515,ORD-0008474,SKU-100301,04/04/2025,1 unit,Poor Quality,$112.99,Priya Mitchell
+RET-000247,ORD-0004499,SKU103278,4/27/24,1 unit,stoped working,107.37,Patricia Ford
+RET-000199,"ORD-0003783 ",SKU-101969,Feb 4 2024,1,Gift return,USD 15.51,Hiroshi Stone
+RET-000733,ORD0011102,sku-102932,Nov 25 2025,1,does not turn on,415.99,Malik Harris
+RET-000126,"ORD-0002412 ",SKU-102119,Oct 2 2023,3.0,Changed my mind,155.07,Priya Mitchell
+RET-000669,ord-0010463,"SKU-102261 ",09/23/2025,1 unit,Poor Quality,N/A,Tyler Cook
+RET-000097,"ORD-0002052 ",SKU-102455,Aug 24 2023,4,poor quality,$76.67,Priya Mitchell
+RET-000109,"ORD-0002184 ",SKU-100648,Sep 9 2023,1.0,Arrived too late,USD 46.62,Jeremy Brown
+RET-000251," ORD-0004658",SKU102009,5/7/24,2 unit,Found cheaper elsewhere,$11.62,Benjamin Kim
+RET-000107,"ORD-0001845 ",SKU-102243,9/6/23,2.0,Ordered by mistake,$144.74,Andrew Johnson
+RET-000415," ORD-0007017","SKU-102138 ",12/15/2024,2,Wrong size ordered,USD 84.76,Malik Harris
+RET-000507,ORD-0008262,SKU102629,03/30/2025,1,No longer needed,$50.24,John Jenkins
+RET-000610,ORD-0009690,"SKU-101753 ",Jul 28 2025,1,defective,82.99,Malik Harris
+RET-000044,"ORD-0000861 ",sku-100257,2023-04-22,1,No longer needed,$62.97,Hiroshi Stone
+RET-000593," ORD-0009489","SKU-102041 ",7/10/25,1,Wrong size ordered,30.99,Patricia Ford
+RET-000308," ORD-0005510",SKU100789,Jul 25 2024,1.0,No longer needed,132.88,Jeremy Brown
+RET-000585,ORD-0009437,sku-100301,Jul 2 2025,1.0,defective,USD 112.99,Andre Clark
+RET-000720,ord-0010974,"SKU-101753 ",Nov 15 2025,1 unit,poor quality,$78.84,Patricia Ford
+RET-900002,ORD-9000002,SKU-104114,2025-02-05,2,No longer needed,59.98,Andre Clark
+RET-000282,ORD-0005081,SKU-100502,Jun 15 2024,1,Found cheaper elsewhere,61.10,Janet Sanders
+RET-000745,ord-0011202,"SKU-102606 ",12/1/25,1 unit,Arrived too late,36.99,Andrew Johnson
+RET-000554,ORD-0009045,"SKU-100904 ",05/26/2025,1,Found cheaper elsewhere,85.49,Janet Sanders
+RET-000309,ORD-0005533,SKU102306,2024-07-29,1,Arrived too late,50.43,Janet Sanders
+RET-000062,ord-0001129,SKU-100059,6/14/23,1 unit,Ordered by mistake,USD 43.23,Andre Clark
+RET-000620,ORD-0009839,SKU-102704,Aug 4 2025,1,stopped workng,337.99,Malik Harris
+RET-000468,ORD-0007890,SKU-101096,2025-02-09,1.0,wrong color,USD 17.99,Patricia Ford
+RET-000229,ORD-0004308,SKU-103310,4/5/24,1.0,Found cheaper elsewhere,USD 44.61,John Jenkins
+RET-000023,ORD0000321,sku-101718,2/24/23,1.0,Arrived too late,24.43,John Jenkins
+RET-000802,ORD-0011835,SKU-102436,Dec 30 2025,2 unit,Changed my mind,$185.98,Janet Sanders
+RET-000697,"ORD-0010661 ",sku-101078,2025-10-14,1 unit,Wrong size ordered,67.19,Jeremy Brown
+RET-000562,ORD-0008757,sku-100301,Jun 4 2025,1.0,does not turn on,USD 112.99,Hiroshi Stone
+RET-000564," ORD-0009020",SKU-100096,Jun 7 2025,1 unit,Wrong size ordered,USD 50.99,Janet Sanders
+RET-000138,ORD-0002654,sku-103997,2023-10-23,1,Gift return,$135.02,Andrew Johnson
+RET-000742,ORD0011226,SKU-102222,11/30/2025,1.0,No longer needed,7.99,Patricia Ford
+RET-000025,ORD-0000369,"SKU-100655 ",2023-02-28,1.0,wrong color,15.03,John Jenkins
+RET-000623,ord-0009782,"SKU-100301 ",2025-08-06,1 unit,defective unit,$112.99,Tyler Cook
+RET-000711,ord-0010837,sku-103590,Nov 3 2025,1,wrong color,34.99,Janet Sanders
+RET-000076,ORD-0001482,SKU101277,Jul 16 2023,1 unit,Wrong size ordered,$79.89,Malik Harris
+RET-000012,ord-0000109,SKU-102336,2/2/23,1.0,Arrived too late,USD 72.37,Jason Carter
+RET-000516,ORD-0008386,"SKU-101670 ",04/07/2025,2,Arrived too late,225.98,Andrew Johnson
+RET-000533,ORD0008738,sku-100301,5/1/25,1 unit,not as described,$112.99,Patricia Ford
+RET-000398," ORD-0006873",sku-102890,11/26/2024,1,wrong size,$27.15,Malik Harris
+RET-000368,ord-0006452,SKU101923,Oct 25 2024,1 unit,Arrived too late,29.09,Malik Harris
+RET-000131,ORD-0002381,SKU101865,10/7/23,2.0,not as described,USD 142.20,Janet Sanders
+RET-000287,"ORD-0004772 ",SKU-101444,2024-06-22,1,Wrong size ordered,31.32,Malik Harris
+RET-000286,ord-0005073,sku-102495,6/20/24,1,wrong color,USD 96.22,Priya Mitchell
+RET-000052,ORD-0000915,SKU100301,05/14/2023,1 unit,Changed my mind,USD 100.90,Janet Sanders
+RET-000194," ORD-0003654",SKU-101488,01/25/2024,2.0,wrong color,82.04,Patricia Ford
+RET-000320,"ORD-0005503 ","SKU-102890 ",2024-08-11,1.0,No longer needed,23.08,Malik Harris
+RET-000418,ORD-0007183,sku-102953,Dec 17 2024,1,Ordered by mistake,19.39,Malik Harris
+RET-000026,ORD-0000357,SKU103299,Mar 1 2023,1.0,not as described,96.81,Hiroshi Stone
+RET-000699,ord-0010733,SKU-100933,10/17/25,1.0,Ordered by mistake,26.99,Janet Sanders
+RET-000799,ord-0011804,SKU-100301,12/29/25,2,poor quality,USD 180.78,Patricia Ford
+RET-000796," ORD-0011871",sku-104171,Dec 28 2025,1,Ordered by mistake,39.99,John Jenkins
+RET-000281,ORD-0005034,SKU-102104,06/14/2024,1 unit,Gift return,$87.29,Jeremy Brown
+RET-000016,ORD-0000128,sku-102336,Feb 9 2023,1.0,wrong color,72.37,Malik Harris
+RET-000569,ORD-0009141,"SKU-100301 ",6/11/25,1.0,poor quality,112.99,Andre Clark
+RET-000631,ORD-0009939,sku-100301,8/17/25,1.0,broke after a week,$96.04,Jeremy Brown
+RET-000433,ORD0007494,SKU-103603,1/5/25,1 unit,Arrived too late,57.22,Priya Mitchell
+RET-000758,ORD-0011403,SKU-102041,Dec 7 2025,1.0,Arrived too late,24.79,Hiroshi Stone
+RET-000714,"ORD-0010950 ",SKU-102261,2025-11-08,1,stoped working,USD 132.04,Priya Mitchell
+RET-000787,ORD-0011755,SKU-101023,Dec 22 2025,1 unit,wrong size,85.99,Patricia Ford
+RET-000422," ORD-0007335",SKU-102629,12/22/24,2.0,Ordered by mistake,$103.97,Malik Harris
+RET-000222,ORD-0004187,SKU-103822,2024-03-27,1 unit,wrong size,22.69,Hiroshi Stone
+RET-000563,ORD-0009205,"SKU-102953 ",2025-06-06,1.0,Found cheaper elsewhere,19.99,Priya Mitchell
+RET-000517,ORD0008505,sku-102261,Apr 7 2025,1 unit,Found cheaper elsewhere,138.99,Tyler Cook
+RET-000117,ord-0002175,sku-100038,2023-09-16,1,Changed my mind,31.01,Andrew Johnson
+RET-000608,ORD0009621,SKU-100320,Jul 27 2025,2.0,not as described,43.98,Benjamin Kim
+RET-000119,"ORD-0002307 ",SKU103788,9/23/23,2 unit,broke after a week,225.58,Jeremy Brown
+RET-000369,ORD-0006439,SKU-102823,2024-10-26,1.0,Ordered by mistake,49.46,Andre Clark
+RET-000703,"ORD-0010752 ",SKU-103700,10/20/25,2,wrong size,137.98,Janet Sanders
+RET-000091,ORD-0002003,sku-102104,8/18/23,1,No longer needed,84.59,Jeremy Brown
+RET-000078,"ORD-0001616 ",SKU-103449,07/20/2023,1.0,Gift return,USD 76.13,Jeremy Brown
+RET-000174,ord-0003342,SKU-100674,Dec 25 2023,1 unit,Wrong size ordered,128.77,Andrew Johnson
+RET-000794,ord-0011636,"SKU-100301 ",12/28/2025,1,Defective,112.99,John Jenkins
+RET-000276,ORD0004979,SKU-102629,Jun 4 2024,2,Arrived too late,$103.97,John Jenkins
+RET-000632,ORD-0009954,"SKU-102436 ",08/17/2025,1 unit,defective unit,$92.99,Hiroshi Stone
+RET-000343,ord-0006030,SKU-102850,09/24/2024,2 unit,Wrong size ordered,36.84,John Jenkins
+RET-000588,ORD-0009427,sku-103991,07/04/2025,1 unit,Found cheaper elsewhere,79.99,Malik Harris
+RET-000321," ORD-0005605",SKU-101078,Aug 12 2024,1,Gift return,$93.11,Tyler Cook
+RET-000391,ORD0006707,SKU103449,11/20/24,1 unit,Arrived too late,USD 78.56,Jeremy Brown
+RET-000542,ORD-0008826,SKU103353,5/12/25,1.0,Wrong size ordered,USD 28.99,Andrew Johnson
+RET-000058,"ORD-0001205 ","SKU-101865 ",06/01/2023,1,wrong size,83.65,Andrew Johnson
+RET-000668,ORD0010318,SKU-101826,2025-09-21,1 unit,wrong color,$34.39,Andre Clark
+RET-000056,"ORD-0001067 ",SKU-101113,5/24/23,1.0,Arrived too late,USD 25.56,Tyler Cook
+RET-000327,ord-0005554,SKU-101357,Aug 20 2024,2 unit,wrong size,169.34,Andre Clark
+RET-000230,ORD-0004368,sku-102066,Apr 7 2024,1,Wrong size ordered,196.90,Tyler Cook
+RET-000036,ORD-0000638,SKU104149,Apr 8 2023,1,wrong color,USD 128.63,Benjamin Kim
+RET-000186,ORD-0003541,sku-100359,2024-01-06,1,wrong size,9.86,Priya Mitchell
+RET-000414,"ORD-0007041 ","SKU-103211 ",12/14/2024,1 unit,Arrived too late,$209.51,Jeremy Brown
+RET-000037,ORD-0000659,SKU103113,04/10/2023,1,not as described,$263.19,John Jenkins
+RET-000645,ord-0010106,SKU100239,8/28/25,1.0,Wrong size ordered,45.59,Jason Carter
+RET-000349,"ORD-0006239 ",SKU103563,Oct 2 2024,1,wrong size,$126.09,John Jenkins
+RET-000412,ORD-0007071,SKU-101444,12/13/24,1.0,Gift return,24.73,Jason Carter
+RET-000130,ORD0002486,"SKU-100756 ",10/06/2023,3,defectve,USD 53.55,Tyler Cook
+RET-000329,ORD-0005642,SKU-102984,Aug 24 2024,1.0,wrong color,USD 21.43,John Jenkins
+RET-000456,ord-0007646,sku-100767,2025-01-31,2 unit,defective unit,295.98,Benjamin Kim
+RET-000670,ORD-0010424,"SKU-100810 ",2025-09-26,1.0,Wrong size ordered,41.99,Jason Carter
+RET-000089,ord-0001806,"SKU-100301 ",2023-08-17,1,defective unit,84.97,Jason Carter
+RET-000067,"ORD-0001410 ",SKU102704,2023-06-23,1,Wrong size ordered,$317.71,Patricia Ford
+RET-000467,ORD-0007884,"SKU-101509 ",02/09/2025,1.0,Changed my mind,$45.99,Benjamin Kim
+RET-000271," ORD-0004835","SKU-102138 ",05/28/2024,1 unit,wrong size,$44.61,John Jenkins
+RET-000260,ord-0004695,"SKU-102629 ",May 12 2024,1,Gift return,$64.98,Benjamin Kim
+RET-000575,ord-0009240,SKU102802,6/18/25,1.0,Wrong size ordered,27.74,Jason Carter
+RET-000234,ORD-0004344,SKU100846,04/13/2024,2 unit,wrong size,9.68,Hiroshi Stone
+RET-000378,ORD-0006538,"SKU-103850 ",Oct 31 2024,1,No longer needed,51.40,Tyler Cook
+RET-000258,ORD-0004403,sku-102478,2024-05-11,1,Gift return,11.53,Andrew Johnson
+RET-000096,ORD-0002033,"SKU-103917 ",Aug 24 2023,1,Arrived too late,9.39,Andre Clark
+RET-000314,"ORD-0005574 ",SKU102890,Aug 4 2024,2.0,No longer needed,54.30,Andre Clark
+RET-900004,ORD-9000004,SKU101409,2025-12-08,1.0,Changed my mind,USD 54.59,Tyler Cook
+RET-000290,ORD-0005143,SKU-100397,06/26/2024,1,not as described,137.73,Tyler Cook
+RET-000299,ORD-0005198,SKU-101113,07/08/2024,1 unit,Wrong size ordered,$31.03,Hiroshi Stone
+RET-000590,ORD-0009450,sku-102539,2025-07-05,2.0,Wrong size ordered,USD 47.98,Andre Clark
+RET-000251," ORD-0004658",SKU102009,5/7/24,2 unit,Found cheaper elsewhere,$11.62,Benjamin Kim
+RET-000310,ORD0005550,SKU102229,Jul 29 2024,3 unit,No longer needed,81.46,John Jenkins
+RET-000064," ORD-0001346",SKU-101472,6/19/23,1,Gift return,239.69,Priya Mitchell
+RET-000550,ORD0008898,sku-100856,05/19/2025,1 unit,Changed my mind,42.49,Tyler Cook
+RET-000061,"ORD-0001276 ",SKU-100184,Jun 9 2023,1.0,Gift return,$7.51,Janet Sanders
+RET-000417,ord-0006741,"SKU-100767 ",12/17/2024,1,wrong color,143.55,Andre Clark
+RET-000280," ORD-0004987",SKU-104059,6/12/24,1 unit,Ordered by mistake,16.48,John Jenkins
+RET-000649," ORD-0010174",SKU-100301,9/1/25,2,poor quality,$225.98,Jeremy Brown
+RET-000800,ORD-0011825,SKU-100301,2025-12-29,2,stopped workng,146.89,Priya Mitchell
+RET-000206," ORD-0003930","SKU-100038 ",Feb 21 2024,1.0,wrong color,32.00,Priya Mitchell
+RET-000127,ORD0002461,"SKU-101181 ",Oct 2 2023,1 unit,Gift return,$57.33,Hiroshi Stone
+RET-000676,ord-0010480,SKU-100301,9/28/25,2,stoped working,158.19,Andre Clark
+RET-000574,ORD-0009200,SKU-102738,6/17/25,1.0,Ordered by mistake,49.99,Janet Sanders
+RET-000596,ORD-0009554,SKU-101488,2025-07-11,1,Changed my mind,$35.24,John Jenkins
+RET-000424,ord-0007361,SKU102104,12/25/24,1.0,Ordered by mistake,USD 87.29,Jeremy Brown
+RET-000013," ORD-0000141","SKU-100301 ",2023-02-03,1 unit,stoped working,106.21,Jason Carter
+RET-000341," ORD-0005998",SKU101509,9/19/24,1.0,No longer needed,37.92,Janet Sanders
+RET-000611,"ORD-0009768 ",sku-103975,7/29/25,1,No longer needed,49.29,Hiroshi Stone
+RET-000532,ORD-0008638,SKU-102196,2025-05-01,1,wrong size,USD 39.99,John Jenkins
+RET-000573,ORD-0009281,SKU-100301,6/16/25,1 unit,poor quality,112.99,Jason Carter
+RET-000094,ORD-0002026,sku-102075,08/21/2023,2,not as described,95.86,Benjamin Kim
+RET-000428,ORD0007431,sku-100966,2024-12-30,1,not as described,USD 22.30,Tyler Cook
+RET-000395,ord-0006820,SKU-102261,11/24/24,1.0,wrong color,USD 134.82,Benjamin Kim
+RET-000237,ORD-0004488,sku-103881,2024-04-17,1,wrong size,100.58,Benjamin Kim
+RET-900007,ORD-9000007,sku-102271,Sep 8 2023,1 unit,Poor Quality,54.14,Tyler Cook
+RET-900011,ORD-9000011,SKU-100348,04/08/2025,1.0,wrong color,32.99,Hiroshi Stone
+RET-000033,ORD-0000571,"SKU-100810 ",03/22/2023,2,wrong color,USD 78.94,John Jenkins
+RET-000297," ORD-0005258",sku-100257,2024-07-02,1,Wrong size ordered,$58.48,John Jenkins
+RET-900003,ORD-9000003,"SKU-103211 ",12/14/2024,1 unit,Arrived too late,$209.51,Jeremy Brown
+RET-000054," ORD-0001034",SKU-101718,2023-05-17,1,not as described,23.21,Andrew Johnson
+RET-000128,ORD-0002422,sku-102833,10/03/2023,1.0,wrong size,USD 51.69,Malik Harris
+RET-000443,ORD0007672,SKU-100904,01/16/2025,1 unit,Wrong size ordered,80.74,Tyler Cook
+RET-000040,ORD-0000656,SKU102134,Apr 13 2023,1,No longer needed,$103.02,Andre Clark
+RET-000704," ORD-0010648",SKU-100902,10/22/25,1,Gift return,11.39,Andre Clark
+RET-000441," ORD-0007714",sku-101964,2025-01-15,2,Arrived too late,$514.88,Andrew Johnson
+RET-000042,ORD-0000804,sku-101509,4/15/23,2.0,Wrong size ordered,86.46,Malik Harris
+RET-900005,ORD-9000005,SKU-100462,1/12/25,1.0,Poor Quality,USD 17.09,Jason Carter
+RET-000513,ORD-0008352,SKU-103449,Apr 2 2025,1.0,wrong size,USD 76.94,Jason Carter
+RET-000106,ORD-0002153,SKU101552,2023-09-05,1,Poor Quality,15.22,Priya Mitchell
+RET-000686,ORD-0010576,"SKU-100301 ",10/07/2025,1 unit,does not turn on,$112.99,John Jenkins
+RET-000475,"ORD-0008005 ",sku-101105,Feb 24 2025,1.0,Ordered by mistake,147.99,Jason Carter
+RET-000797,ORD-0011636,SKU-100462,Dec 29 2025,1,Changed my mind,USD 17.99,Malik Harris
+RET-000274,ORD-0004911,SKU103449,May 31 2024,2,wrong size,$141.41,Hiroshi Stone
+RET-000068,"ORD-0001339 ",SKU101556,06/24/2023,1.0,No longer needed,10.71,Malik Harris
+RET-000244,ORD-0004517,"SKU-102823 ",Apr 25 2024,1,Changed my mind,$49.46,Malik Harris
+RET-000448,ORD-0007793,sku-101472,1/22/25,1 unit,Arrived too late,254.99,Hiroshi Stone
+RET-000547,ORD-0008925,SKU-104172,2025-05-14,2 unit,defective,USD 70.18,Patricia Ford
+RET-000133,ORD-0002478,sku-102317,2023-10-10,1,defective,18.79,John Jenkins
+RET-000666,ORD-0010315,SKU-100389,09/17/2025,1,wrong color,72.99,Janet Sanders
+RET-900006,ORD-9000006,SKU-100301,07/25/2023,2.0,wrong size,$212.42,Priya Mitchell
+RET-000469,ORD-0007901,SKU-102629,Feb 9 2025,1,Arrived too late,$60.29,Jeremy Brown
+RET-000312,ord-0005426,sku-103091,07/30/2024,1,Ordered by mistake,USD 168.48,Jeremy Brown
+RET-000535,"ORD-0008615 ",sku-102261,05/03/2025,1.0,defective unit,125.09,Jeremy Brown
+RET-000293,ORD-0005133,SKU-101113,2024-06-28,3.0,wrong size,$93.09,Janet Sanders
+RET-000303,ORD-0005337,sku-100983,Jul 14 2024,1,wrong size,USD 220.18,Jason Carter
+RET-000392,ORD-0006858,SKU-100756,11/21/24,1,not as described,USD 18.42,Benjamin Kim
+RET-000696,ORD0010664,sku-100502,Oct 13 2025,1,Arrived too late,62.99,John Jenkins
+RET-000572,ord-0009077,SKU-100301,2025-06-15,1,stopped working,$90.39,Patricia Ford
+RET-000773,ord-0011477,SKU102286,2025-12-14,1.0,Ordered by mistake,USD 109.49,Patricia Ford
+RET-000110,"ORD-0002218 ",SKU-100129,09/11/2023,1,Changed my mind,56.39,Andre Clark
+RET-000325," ORD-0005732",SKU100948,08/19/2024,1,Changed my mind,22.30,Benjamin Kim
+RET-000751,"ORD-0011338 ","SKU-101113 ",12/2/25,1,Found cheaper elsewhere,USD 30.39,Andre Clark
+RET-000370,"ORD-0006432 ","SKU-101986 ",2024-10-26,1.0,Found cheaper elsewhere,14.54,Jason Carter
+RET-000333,ORD-0005853,SKU-102984,Sep 7 2024,2,Ordered by mistake,42.86,Andre Clark
+RET-000667,ORD-0010385,SKU-102104,9/20/25,1 unit,not as described,$85.49,Andre Clark
+RET-000405,ord-0006905,SKU-100933,Dec 7 2024,1.0,Wrong size ordered,26.18,Patricia Ford
+RET-000153," ORD-0002995","SKU-100301 ",2023-11-27,1 unit,Wrong size ordered,106.21,Jason Carter
+RET-000555,ord-0009101,"SKU-100301 ",May 28 2025,1 unit,Ordered by mistake,112.99,Priya Mitchell
+RET-000213,ORD0004070,"SKU-102606 ",2024-03-10,1,Wrong size ordered,35.88,John Jenkins
+RET-000692,ORD0010104,"SKU-100320 ",Oct 12 2025,1,Wrong size ordered,18.69,Jason Carter
+RET-000384,ORD0006681,SKU-102104,11/9/24,1,does not turn on,USD 87.29,John Jenkins
+RET-000432,ORD-0007295,"SKU-100655 ",2025-01-05,1 unit,wrong color,USD 15.51,John Jenkins
+RET-000801," ORD-0011812",SKU-102286,Dec 30 2025,1.0,Changed my mind,$145.99,Janet Sanders
+RET-000377," ORD-0006456",SKU100348,2024-10-31,1,No longer needed,$32.00,Patricia Ford
+RET-000557,ORD-0009084,"SKU-100502 ",05/29/2025,1,wrong size,$62.99,Benjamin Kim
+RET-000518,ORD0008463,"SKU-101472 ",Apr 8 2025,1 unit,wrong color,254.99,Priya Mitchell
+RET-000315,ORD-0005536,"SKU-103748 ",Aug 5 2024,3,Changed my mind,183.30,Jason Carter
+RET-000671,ORD-0010508,SKU100320,09/26/2025,2.0,wrong size,39.58,Tyler Cook
+RET-000465,ORD-0007835,sku-102980,2025-02-09,1,Gift return,4.49,Benjamin Kim
+RET-000361,ORD-0006369,sku-101594,10/12/24,1 unit,not as described,59.74,Patricia Ford
+RET-000637,ORD-0010049,SKU101472,8/23/25,1,not as described,216.74,Patricia Ford
+RET-000376,ORD-0006397,"SKU-101500 ",10/31/2024,1,stopped working,38.02,Benjamin Kim
+RET-000531," ORD-0008658",SKU100995,Apr 29 2025,2,poor qualty,$57.98,John Jenkins
+RET-000559,ORD-0009109,"SKU-102172 ",May 30 2025,1 unit,defectve,47.19,Benjamin Kim
+RET-000346,ORD0006181,SKU-102196,Sep 29 2024,1,stopped workng,$38.79,Tyler Cook
+RET-000769,ORD-0011599,SKU-103641,2025-12-12,1,Found cheaper elsewhere,15.19,John Jenkins
+RET-000593," ORD-0009489","SKU-102041 ",7/10/25,1,Wrong size ordered,30.99,Patricia Ford
+RET-000301,ord-0005406,SKU104025,07/12/2024,1.0,wrong size,9.69,Andre Clark
+RET-000239,ORD0004450,SKU-101488,04/19/2024,1 unit,wrong size,45.58,Andre Clark
+RET-000566,ord-0009190,SKU-100301,06/10/2025,2,defective unit,225.98,Jason Carter
+RET-000598,ORD-0009620,sku-102229,7/18/25,1 unit,poor quality,USD 33.24,Priya Mitchell
+RET-000561,ord-0009061,SKU-104061,06/03/2025,3.0,wrong color,USD 59.37,Patricia Ford
+RET-000629,ord-0009828,SKU-100301,8/14/25,3.0,Changed my mind,$338.97,Andrew Johnson
+RET-000083,ORD-0001849,"SKU-103449 ",2023-08-08,3,wrong size,194.13,Tyler Cook
+RET-000045,ORD-0000900,sku-103028,4/28/23,2,Wrong size ordered,$78.94,Malik Harris
+RET-000279,ORD0004958,SKU-100995,Jun 12 2024,1 unit,No longer needed,$22.50,Andrew Johnson
+RET-000449," ORD-0007747",SKU-101363,01/23/2025,2,Gift return,USD 505.98,Jason Carter
+RET-000374," ORD-0006500",SKU-101597,Oct 29 2024,1,wrong size,USD 50.43,Andrew Johnson
+RET-000526,ord-0008562,SKU-103055,2025-04-17,2,wrong size,439.98,Patricia Ford
+RET-000351,ORD-0006260,sku-100810,2024-10-03,1.0,wrong size,USD 40.73,Andrew Johnson
+RET-000071,ORD-0001475,SKU-103832,6/27/23,1 unit,not as described,12.02,Hiroshi Stone
+RET-000763,ORD0011415,SKU-102196,12/10/25,1,Ordered by mistake,USD 35.99,Tyler Cook
+RET-000268,ORD-0004845,SKU100412,May 23 2024,2.0,Ordered by mistake,$19.38,Malik Harris
+RET-000451,"ORD-0007727 ",SKU102629,01/24/2025,1.0,Arrived too late,USD 63.64,Janet Sanders
+RET-000291,ORD0005152,SKU-102134,06/27/2024,1,wrong color,112.95,Jeremy Brown
+RET-000154,ORD-0002951,SKU101865,Nov 29 2023,4,stopped working,$334.60,Jason Carter
+RET-000233,ORD-0004404,"SKU-101277 ",4/12/24,1,Changed my mind,USD 82.44,Benjamin Kim
+RET-000470,ORD-0007815,SKU-100462,Feb 15 2025,1 unit,No longer needed,N/A,Andrew Johnson
+RET-000678,ORD0010500,SKU103778,10/01/2025,1,stoped working,145.99,Andrew Johnson
+RET-000307,"ORD-0005498 ",sku-102134,07/25/2024,1,Wrong size ordered,USD 106.30,Priya Mitchell
+RET-000694,ORD-0010647,"SKU-100162 ",10/13/25,2,Found cheaper elsewhere,$43.39,Priya Mitchell
+RET-000075,"ORD-0001412 ","SKU-100995 ",07/16/2023,1.0,not as described,$27.25,Benjamin Kim
+RET-000484,ord-0008086,sku-103243,03/05/2025,1,Found cheaper elsewhere,75.99,Andre Clark
+RET-000589,ORD-0009349,"SKU-102932 ",2025-07-05,1,wrong color,415.99,Tyler Cook
+RET-000249," ORD-0004640",SKU-100502,May 6 2024,1 unit,not as described,USD 51.94,Andre Clark
+RET-000466,ORD-0007861,SKU-101444,Feb 9 2025,1,Arrived too late,33.99,Jason Carter
+RET-000170,ORD0003208,sku-101078,12/20/23,2,Found cheaper elsewhere,180.46,Jeremy Brown
+RET-000007,"ORD-0000045 ",sku-100301,Jan 20 2023,1 unit,Found cheaper elsewhere,90.28,Andre Clark
+RET-000277," ORD-0004900",sku-101054,2024-06-05,1.0,Arrived too late,32.00,Tyler Cook
+RET-000431," ORD-0007432",SKU-102794,Jan 3 2025,1,not as described,15.51,Andre Clark
+RET-000445," ORD-0007635",SKU101488,Jan 18 2025,2 unit,Wrong size ordered,84.58,John Jenkins
+RET-000522,"ORD-0008504 ",sku-101594,04/10/2025,2,Wrong size ordered,115.49,Benjamin Kim
+RET-000340,ORD-0006051,SKU-102366,2024-09-18,2,Wrong size ordered,$19.19,Jeremy Brown
+RET-000124,ORD0002365,sku-102668,2023-09-29,2,Ordered by mistake,$92.85,Hiroshi Stone
+RET-000419,ORD-0007263,"SKU-103520 ",2024-12-18,1,wrong color,USD 71.38,Benjamin Kim
+RET-000410,"ORD-0006991 ",SKU101509,12/12/24,2,not as described,USD 62.45,Priya Mitchell
+RET-000060,ORD-0001268,"SKU-103310 ",6/5/23,1 unit,Changed my mind,$43.23,Benjamin Kim
+RET-000673,ORD0010469,SKU-104059,Sep 27 2025,1.0,Changed my mind,11.89,Andrew Johnson
+RET-000488,ord-0008074,"SKU-102704 ",3/9/25,1 unit,Wrong size ordered,$287.29,John Jenkins
+RET-000318,ord-0005576,SKU103353,08/09/2024,1,No longer needed,$25.31,Benjamin Kim
+RET-000169,ORD-0003254,sku-102271,12/19/2023,2,No longer needed,135.34,Hiroshi Stone
+RET-000709,"ORD-0010811 ",SKU102802,10/27/2025,1 unit,wrong size,USD 25.89,Jeremy Brown
+RET-000707," ORD-0010759",SKU101927,2025-10-26,1,Found cheaper elsewhere,$36.54,Hiroshi Stone
+RET-000143,ORD-0002742,sku-100348,2023-11-08,3.0,No longer needed,93.03,John Jenkins
+RET-000008,ORD0000093,SKU100048,2023-01-21,1,Changed my mind,$57.52,Andrew Johnson
+RET-000455,"ORD-0007826 ",sku-102847,1/29/25,1 unit,Changed my mind,USD 25.99,Tyler Cook
+RET-900012,ORD-9000012,SKU-102606,2024-05-28,1 unit,does not turn on,32.29,Malik Harris
+RET-000041,ORD-0000740,SKU102984,4/15/23,1.0,Found cheaper elsewhere,USD 24.43,Benjamin Kim
+RET-000536,ORD0008703,SKU-102953,05/04/2025,2,Ordered by mistake,$39.98,Andre Clark
+RET-000306,ORD-0005375,"SKU-103211 ",07/23/2024,1.0,wrong size,222.61,Janet Sanders
+RET-000139,ORD-0002580,sku-102495,2023-10-24,1 unit,stoped working,116.55,Jeremy Brown
+RET-000748,ORD0011204,"SKU-102196 ",12/02/2025,2,Found cheaper elsewhere,USD 55.99,Andrew Johnson
+RET-000077,ORD0001649,"SKU-101225 ",7/19/23,1.0,No longer needed,46.62,Malik Harris
+RET-000601,ORD0009566,sku-102436,07/21/2025,1.0,does not turn on,$83.69,Jason Carter
+RET-000715,ORD0011035,SKU-102515,11/9/25,1,Wrong size ordered,USD 29.74,Patricia Ford
+RET-000043,ORD0000708,SKU-101481,04/17/2023,1,Arrived too late,USD 65.98,Malik Harris
+RET-000152,ord-0002965,SKU101181,11/26/2023,2,Arrived too late,114.66,Jeremy Brown
+RET-000619,"ORD-0009743 ",SKU-100767,Aug 4 2025,1 unit,stoped working,$110.99,Malik Harris
+RET-000508,ORD0008317,SKU-102833,2025-03-30,1 unit,No longer needed,54.99,Benjamin Kim
+RET-000127,ORD0002461,"SKU-101181 ",Oct 2 2023,1 unit,Gift return,$57.33,Hiroshi Stone
+RET-000509,ORD-0008354,sku-102009,2025-03-30,1,not as described,5.39,Andrew Johnson
+RET-000529," ORD-0008641","SKU-101556 ",Apr 22 2025,2 unit,stoped working,$21.58,Janet Sanders
+RET-000125,"ORD-0002410 ",SKU103449,10/02/2023,2.0,No longer needed,121.81,Jason Carter
+RET-000492,"ORD-0008204 ","SKU-100301 ",2025-03-14,1,defective unit,USD 90.39,John Jenkins
+RET-000713,ORD-0010983,SKU-100320,2025-11-07,1,Gift return,15.39,Priya Mitchell
+RET-000005,ORD-0000090,"SKU-101610 ",1/19/23,1,wrong size,10.14,Patricia Ford
+RET-000701,ORD0010763,"SKU-101181 ",2025-10-19,1 unit,Gift return,$60.99,Tyler Cook
+RET-000459,ORD-0007859,sku-101488,Feb 2 2025,2 unit,wrong size,84.58,John Jenkins
+RET-000431," ORD-0007432",SKU-102794,Jan 3 2025,1,not as described,15.51,Andre Clark
+RET-000224," ORD-0004283",SKU-102991,03/29/2024,1,No longer needed,65.47,Priya Mitchell
+RET-000156,ord-0003039,"SKU-103449 ",11/29/2023,1.0,not as described,USD 53.29,Benjamin Kim
+RET-000387,ORD-0006673,sku-101181,11/17/2024,2 unit,Found cheaper elsewhere,$118.32,Jason Carter
+RET-000482,ORD-0008060,SKU100462,03/05/2025,1.0,wrong size,16.19,Jeremy Brown
+RET-000609," ORD-0009707",SKU102528,Jul 27 2025,1,Stopped working,40.49,Tyler Cook
+RET-000055,ORD-0001101,SKU-102862,2023-05-21,1.0,Ordered by mistake,19.64,Malik Harris
+RET-000499,ORD0008242,sku-102138,2025-03-21,1.0,wrong size,$34.49,Andrew Johnson
+RET-000586,ORD-0009379,SKU100748,Jul 3 2025,1 unit,No longer needed,USD 65.99,Jason Carter
+RET-000486,"ORD-0008047 ",SKU-100301,03/06/2025,1,wrong size,96.04,Janet Sanders
+RET-000512,"ORD-0008269 ",SKU100239,2025-04-02,1,Found cheaper elsewhere,35.99,John Jenkins
+RET-000698,ORD0010569,"SKU-102495 ",Oct 15 2025,1.0,Wrong size ordered,123.99,Jason Carter
+RET-000149,ORD-0002840,sku-103975,11/20/2023,1,Gift return,54.51,Andrew Johnson
+RET-000777,"ORD-0011529 ","SKU-101113 ",12/15/2025,3,Changed my mind,76.78,Andrew Johnson
+RET-000597,ORD-0009625,SKU-102165,07/15/2025,2,not as described,USD 408.48,Jason Carter
+RET-000650,"ORD-0010190 ",sku-102823,2025-09-01,1.0,No longer needed,$40.79,Benjamin Kim
+RET-000775," ORD-0011337",SKU-100301,12/15/2025,1 unit,does not turn on,$112.99,Malik Harris
+RET-000770,"ORD-0011557 ",sku-103326,Dec 13 2025,1,wrong color,23.39,Jason Carter
+RET-000761,ord-0011417,SKU-100975,12/08/2025,1.0,not as described,USD 21.69,Benjamin Kim
+RET-000717,"ORD-0010997 ",SKU-100301,11/10/2025,1 unit,stopped working,$112.99,Jeremy Brown
+RET-000046,ORD-0000835,SKU-103500,4/29/23,1,Gift return,39.47,Patricia Ford
+RET-000507,ORD-0008262,SKU102629,03/30/2025,1,No longer needed,$50.24,John Jenkins
+RET-000009,ORD-0000133,SKU102088,1/22/23,1.0,wrong color,$28.19,Benjamin Kim
+RET-000683," ORD-0010634",SKU-101357,Oct 5 2025,1,Arrived too late,96.99,Benjamin Kim
+RET-000397,ORD0006808,SKU-100810,2024-11-25,2.0,Found cheaper elsewhere,81.46,Hiroshi Stone
+RET-000480," ORD-0008165",SKU-100320,03/04/2025,1 unit,No longer needed,21.99,Andre Clark
+RET-000300,ORD-0005309,SKU-101033,7/12/24,1,Changed my mind,$220.23,Malik Harris
+RET-000223," ORD-0004275",SKU-100412,3/27/24,2,No longer needed,$18.41,Patricia Ford
+RET-000558,"ORD-0009102 ","SKU-100301 ",May 30 2025,1 unit,defective,USD 101.69,Jason Carter
+RET-000165,ORD-0003113,"SKU-101795 ",Dec 11 2023,1 unit,No longer needed,32.89,Tyler Cook
+RET-000393,ORD0006845,SKU100431,11/21/2024,1,Arrived too late,39.28,John Jenkins
+RET-000198,ORD-0003741,SKU101344,2/2/24,1,wrong size,66.92,Benjamin Kim
+RET-000592,ORD-0009487,SKU102088,Jul 9 2025,2,wrong size,USD 59.98,John Jenkins
+RET-000782,ORD-0011611,"SKU-102629 ",12/19/2025,1,Ordered by mistake,66.99,Jason Carter
+RET-000364,ORD-0006413,SKU100162,Oct 20 2024,1,No longer needed,$25.55,Tyler Cook
+RET-000163," ORD-0003148",sku-101181,Dec 10 2023,1 unit,wrong size,USD 54.46,Andrew Johnson
+RET-000196," ORD-0003546",SKU-101854,01/29/2024,1 unit,Gift return,USD 47.37,Jason Carter
+RET-000651," ORD-0010062",SKU101753,9/2/25,2.0,defectve,165.98,Janet Sanders
+RET-000498,ORD0008251,"SKU-101113 ",3/20/25,2.0,not as described,USD 47.99,Tyler Cook
+RET-000647,ORD-0010161,SKU100209,08/31/2025,1 unit,not as described,44.99,Jeremy Brown
+RET-000616,ORD-0009832,SKU-101488,Aug 2 2025,1,No longer needed,32.89,Hiroshi Stone
+RET-000190," ORD-0003682",SKU100096,Jan 19 2024,1.0,wrong size,56.06,Priya Mitchell
+RET-000798,"ORD-0011703 ",SKU-101488,12/29/2025,1 unit,Found cheaper elsewhere,37.59,Andre Clark
+RET-000322,"ORD-0005622 ",SKU-102261,08/12/2024,1,Arrived too late,134.82,Jason Carter
+RET-000253," ORD-0004677","SKU-102953 ",05/07/2024,1 unit,Arrived too late,19.39,Jeremy Brown
+RET-000568,ORD-0009119,SKU101923,2025-06-11,2,Found cheaper elsewhere,59.98,Hiroshi Stone
+RET-000225,ORD0004150,"SKU-103472 ",03/30/2024,2.0,not as described,164.11,Malik Harris
+RET-000086,ORD-0001840,SKU-100730,08/15/2023,1.0,wrong color,27.16,Benjamin Kim
+RET-000643," ORD-0010102",SKU103310,Aug 25 2025,1 unit,No longer needed,36.79,Hiroshi Stone
+RET-000620,ord-0009839,SKU-102704,8/4/25,1,stopped workng,337.99,Malik Harris
+RET-000231," ORD-0004392",SKU-102473,04/09/2024,1,wrong color,USD 152.86,John Jenkins
+RET-000266,ord-0004509,SKU101952,05/22/2024,1 unit,Gift return,$10.47,Patricia Ford
+RET-000014,ord-0000186,SKU-103449,02/04/2023,1,Ordered by mistake,$76.13,Benjamin Kim
+RET-000217,ORD-0004165,SKU-100129,03/25/2024,1 unit,Found cheaper elsewhere,$58.19,Hiroshi Stone
+RET-000394,ORD-0006830,sku-100755,Nov 23 2024,1 unit,Ordered by mistake,304.57,John Jenkins
+RET-000185,"ORD-0003539 ",sku-101257,1/3/24,1 unit,Ordered by mistake,28.19,Jeremy Brown
+RET-000263," ORD-0004698",SKU100736,May 14 2024,2.0,No longer needed,USD 28.02,Andrew Johnson
+RET-000202," ORD-0003807",SKU-100835,Feb 7 2024,1 unit,Gift return,75.65,Tyler Cook
+RET-000786," ORD-0011687",sku-103641,12/22/2025,4.0,poor qualty,72.16,Andre Clark
+RET-000326,ORD0005780,"SKU-102104 ",08/19/2024,1 unit,Wrong size ordered,74.20,Andre Clark
+RET-000161," ORD-0003151",SKU-101058,2023-12-08,1,wrong color,28.19,Andrew Johnson
+RET-000502," ORD-0008258",SKU-101181,2025-03-23,1,No longer needed,48.79,Priya Mitchell
+RET-000691,"ORD-0010590 ",SKU102932,10/11/25,1,Found cheaper elsewhere,395.19,Benjamin Kim
+RET-000708,ORD-0010753,sku-102243,2025-10-26,1 unit,wrong color,USD 61.59,Jason Carter
+RET-000396," ORD-0006748",SKU-102088,2024-11-25,1.0,not as described,USD 29.09,Andrew Johnson
+RET-000158,ord-0002997,SKU-102606,2023-12-01,1,not as described,31.29,Janet Sanders
+RET-000493,"ORD-0008220 ",SKU-101753,Mar 16 2025,1,Found cheaper elsewhere,$62.24,Benjamin Kim
+RET-000197,ORD-0003687,SKU-100301,01/31/2024,1,Gift return,109.60,John Jenkins
+RET-000755,ORD-0011369,SKU-101472,12/05/2025,2,Wrong size ordered,$509.98,Patricia Ford
+RET-000298,ord-0005308,SKU-104061,7/4/24,1.0,Found cheaper elsewhere,USD 21.33,Andrew Johnson
+RET-000359,ORD-0006357,SKU-103146,Oct 11 2024,1.0,wrong size,USD 42.67,Andre Clark
+RET-000289,ORD-0005136,sku-101594,6/23/24,1.0,wrong color,74.68,Hiroshi Stone
+RET-000220," ORD-0004127",SKU102009,3/27/24,1.0,No longer needed,N/A,Jeremy Brown
+RET-000018,ORD-0000176,SKU-100983,2/14/23,1,wrong color,N/A,Tyler Cook
+RET-000134," ORD-0002467",SKU-101488,2023-10-12,1.0,not as described,$44.17,Jeremy Brown
+RET-000546," ORD-0008891","SKU-100301 ",May 14 2025,1.0,defective unit,107.34,Jeremy Brown
+RET-000653,ORD-0010004,SKU100523,Sep 5 2025,1,wrong size,168.29,Jeremy Brown
+RET-000034,ORD-0000639,sku-100933,2023-04-02,1,No longer needed,$25.37,Andre Clark
+RET-000049,ORD0000977,SKU-101854,5/3/23,1 unit,wrong color,67.67,Priya Mitchell
+RET-000627,ORD-0009857,SKU-102890,Aug 12 2025,1,Wrong size ordered,$19.59,Hiroshi Stone
+RET-000402,ORD-0006925,SKU100794,Dec 2 2024,1,No longer needed,21.43,John Jenkins
+RET-000464," ORD-0007901","SKU-100301 ",02/07/2025,2.0,Wrong size ordered,$203.38,Hiroshi Stone
+RET-000381,ord-0006573,SKU101753,Nov 2 2024,1,No longer needed,$80.50,Malik Harris
+RET-000689," ORD-0010328",sku-100301,10/8/25,2,broke after a week,$225.98,Andre Clark
+RET-000368,ORD-0006452,SKU101923,2024-10-25,1 unit,Arrived too late,$29.09,Malik Harris
+RET-000136,"ORD-0002524 ",sku-104025,10/14/23,1.0,wrong size,$9.39,Jeremy Brown
+RET-000648,ORD-0010157,SKU102138,Aug 31 2025,1 unit,Arrived too late,43.69,Janet Sanders
+RET-000162," ORD-0003065",SKU-102606,Dec 10 2023,1,not as described,34.77,John Jenkins
+RET-000720,ord-0010974,"SKU-101753 ",Nov 15 2025,1 unit,poor quality,$78.84,Patricia Ford
+RET-000725,ord-0011172,sku-102890,11/20/25,4 unit,wrong size,78.37,Janet Sanders
+,,,,,,,
+RET-000718,ORD-0010800,SKU-102436,11/11/2025,1 unit,Arrived too late,$79.04,Priya Mitchell
+RET-000156,ord-0003039,"SKU-103449 ",11/29/2023,1.0,not as described,53.29,Benjamin Kim
+RET-000085,ORD0001843,SKU-102984,8/13/23,1.0,wrong size,$24.43,Priya Mitchell
+RET-000335,"ORD-0005978 ",SKU-100502,09/07/2024,1 unit,Arrived too late,48.88,Priya Mitchell
+RET-000087,ord-0001877,sku-102289,08/15/2023,1,Changed my mind,USD 11.18,Priya Mitchell
+RET-000348,ORD0006174,SKU-100880,Oct 2 2024,3 unit,Wrong size ordered,17.43,Tyler Cook
+RET-000731," ORD-0011207","SKU-103818 ",11/24/25,3,Wrong size ordered,398.38,Andrew Johnson
+RET-000003,ORD-0000033,sku-104059,2023-01-10,1,stopped workng,USD 14.37,Andrew Johnson
+RET-000079,"ORD-0001647 ",SKU-102862,7/20/23,1,Arrived too late,USD 20.67,Patricia Ford
+RET-000460,ORD0007828,"SKU-102261 ",2025-02-04,3.0,defectve,416.97,Andrew Johnson
+RET-000792,ORD-0011759,SKU-100320,12/27/2025,1,Arrived too late,USD 17.59,Priya Mitchell
+RET-000412,ORD-0007071,SKU-101444,12/13/24,1.0,Gift return,24.73,Jason Carter
+RET-000576," ORD-0009059",SKU-100301,2025-06-20,1,stoped working,84.74,Tyler Cook
+RET-000265,ORD-0004823,SKU-101444,2024-05-19,1,No longer needed,USD 32.97,Andre Clark
+RET-000063,ORD-0001363,SKU-101113,Jun 16 2023,1 unit,wrong color,$30.07,Janet Sanders
+RET-000072,ord-0001563,sku-100534,07/07/2023,1 unit,Ordered by mistake,USD 95.87,Tyler Cook
+RET-000273,ORD0004812,SKU101500,2024-05-29,2,Ordered by mistake,$95.04,Jeremy Brown
+RET-000084,ORD0001848,"SKU-103113 ",8/9/23,1,wrong size,USD 263.19,Andre Clark
+RET-000221," ORD-0004156",SKU-102862,2024-03-27,1.0,not as described,$18.13,John Jenkins
+RET-000749,ord-0011222,SKU-103010,2025-12-02,1.0,wrong color,USD 47.99,Priya Mitchell
+RET-000780,ORD-0011545,"SKU-102261 ",2025-12-19,1.0,stoped working,138.99,Patricia Ford
+RET-000660,"ORD-0010330 ",SKU100515,Sep 13 2025,3,Arrived too late,1307.97,Hiroshi Stone
+RET-000175,ORD-0003275,SKU-102833,12/26/23,1,defective unit,51.69,Patricia Ford
+RET-000129,"ORD-0002305 ","SKU-100722 ",10/04/2023,2,Arrived too late,69.54,Jeremy Brown
+RET-000098,ORD-0001974,SKU-101795,2023-08-25,1 unit,Wrong size ordered,27.96,Jason Carter
+RET-000150,ORD0002811,"SKU-103555 ",11/24/23,1 unit,Ordered by mistake,28.19,Malik Harris
+RET-000140," ORD-0002607",SKU101688,2023-10-30,1,Found cheaper elsewhere,$83.65,Janet Sanders
+RET-000489,ORD-0008156,SKU100320,3/9/25,2 unit,No longer needed,USD 32.99,Jeremy Brown
+RET-000350,ORD-0006177,SKU-101113,2024-10-03,1,Gift return,USD 29.48,Janet Sanders
+RET-000207,ORD-0003875,sku-101488,2/22/24,1 unit,wrong color,$45.58,Patricia Ford
+RET-000458,ORD0007834,"SKU-100301 ",2025-02-02,1,Found cheaper elsewhere,112.99,Patricia Ford
+RET-000719,ORD-0011020,SKU100655,Nov 14 2025,1 unit,Arrived too late,USD 14.39,Janet Sanders
+RET-000380,ORD-0006447,SKU-102172,11/2/24,1 unit,wrong color,57.22,John Jenkins
+RET-000527,ORD0008579,SKU-100443,04/20/2025,1,Ordered by mistake,USD 369.74,Jeremy Brown
+RET-000261,ORD-0004716,SKU-101128,May 13 2024,1.0,Arrived too late,43.64,Malik Harris
+RET-000245,ORD-0004565,SKU100577,04/26/2024,2,Wrong size ordered,USD 151.30,Benjamin Kim
+RET-000578," ORD-0009277",SKU102261,06/22/2025,1,does not turn on,138.99,Jason Carter
+RET-000487,ORD-0008164,SKU102104,Mar 8 2025,1 unit,Changed my mind,85.49,Patricia Ford
+RET-000628,ORD-0009951,"SKU-100871 ",Aug 13 2025,1.0,Ordered by mistake,30.59,Andre Clark
+RET-000577,"ORD-0009273 ",SKU-101181,Jun 20 2025,1,wrong size,60.99,Benjamin Kim
+RET-000793,ORD-0011779,SKU-100983,Dec 27 2025,1,wrong size,USD 181.59,Hiroshi Stone
+RET-000688,ORD-0010599,SKU-101509,10/7/25,2,No longer needed,78.18,Andre Clark
+RET-000624,ORD-0009801,SKU-102261,8/7/25,1 unit,does not turn on,USD 104.24,Andrew Johnson
+RET-000317,ord-0005474,sku-101481,08/09/2024,1.0,Gift return,USD 64.30,Malik Harris
+RET-000201," ORD-0003787",SKU103832,2024-02-06,1.0,Arrived too late,15.51,Benjamin Kim
+RET-000264,ORD-0004762,SKU-101444,05/16/2024,1 unit,No longer needed,$32.97,Andrew Johnson
+RET-000446,ORD-0007303,SKU102890,2025-01-19,1,Gift return,21.72,Tyler Cook
+RET-000438,ord-0007583,SKU-102635,01/11/2025,1,Changed my mind,54.36,Hiroshi Stone
+RET-000478,"ORD-0008035 ",SKU-102261,Feb 28 2025,1 unit,not as described,USD 118.14,Malik Harris
+RET-000716,ORD-0010935,"SKU-102436 ",11/10/2025,1,stopped working,USD 74.39,Priya Mitchell
+RET-000579,ORD-0009279,SKU103310,06/22/2025,1 unit,wrong color,$34.49,Benjamin Kim
+RET-000243,"ORD-0004478 ","SKU-101370 ",2024-04-23,1.0,No longer needed,USD 42.77,Hiroshi Stone
+RET-000400,ord-0006848,sku-100325,11/28/24,3.0,wrong size,279.48,Malik Harris
+RET-000238," ORD-0004447",SKU-100674,4/19/24,1,No longer needed,132.88,Hiroshi Stone
+RET-000747,ORD-0011324,SKU-103080,12/1/25,1,poor qualty,54.99,Jeremy Brown
+RET-000525,ORD-0008554,"SKU-101676 ",Apr 16 2025,2,Arrived too late,USD 55.98,Patricia Ford
+RET-000482,ord-0008060,SKU100462,Mar 5 2025,1.0,wrong size,USD 16.19,Jeremy Brown
+RET-000728,ord-0011168,"SKU-100320 ",11/23/25,2,Wrong size ordered,43.98,Janet Sanders
+RET-000248," ORD-0004544",SKU-101795,5/4/24,1,Ordered by mistake,USD 32.24,Janet Sanders
+RET-000001," ORD-0000028",sku-103449,1/8/23,2.0,Gift return,137.03,Hiroshi Stone
+RET-000442,ORD-0007672,SKU-100301,2025-01-16,1 unit,defectve,96.04,Malik Harris
+RET-000126,ord-0002412,SKU-102119,2023-10-02,3.0,Changed my mind,155.07,Priya Mitchell
+RET-000604,ORD-0009620,SKU100301,Jul 26 2025,1,broke after a week,$107.34,Benjamin Kim
+RET-000004,"ORD-0000023 ",SKU101113,01/11/2023,1,Found cheaper elsewhere,$30.07,Jeremy Brown
+RET-000538,ord-0008762,SKU-100320,2025-05-09,4.0,poor quality,87.96,Janet Sanders
+RET-000413," ORD-0007120",sku-102862,12/13/24,1,not as described,USD 21.33,Benjamin Kim
+RET-900013,ORD-9000013,"SKU-102847 ",12/28/25,1,Gift return,$24.69,Tyler Cook
+RET-000029,ORD-0000428,"SKU-103310 ",3/8/23,1,poor qualty,43.23,Priya Mitchell
+RET-000710,"ORD-0010833 ","SKU-102629 ",Oct 28 2025,1,Wrong size ordered,53.59,Jason Carter
+RET-000059,ORD-0001232,SKU-101058,2023-06-03,2,not as described,USD 45.10,Andrew Johnson
+RET-000039,"ORD-0000720 ",SKU-100926,Apr 12 2023,1.0,Changed my mind,USD 44.17,Tyler Cook
+RET-000477,ord-0008071,SKU-101128,Feb 27 2025,2.0,wrong color,USD 85.48,Malik Harris
+RET-000262," ORD-0004764","SKU-100325 ",2024-05-13,1 unit,Wrong size ordered,109.60,Malik Harris
+RET-000788,ORD-0011319,SKU-103353,2025-12-23,1.0,Changed my mind,28.99,Jason Carter
+RET-000092,ORD-0001703,"SKU-101552 ",8/19/23,4,Wrong size ordered,67.64,Jeremy Brown
+RET-000073,ord-0001411,SKU-102635,07/09/2023,1,Stopped working,52.68,Jason Carter
+RET-000360,"ORD-0006385 ",SKU101105,10/11/24,1 unit,poor qualty,$143.55,Jason Carter
+RET-000640,ORD-0010098,SKU103211,2025-08-24,1,Ordered by mistake,229.49,Janet Sanders
+RET-000791,ord-0011633,SKU103778,12/26/2025,1,Wrong size ordered,USD 145.99,Janet Sanders
+RET-000591,ord-0009442,SKU-101064,7/6/25,1,Wrong size ordered,USD 137.99,Tyler Cook
+RET-000570," ORD-0009159",SKU100301,6/12/25,1 unit,does not turn on,112.99,Andrew Johnson
+RET-000560,ORD-0009084,SKU-101753,06/01/2025,1 unit,defectve,82.99,Janet Sanders
+RET-000613,ORD-0009542,SKU-102436,07/31/2025,2,does not turn on,158.08,Andre Clark
+RET-000457,ord-0007818,SKU101105,2025-01-31,1 unit,Wrong size ordered,147.99,John Jenkins
+RET-000706,ORD0010254,"SKU-100577 ",2025-10-26,1 unit,not as described,$77.99,Priya Mitchell
+RET-000146,"ORD-0002756 ",sku-102238,Nov 9 2023,1.0,Gift return,USD 32.89,Janet Sanders
+RET-000122,ord-0002335,"SKU-102565 ",2023-09-27,1 unit,No longer needed,59.92,Janet Sanders
+RET-000028,ORD-0000375,SKU102606,2023-03-03,1,No longer needed,$34.77,Andre Clark
+RET-000746,ORD0011279,sku-100767,Dec 1 2025,1,Arrived too late,USD 147.99,Patricia Ford
+RET-000712,ORD0010865,SKU-103528,Nov 7 2025,1,Wrong size ordered,128.99,Priya Mitchell
+RET-000661,ORD0010343,SKU-101220,9/13/25,1 unit,Wrong size ordered,42.99,Patricia Ford
+RET-000785,ORD0011617,SKU-100301,2025-12-22,1,Defective,$90.39,Benjamin Kim
+RET-000737,ORD-0010951,SKU-102629,Nov 27 2025,2,defective,USD 133.98,Patricia Ford
+RET-000057,ORD0000990,sku-103641,5/29/23,1,Found cheaper elsewhere,17.85,Jeremy Brown
+RET-000439,ORD0007671,SKU-100462,1/12/25,1.0,Poor Quality,USD 17.09,Jason Carter
+RET-000543," ORD-0008799",SKU-102847,05/13/2025,1 unit,No longer needed,USD 20.79,Janet Sanders
+RET-000193,ORD-0003633,"SKU-101488 ",1/25/24,1,Arrived too late,USD 38.74,Janet Sanders
+RET-000102,ORD-0002027,SKU-100655,2023-08-29,3.0,Arrived too late,45.09,John Jenkins
+RET-000599,"ORD-0009654 ","SKU-102261 ",Jul 18 2025,1.0,defective unit,138.99,Jeremy Brown
+RET-000095,"ORD-0001820 ",SKU-100810,Aug 23 2023,2 unit,Changed my mind,78.94,Benjamin Kim
+RET-000032,ORD-0000327,SKU-102110,03/16/2023,2,Arrived too late,93.23,Andrew Johnson
+RET-000594,ord-0009463,SKU-101220,2025-07-11,1 unit,wrong color,$32.24,Andre Clark
+RET-000145,ORD0002704,SKU-100502,Nov 9 2023,1 unit,No longer needed,59.21,Hiroshi Stone
+RET-000204,ord-0003730,"SKU-102134 ",02/12/2024,1,not as described,USD 132.88,Janet Sanders
+RET-000408,ORD-0006999,SKU100348,Dec 11 2024,1 unit,Gift return,USD 27.20,John Jenkins
+RET-000358," ORD-0006364","SKU-103989 ",2024-10-10,1,Changed my mind,USD 85.35,Patricia Ford
+RET-000675,ORD-0010417,SKU100320,Sep 28 2025,1 unit,Changed my mind,USD 21.99,Janet Sanders
+RET-000269,ORD-0004770,sku-102134,5/27/24,1.0,No longer needed,132.88,Malik Harris
+RET-000386,ORD-0006743,SKU-101542,11/14/24,1.0,Wrong size ordered,28.02,Hiroshi Stone
+RET-000020,ORD-0000311,SKU102862,2/17/23,1 unit,Ordered by mistake,$20.67,Malik Harris
+RET-000401,ORD0006903,SKU-103167,11/29/2024,1,wrong color,USD 119.30,Patricia Ford
+RET-000635,ORD-0009921,SKU-100320,Aug 21 2025,2,Found cheaper elsewhere,$37.38,Janet Sanders
+RET-000505,ord-0008350,"SKU-103678 ",2025-03-26,1,wrong size,USD 175.49,Hiroshi Stone
+RET-000736,ORD-0011159,sku-100301,11/26/2025,1,Gift return,USD 96.04,Malik Harris
+RET-000379," ORD-0006598",sku-103225,Oct 31 2024,2,wrong size,49.65,Tyler Cook
+RET-000236,ORD-0004468,"SKU-101113 ",04/16/2024,2,Found cheaper elsewhere,$55.85,Andre Clark
+RET-000485,"ORD-0008167 ","SKU-100655 ",03/05/2025,1.0,not as described,USD 15.99,Priya Mitchell
+RET-000323,ord-0005662,SKU-101128,8/12/24,2.0,wrong size,74.19,Jeremy Brown
+RET-000534,"ORD-0008790 ",SKU-100301,05/01/2025,2,defectve,214.68,Jeremy Brown
+RET-000545,ORD-0008828,SKU100462,May 13 2025,2,Ordered by mistake,35.98,Andre Clark
+RET-000315,ORD-0005536,"SKU-103748 ",Aug 5 2024,3,Changed my mind,183.30,Jason Carter
+RET-000790,ORD-0011594,SKU-101753,2025-12-26,4.0,defective unit,$282.17,Benjamin Kim
+RET-000421,ORD-0007250,sku-100320,12/19/24,1,Changed my mind,$17.06,Tyler Cook
+RET-000357,ORD-0006221,"SKU-100933 ",2024-10-10,2,Changed my mind,$52.36,Janet Sanders
+RET-000540,ORD-0008858,sku-102629,May 10 2025,3 unit,not as described,150.73,Andrew Johnson
+RET-000511,ORD-0008367,SKU-102890,Apr 1 2025,1,Changed my mind,USD 26.59,Janet Sanders
+RET-000462,ord-0007926,SKU-102932,2025-02-06,2 unit,defective unit,$831.98,Benjamin Kim
+RET-000618,ORD-0009727,sku-102138,2025-08-03,1,Gift return,USD 39.09,Priya Mitchell
+RET-000427,"ORD-0007441 ",sku-101181,Dec 30 2024,4,not as described,236.64,Priya Mitchell
+RET-000602,ORD0009690,SKU100767,Jul 21 2025,2.0,wrong color,$295.98,Hiroshi Stone
+RET-000491,ORD-0008248,SKU-103778,Mar 11 2025,1,does not turn on,145.99,John Jenkins
+RET-000390,ORD-0006638,"SKU-102134 ",11/19/2024,1,wrong size,132.88,Janet Sanders
+RET-000265,ORD-0004823,SKU-101444,2024-05-19,1,No longer needed,USD 32.97,Andre Clark
+RET-000687,ORD0010587,SKU-100301,2025-10-07,1.0,stopped working,112.99,Andre Clark
+RET-000010,ORD-0000064,sku-102009,01/25/2023,1,Changed my mind,4.79,Tyler Cook
+RET-000434,ORD-0007468,SKU-102862,1/9/25,4,not as described,USD 68.26,Patricia Ford
+RET-000409,ORD-0007135,SKU-100162,12/11/24,2,wrong size,$60.12,Malik Harris
+RET-000178,ORD0003332,"SKU-102953 ",Dec 28 2023,1,Defective,15.03,John Jenkins
+RET-000298,ord-0005308,SKU-104061,07/04/2024,1.0,Found cheaper elsewhere,21.33,Andrew Johnson
+RET-000804," ORD-0011757","SKU-103778 ",12/31/25,1,wrong size,145.99,Andre Clark
+RET-000027,ORD-0000400,SKU103310,3/2/23,1 unit,Gift return,43.23,Jason Carter
+RET-000342,ORD-0006037,SKU101113,2024-09-20,1,wrong size,N/A,Jason Carter
+RET-000595,ord-0009535,SKU-100180,Jul 11 2025,1,defective,$53.54,Andre Clark
+RET-000416,ORD0007165,SKU-103234,12/16/2024,1 unit,wrong color,$9.30,Janet Sanders
+RET-000074,"ORD-0001536 ","SKU-102932 ",2023-07-12,1,not as described,$312.82,Andrew Johnson
+RET-000654," ORD-0010019",SKU-100320,9/5/25,1,Found cheaper elsewhere,18.69,Patricia Ford
+RET-000205,"ORD-0003873 ",SKU102289,Feb 20 2024,1 unit,wrong size,11.53,Andrew Johnson
+RET-000275,ORD-0004878,"SKU-102138 ",2024-06-01,1 unit,Wrong size ordered,44.61,Andrew Johnson
+RET-000680,"ORD-0010578 ",SKU-100301,2025-10-04,1,defective,112.99,Hiroshi Stone
+RET-000182,ORD-0003448,"SKU-100933 ",Jan 2 2024,3,Wrong size ordered,60.89,Benjamin Kim
+RET-000463,ord-0007884,sku-102953,Feb 7 2025,1.0,Wrong size ordered,USD 19.99,Janet Sanders
+RET-000331,ORD-0005747,"SKU-102629 ",09/05/2024,1 unit,Wrong size ordered,64.98,Andre Clark
+RET-000151,ORD-0002937,SKU-102478,Nov 24 2023,4,not as described,52.60,Malik Harris
+RET-000769,ORD-0011599,SKU-103641,2025-12-12,1,Found cheaper elsewhere,15.19,John Jenkins
+RET-000101,ORD0002047,"SKU-100780 ",8/28/23,1.0,Ordered by mistake,75.10,Patricia Ford
+RET-000030,ORD-0000423,"SKU-102794 ",03/08/2023,1.0,poor qualty,USD 18.79,Tyler Cook
+RET-000082,ORD0001732,"SKU-100301 ",Jul 31 2023,1,Poor Quality,106.21,Andre Clark
+RET-000111,ORD-0002257,sku-100239,Sep 13 2023,1.0,not as described,36.09,Priya Mitchell
+RET-000053,ORD-0001046,"SKU-100038 ",2023-05-15,2.0,Ordered by mistake,62.02,Andre Clark
+RET-000695,ORD-0010663,sku-100523,10/13/2025,1,Found cheaper elsewhere,197.99,Priya Mitchell
+RET-000662,ord-0010290,SKU-100325,2025-09-14,3 unit,No longer needed,$338.97,Janet Sanders
+RET-000724,"ORD-0011146 ",SKU-103074,2025-11-20,1 unit,Wrong size ordered,USD 60.89,Andrew Johnson
+RET-000652,ord-0009954,SKU-100648,Sep 3 2025,1.0,wrong color,61.99,Jason Carter
+RET-000069,ORD-0001452,sku-103201,Jun 26 2023,2.0,Found cheaper elsewhere,75.18,Jeremy Brown
+RET-000636,"ORD-0010049 ",SKU-102571,2025-08-22,1.0,Ordered by mistake,220.14,Hiroshi Stone
+RET-000240," ORD-0004384",SKU-103310,Apr 20 2024,2,Wrong size ordered,89.22,Jeremy Brown
+RET-000774,"ORD-0011154 ",SKU-100767,12/15/25,1 unit,stopped workng,$147.99,Janet Sanders
+RET-000721,ORD-0011152,SKU102984,11/16/2025,1 unit,Wrong size ordered,20.79,John Jenkins
+RET-000171,ORD-0003284,"SKU-103211 ",12/24/23,1 unit,not as described,203.03,Malik Harris
+RET-000690,ORD-0010419,SKU-102629,10/9/25,1.0,wrong color,66.99,Tyler Cook
+RET-000523,ORD-0008544,SKU-100320,4/10/25,1,Arrived too late,$21.99,John Jenkins
+RET-000285,"ORD-0005102 ",SKU102635,Jun 16 2024,2,No longer needed,USD 114.44,Priya Mitchell
+RET-000328,ord-0005796,SKU-102964,2024-08-21,1,Changed my mind,$74.68,Priya Mitchell
+RET-000296,ORD-0005223,SKU-100975,Jul 2 2024,1,Found cheaper elsewhere,27.05,Jason Carter
+RET-000135,"ORD-0002514 ",SKU100301,2023-10-13,1.0,Ordered by mistake,95.59,Benjamin Kim
+RET-000382,ORD-0006636,SKU-101618,2024-11-07,1.0,defective,56.25,Benjamin Kim
+RET-000803,ORD0011824,sku-100301,12/30/25,1.0,stopped working,112.99,Malik Harris
+RET-000187,"ORD-0003503 ",SKU102890,01/07/2024,2,Arrived too late,47.36,Andrew Johnson
+RET-000180,ord-0003368,SKU103520,2023-12-31,1,Changed my mind,86.47,Janet Sanders
+RET-000352,"ORD-0006287 ",SKU-102629,Oct 3 2024,3,Found cheaper elsewhere,194.94,Andre Clark
+RET-000612,ORD-0009661,"SKU-101472 ",2025-07-30,1.0,Arrived too late,USD 254.99,Jeremy Brown
+RET-000607,ORD-0009766,sku-100320,2025-07-26,1.0,Ordered by mistake,$21.99,Patricia Ford
+RET-000665,ORD-0010297,SKU-102436,2025-09-17,2 unit,stopped workng,$148.78,Jeremy Brown
+RET-000292,ORD-0004997,sku-101488,06/28/2024,1,wrong size,45.58,Hiroshi Stone
+RET-000549,ORD-0008900,"SKU-101575 ",5/15/25,2,Found cheaper elsewhere,$33.98,Tyler Cook
+RET-000471,ord-0007858,SKU100038,Feb 16 2025,1.0,Gift return,USD 31.34,Benjamin Kim
+RET-000184,ORD0003424,SKU-100736,2024-01-03,2,wrong color,$31.94,Jason Carter
+RET-000556,ord-0009031,sku-100301,May 29 2025,1.0,defective,112.99,Jason Carter
+RET-000011,"ORD-0000110 ",SKU102606,1/28/23,1 unit,Found cheaper elsewhere,USD 34.77,John Jenkins
+RET-000684,ORD-0010448,SKU100767,2025-10-06,1,poor qualty,USD 125.79,Benjamin Kim
+RET-000669,ORD-0010463,"SKU-102261 ",9/23/25,1 unit,Poor Quality,N/A,Tyler Cook
+RET-000544,ORD-0008820,"SKU-103389 ",2025-05-13,1,No longer needed,34.84,Patricia Ford
+RET-900009,ORD-9000009,"SKU-100748 ",Aug 8 2024,2,No longer needed,$128.02,Jeremy Brown
+RET-000241,ORD-0004468,SKU103724,Apr 20 2024,3,Changed my mind,$68.07,Andrew Johnson
+RET-000541,ORD-0008840,"SKU-100301 ",5/11/25,3.0,defectve,271.18,Priya Mitchell
+RET-000528,ord-0008594,SKU-100301,04/21/2025,1.0,broke after a week,USD 112.99,Malik Harris
+RET-000103," ORD-0002127","SKU-102528 ",Sep 3 2023,1,wrong size,USD 50.75,Andre Clark
+RET-000256,ord-0004707,SKU103353,05/08/2024,1 unit,Arrived too late,22.50,Janet Sanders
+RET-000778," ORD-0011475",SKU-100301,12/18/2025,1,Stopped working,84.74,Jeremy Brown
+RET-000022,ORD-0000252,"SKU-101113 ",Feb 22 2023,1.0,Arrived too late,30.07,Andrew Johnson
+RET-000503,ORD-0008235,SKU101320,Mar 24 2025,2,poor quality,193.78,Priya Mitchell
+RET-000765,"ORD-0011370 ",SKU-100301,Dec 11 2025,2.0,Ordered by mistake,180.78,Priya Mitchell
+RET-000729,ORD-0011080,"SKU-102862 ",11/24/2025,1,poor qualty,15.39,Janet Sanders
+RET-000411,"ORD-0007044 ",sku-104014,12/13/24,1.0,Arrived too late,$21.33,Janet Sanders
+RET-000752,ord-0011354,sku-100526,12/03/2025,2 unit,not as described,$159.98,Benjamin Kim
+RET-000081," ORD-0001726",SKU-100301,07/25/2023,2.0,wrong size,$212.42,Priya Mitchell
+RET-000454,ORD-0007725,SKU-101618,Jan 26 2025,2,wrong color,115.98,Jeremy Brown
+RET-000500,"ORD-0008293 ",SKU-102862,3/21/25,1,Found cheaper elsewhere,20.89,Andre Clark
+RET-000015,ORD-0000062,SKU-101923,2/6/23,2,not as described,$45.10,Jeremy Brown
+RET-000658,ORD-0010145,SKU100767,2025-09-08,1.0,Stopped working,USD 147.99,Jason Carter
+RET-000705," ORD-0010795",SKU-101113,10/25/2025,1,not as described,22.39,Andre Clark
+RET-000626,ORD-0009856,SKU-100633,2025-08-09,1,not as described,101.59,Hiroshi Stone
+RET-000789,ord-0011725,SKU-102261,Dec 24 2025,1,stopped workng,USD 111.19,Jason Carter
+RET-000553," ORD-0008970",SKU-103788,May 22 2025,1 unit,Found cheaper elsewhere,USD 113.99,Jason Carter
+RET-000783,ORD0011653,SKU-101509,2025-12-19,1,Gift return,45.99,Priya Mitchell
+RET-000581,ORD-0009094,SKU-101339,2025-06-25,1 unit,Arrived too late,40.99,Benjamin Kim
+RET-000378,ORD-0006538,"SKU-103850 ",Oct 31 2024,1,No longer needed,51.40,Tyler Cook
+RET-000734,"ORD-0011150 ",SKU-103074,11/25/2025,4,Wrong size ordered,USD 347.96,Hiroshi Stone
+RET-000177,ORD0003456,SKU100722,12/27/23,1 unit,Stopped working,27.82,Tyler Cook
+RET-000740,ORD0011156,SKU-100301,11/30/25,1.0,Wrong size ordered,$112.99,Hiroshi Stone
+RET-000276,ORD0004979,SKU-102629,Jun 4 2024,2,Arrived too late,$103.97,John Jenkins
+RET-000339,ORD-0006070,sku-103010,2024-09-16,1,Arrived too late,USD 39.57,Andre Clark
+RET-000436,ORD-0007605,"SKU-103055 ",01/10/2025,1.0,wrong size,149.37,Hiroshi Stone
+RET-000100,ORD0002023,SKU-100736,8/28/23,1 unit,Arrived too late,USD 13.57,Patricia Ford
+RET-000362,ORD-0006325,SKU102104,2024-10-13,3 unit,Wrong size ordered,USD 261.87,Janet Sanders
+RET-000655,ORD-0010231,SKU-100472,09/06/2025,2.0,Arrived too late,12.58,Jason Carter
+RET-000426,ORD-0007287,SKU-101900,2024-12-30,3,poor qualty,63.99,Tyler Cook
+RET-000539,"ORD-0008834 ",SKU103822,May 10 2025,3 unit,Changed my mind,USD 77.97,Andrew Johnson
+RET-000219,ORD-0004203,SKU-101181,3/25/24,2,Ordered by mistake,94.66,Andrew Johnson
+RET-000450,"ORD-0007645 ",SKU-102138,2025-01-24,1,wrong color,45.99,Jason Carter
+RET-000776,ORD-0011524,"SKU-102165 ",12/15/2025,1,stoped working,USD 214.99,Janet Sanders
+RET-000524,"ORD-0008539 ",SKU-100301,Apr 14 2025,1,Stopped working,112.99,Priya Mitchell
+RET-000461,ORD-0007851,SKU-104114,2025-02-05,2,No longer needed,59.98,Andre Clark
+RET-000019,"ORD-0000275 ",SKU100893,2/15/23,1,No longer needed,$31.01,Andre Clark
+RET-000587,ORD-0009472,SKU-102436,2025-07-03,2,poor qualty,185.98,Jeremy Brown
+RET-000316,ORD0005482,"SKU-100748 ",Aug 8 2024,2,No longer needed,$128.02,Jeremy Brown
+RET-000406,ORD-0006969,SKU-100577,12/8/24,1 unit,Gift return,60.52,Jeremy Brown
+RET-000674,ORD-0010399,SKU-102165,Sep 28 2025,1 unit,Changed my mind,USD 214.99,Jeremy Brown
+RET-000228,ORD-0004295,SKU-100055,2024-04-05,1.0,wrong size,USD 32.00,John Jenkins
+RET-000311," ORD-0005339",SKU100975,07/30/2024,1 unit,Ordered by mistake,$25.55,Malik Harris
+RET-000582,ORD-0009356,sku-102261,2025-06-27,1 unit,defectve,$138.99,Benjamin Kim
+RET-000580," ORD-0009290",SKU100755,6/24/25,1 unit,Arrived too late,313.99,Hiroshi Stone
+RET-000723,ORD-0011122,SKU-102261,Nov 19 2025,1,No longer needed,USD 138.99,Andrew Johnson
+RET-000338,ORD0005804,"SKU-102635 ",2024-09-12,1,wrong size,48.64,Andrew Johnson
+RET-000664,ORD-0010083,sku-101509,09/17/2025,1,poor quality,36.79,Jason Carter
+RET-000584,"ORD-0009435 ",sku-102436,07/01/2025,1.0,Found cheaper elsewhere,88.34,Patricia Ford
+RET-000064,ord-0001346,SKU-101472,2023-06-19,1,Gift return,239.69,Priya Mitchell
+RET-000630," ORD-0009954",SKU-103897,8/14/25,1,Found cheaper elsewhere,11.99,Andre Clark
+RET-000435,"ORD-0007640 ",SKU100301,Jan 9 2025,1,defectve,USD 101.69,Priya Mitchell
+RET-000254,ord-0004701,SKU-102606,5/7/24,1.0,wrong color,30.50,Jason Carter
+RET-000108,ORD-0002156,sku-102271,Sep 8 2023,1 unit,Poor Quality,54.14,Tyler Cook
+RET-900014,ORD-9000014,"SKU-103850 ",12/31/24,1 unit,wrong color,41.12,John Jenkins
+RET-000200,ORD-0003714,SKU100162,2/6/24,1,Gift return,24.05,Andre Clark
+RET-000563,ORD-0009205,"SKU-102953 ",2025-06-06,1.0,Found cheaper elsewhere,19.99,Priya Mitchell
+RET-000272,"ORD-0004897 ",SKU102850,05/28/2024,1.0,not as described,N/A,Hiroshi Stone
+RET-000137,ORD-0002493,sku-102526,10/15/23,1,not as described,156.97,Andre Clark
+RET-000682,"ORD-0010456 ",sku-102088,10/5/25,1,Changed my mind,29.99,Jeremy Brown
+RET-000565,ORD0009083,SKU100933,2025-06-09,2,wrong size,48.58,Andrew Johnson
+RET-000388,ORD0006751,SKU102579,11/17/2024,2,wrong size,100.86,Benjamin Kim
+RET-000252,ORD-0004665,sku-101556,05/07/2024,1.0,not as described,$11.63,John Jenkins
+RET-000677,ord-0010440,"SKU-101113 ",2025-09-30,1,wrong color,USD 31.99,Janet Sanders
+RET-000285,"ORD-0005102 ",SKU102635,Jun 16 2024,2,No longer needed,USD 114.44,Priya Mitchell
+RET-000144,ord-0002693,SKU-101651,2023-11-09,3.0,Gift return,47.91,Jeremy Brown
+RET-000617,ord-0009846,SKU104025,2025-08-02,1,wrong color,USD 8.99,Andre Clark
+RET-000160,ORD-0003067,SKU-100215,2023-12-07,2,Changed my mind,$69.08,Priya Mitchell
+RET-000497,ORD-0008246,"SKU-100348 ",3/19/25,2 unit,not as described,$62.68,John Jenkins
+RET-000050,"ORD-0000923 ","SKU-101488 ",May 12 2023,1,Arrived too late,USD 41.96,John Jenkins
+RET-000255,ORD-0004634,SKU-101181,May 8 2024,1.0,Changed my mind,59.16,Andrew Johnson
+RET-000284," ORD-0005069","SKU-103449 ",2024-06-16,1.0,No longer needed,USD 78.56,Andrew Johnson
+RET-000766,ORD-0011540,SKU100162,12/11/25,1,Found cheaper elsewhere,$20.14,Andre Clark
+RET-000722,ORD0011156,SKU103310,11/16/2025,1 unit,stopped workng,45.99,Priya Mitchell
+RET-000259,"ORD-0004605 ",SKU102956,5/11/24,1,wrong color,$25.60,Janet Sanders
+RET-000250,ord-0004631,SKU-102373,May 7 2024,1,Wrong size ordered,$52.37,Priya Mitchell
+RET-000754,ord-0011305,SKU-101594,2025-12-05,1,wrong size,$65.44,Benjamin Kim
+RET-000047,"ORD-0000949 ",SKU101113,May 3 2023,1,Found cheaper elsewhere,25.56,Andre Clark
+RET-900015,ORD-9000015,"SKU-102629 ",Oct 28 2025,1,Wrong size ordered,53.59,Jason Carter
+RET-000246,ORD-0004432,SKU-101113,04/27/2024,2 unit,Changed my mind,USD 62.06,Hiroshi Stone
+RET-000519," ORD-0008468",SKU-100348,04/08/2025,1.0,wrong color,32.99,Hiroshi Stone
+RET-000334,"ORD-0005883 ",SKU-102138,9/7/24,1,wrong size,44.61,Benjamin Kim
+RET-000726,ord-0011074,SKU-102261,2025-11-22,1 unit,defective,USD 138.99,Benjamin Kim
+RET-000232,"ORD-0004398 ",SKU-100893,Apr 12 2024,1.0,wrong size,32.00,John Jenkins
+RET-000520,ORD-0008417,sku-103449,2025-04-10,1,defectve,60.74,Tyler Cook
+RET-000768,"ORD-0011503 ",SKU100320,12/12/25,2,Ordered by mistake,USD 28.59,Patricia Ford
+RET-000373,ORD0006517,SKU-100209,10/28/24,1,wrong size,$43.64,Andrew Johnson
+RET-000407,ORD-0007060,SKU102104,12/09/2024,1 unit,Ordered by mistake,87.29,Hiroshi Stone
+RET-000142,ord-0002631,SKU-102134,11/06/2023,1 unit,Changed my mind,128.77,Benjamin Kim
+RET-000209,ord-0003960,SKU102066,Feb 25 2024,1,Ordered by mistake,167.36,John Jenkins
+RET-000743,ORD-0011249,sku-102890,11/30/25,1.0,Changed my mind,$25.19,Benjamin Kim
+RET-000405,ord-0006905,SKU-100933,2024-12-07,1.0,Wrong size ordered,26.18,Patricia Ford
+RET-000189,ord-0003491,SKU-104149,2024-01-18,1.0,Found cheaper elsewhere,N/A,Janet Sanders
+RET-000453,ORD-0007693,SKU-101610,2025-01-25,1,Wrong size ordered,9.59,Jason Carter
+RET-000024,ORD-0000350,"SKU-103700 ",2/26/23,1.0,Found cheaper elsewhere,61.61,Tyler Cook
+RET-000115,ORD-0002264,SKU-102104,Sep 15 2023,1,not as described,$76.13,John Jenkins
+RET-000120,ORD-0002388,SKU102165,9/24/23,1,Gift return,171.78,Malik Harris
+RET-000173,ord-0003255,SKU-100502,Dec 25 2023,1 unit,Ordered by mistake,47.37,Tyler Cook
+RET-000779," ORD-0011540",sku-100983,12/18/2025,3.0,Gift return,442.63,John Jenkins
+RET-000294,ORD-0005233,sku-102088,2024-06-29,1.0,Changed my mind,USD 26.18,Priya Mitchell
+RET-000355,"ORD-0006195 ",SKU-101923,10/8/24,1 unit,Gift return,26.18,Janet Sanders
+RET-000551,ORD-0008868,SKU-103797,2025-05-20,1.0,No longer needed,57.99,Hiroshi Stone
+RET-000363,ORD-0006298,sku-101333,10/15/24,1,Found cheaper elsewhere,$63.04,Jason Carter
+RET-000065," ORD-0001277",SKU103765,6/20/23,2,No longer needed,"1,079.10",Andrew Johnson
+RET-000603,ORD-0009695,"SKU-100301 ",07/24/2025,1,stopped working,$112.99,Hiroshi Stone
+RET-000031,ORD-0000493,"SKU-102495 ",03/12/2023,2.0,Found cheaper elsewhere,USD 209.79,Priya Mitchell
+RET-000216," ORD-0004157",sku-102890,03/23/2024,2.0,No longer needed,48.87,Tyler Cook
+RET-000641,"ORD-0010091 ",SKU-101181,2025-08-24,1,wrong size,$60.99,Andre Clark
+RET-000157,ORD-0003034,SKU-101552,11/30/2023,1.0,not as described,USD 14.37,Hiroshi Stone
+RET-000366,ORD-0006450,SKU-102833,10/21/24,1,wrong size,53.34,Priya Mitchell
+RET-000693," ORD-0010692",SKU102932,10/12/25,2,defective,USD 831.98,Malik Harris
+RET-900010,ORD-9000010,SKU-102261,Feb 28 2025,1 unit,not as described,USD 118.14,Malik Harris
+RET-000625,ORD-0009798,SKU-102629,Aug 8 2025,1.0,Found cheaper elsewhere,$50.24,Jeremy Brown
+RET-000116,ORD0002298,SKU-102104,Sep 15 2023,2,Changed my mind,169.18,Priya Mitchell

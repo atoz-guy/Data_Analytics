@@ -1,0 +1,31 @@
+store_code,store_name,store_format,store_city,region_name
+ST017,Dallas Downtown Mall,Mall,Dallas,Southwest
+ST011,Seattle Lakeside Outlet,Outlet,Seattle,West
+ST028,Chicago Lakeside Outlet,Outlet,Chicago,Midwest
+ST006,Denver Riverside Outlet,Outlet,Denver,Southwest
+ST016,Phoenix Parkway Street,Street,PHOENIX,Southwest
+ST019,Minneapolis Midtown Street,Street, Minneapolis  ,Midwest
+ST023,San Francisco Crossroads Mall,Mall,San Francisco,West
+ST007,Charlotte Riverside Mall,Mall,Charlotte,Southeast
+ST018,Hartford Crossroads Street,Street,Hartford,Northeast
+ST014,Nashville Crossroads Street,Street,Nashville,Southeast
+ST026,Philadelphia Parkway Mall,Mall,Philadelphia,Northeast
+ST020,Detroit Crossroads Mall,Mall,Detroit,Midwest
+ST030,Boston Riverside Mall,Mall,Boston,Northeast
+ST029,Portland Parkway Street,Street,Portland,West
+ST012,San Diego Riverside Street,Street,San Diego,West
+ST010,Atlanta Lakeside Street,Street,Atlanta,Southeast
+ST002,New York Parkway Mall,Mall,New York,Northeast
+ST027,Houston Downtown Street,Street,Houston,Southwest
+ST013,Newark Lakeside Street,Street,Newark,Northeast
+ST009,St. Louis Downtown Mall,Mall,St Louis,Midwest
+ST021,Los Angeles Crossroads Outlet,Outlet,Los Angeles,West
+ST008,Milwaukee Midtown Mall,Mall,milwaukee ,Midwest
+ST025,Columbus Crossroads Mall,Mall,Columbus,Midwest
+ST003,San Antonio Northgate Mall,Mall,San Antonio,Southwest
+ST022,Pittsburgh Northgate Mall,Mall,PITTSBURGH,Northeast
+ST001,Las Vegas Parkway Street,Street,Las Vegas,West
+ST024,Tampa Westfield Road Mall,Mall,TAMPA,Southeast
+ST015,Miami Riverside Mall,Mall,Miami,Southeast
+ST005,Austin Lakeside Street,Street,Austin,Southwest
+ST004,Orlando Westfield Road Street,Street,Orlando,Southeast

@@ -1,0 +1,61 @@
+promo_code,promo_name,promo_type
+NONE,No promotion,No promotion
+PR0055,Presidents Day Sale,Percent Off
+PR0001,Northeast Weekend Deals,Regional
+PR0020,Southeast Neighborhood Sale,Regional
+PR0005,Southwest Neighborhood Sale,Regional
+PR0057,West Hometown Savings,Regional
+PR0058,Spring Savings,Percent Off
+PR0006,Memorial Day Sale,Percent Off
+PR0051,Fourth of July Sale,Percent Off
+PR0024,Back to School,Category Sale
+PR0054,Labor Day Sale,Percent Off
+PR0007,Northeast Neighborhood Sale,Regional
+PR0027,West Hometown Savings,Regional
+PR0039,Southwest Neighborhood Sale,Regional
+PR0033,Southeast Weekend Deals,Regional
+PR0045,Black Friday,Doorbuster
+PR0013,Cyber Monday,Doorbuster
+PR0042,Holiday Savings,Percent Off
+PR0044,New Year Clearance,Clearance
+PR0012,Presidents Day Sale,Percent Off
+PR0029,Southwest Member Days,Regional
+PR0026,Southeast Member Days,Regional
+PR0025,Northeast Neighborhood Sale,Regional
+PR0059,West Neighborhood Sale,Regional
+PR0016,Spring Savings,Percent Off
+PR0060,Memorial Day Sale,Percent Off
+PR0030,Fourth of July Sale,Percent Off
+PR0015,Midwest Neighborhood Sale,Regional
+PR0011,Back to School,Category Sale
+PR0048,Midwest Weekend Deals,Regional
+PR0031,Labor Day Sale,Percent Off
+PR0037,Midwest Hometown Savings,Regional
+PR0047,Midwest Member Days,Regional
+PR0050,Black Friday,Doorbuster
+PR0002,Cyber Monday,Doorbuster
+PR0018,Midwest Neighborhood Sale,Regional
+PR0028,Holiday Savings,Percent Off
+PR0046,New Year Clearance,Clearance
+PR0052,Midwest Member Days,Regional
+PR0056,Presidents Day Sale,Percent Off
+PR0019,Midwest Neighborhood Sale,Regional
+PR0032,Midwest Neighborhood Sale,Regional
+PR0010,Spring Savings,Percent Off
+PR0036,Southwest Neighborhood Sale,Regional
+PR0035,West Hometown Savings,Regional
+PR0003,Northeast Member Days,Regional
+PR0014,Midwest Weekend Deals,Regional
+PR0053,Memorial Day Sale,Percent Off
+PR0034,Midwest Member Days,Regional
+PR0040,Fourth of July Sale,Percent Off
+PR0022,Midwest Member Days,Regional
+PR0023,Back to School,Category Sale
+PR0049,Labor Day Sale,Percent Off
+PR0008,Midwest Hometown Savings,Regional
+PR0009,Midwest Neighborhood Sale,Regional
+PR0043,Midwest Neighborhood Sale,Regional
+PR0038,Black Friday,Doorbuster
+PR0021,Cyber Monday,Doorbuster
+PR0041,Holiday Savings,Percent Off
+PR0004,New Year Clearance,Clearance
