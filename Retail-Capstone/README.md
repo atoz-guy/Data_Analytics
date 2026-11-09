@@ -36,15 +36,15 @@ If both were recovered, 2025 gross profit could have been about $185,406, or 16.
 
 **Summary**
 
-![Summary page](screenshots/summary.png)
+![Summary page](Capstone_Screen_Shots/Dashboard_Summary_screen_shot.png)
 
 **MidWest**
 
-![MidWest page](screenshots/midwest.png)
+![MidWest page](Capstone_Screen_Shots/Dashboard_MidWest_screen_shot.png)
 
 **Kelvane**
 
-![Kelvane page](screenshots/kelvane.png)
+![Kelvane page](Capstone_Screen_Shots/Dashboard_Kelvane_screen_shot.png)
 
 ## Tools and Steps
 
