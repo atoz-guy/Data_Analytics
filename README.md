@@ -140,9 +140,7 @@ folders and case studies.
 
 ### Featured Projects
 
-1. **[Project Name](link-to-project)** — Brief description
-2. **[Project Name](link-to-project)** — Brief description
-3. **[Project Name](link-to-project)** — Brief description
+- **[Retail Capstone: Why Did Profit Fall When Revenue Grew?](Retail-Capstone/)**: Used SQL, Excel, Python and Power BI to find out why 2025 profit fell 6.8% while revenue grew 12.0%. Found two main causes: heavy Midwest discounts and a spike in Kelvane brand returns.
 
 ## Portfolio Growth
 
