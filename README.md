@@ -50,6 +50,8 @@ SDI was the foundation of my data analytics journey.
 
 ## Google Data Analytics & Advanced Analytics
 
+**Certificate earned:** Google Data Analytics
+
 My Google Analytics work focuses on user behavior, website performance,
 traffic sources, and conversions.
 
